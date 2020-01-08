@@ -55,7 +55,7 @@ img {
 
 ## College Projects:
 
-#### National College of Ireland (2019/2020)
+## National College of Ireland (2019/2020)
 
 <div class="box">
 	<h3>J.I.M. Games - Group Project - Dynamic Webpage</h3>
@@ -98,7 +98,7 @@ img {
 	</div>
 </div>
 
-#### Athlone Institute of Technology (2018)
+## Athlone Institute of Technology (2018)
 
 <div class="box">
 	<h3>JR Boating - Group Project - Dynamic Webpage</h3>
@@ -141,7 +141,7 @@ img {
 	</div>
 </div>
 
-#### Limerick Institute of Technology (2018)
+## Limerick Institute of Technology (2018)
 
 <div class="box">
 	<h3>Jor_Net: Networked Games Library</h3>
