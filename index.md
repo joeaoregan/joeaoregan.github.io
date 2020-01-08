@@ -42,10 +42,6 @@ img {
 	text-align: center;
 	width: 100%;
 }
-
-.vert {
-	height: 100%;
-}
 </style>
 
 # Links
@@ -68,7 +64,11 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			<h4>NCI, HDip in Cyber Security</h4>
 			<h5>Web Design Group Project (2019)</h5>
 			<div>
-				Group project with HTML5 Canvas Games and audio, embedded Google Map, local storage to store form data and scores, Deployment to Heroku and Gear Host
+				Group project with HTML5 Canvas Games and audio, embedded Google Map, local storage to store form data and scores, Deployment to Heroku and Gear Host. Games include 
+				<a href="http://www.jimgames.site/antibody.html" target="_blank">Antibody</a>, 
+				<a href="http://www.jimgames.site/flappybird.html" target="_blank">Flappy Bird</a>, 
+				<a href="http://www.jimgames.site/spaceinvaders.html" target="_blank">Space Invaders</a>, and 
+				<a href="https://jimgames.herokuapp.com/connect5.html" target="_blank">Connect 5</a> (Online Multiplayer)
 			</div>
 			<div>
 				<h5>Technologies Used</h5>
