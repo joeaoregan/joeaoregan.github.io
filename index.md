@@ -30,6 +30,9 @@
 h4 {
 	text-align: center;
 }
+h5, h6 {
+	padding-left: 5%;
+}
 img {
 	position:  absolute;
 	top: 0;
