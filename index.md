@@ -56,12 +56,12 @@ img {
 Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps (e.g. [www.jimgames.site](http://www.jimgames.site) hosted on Gear Host).
 
 ## National College of Ireland (2019/2020)
+### HDip in Cyber Security
 
 <div class="box">
 	<h3>J.I.M. Games - Group Project - Dynamic Webpage</h3>
 	<div>
 		<div class="list text">
-			<h4>NCI, HDip in Cyber Security</h4>
 			<h5>Web Design Group Project (2019)</h5>
 			<div>
 				Group project with HTML5 Canvas Games and audio, embedded Google Map, local storage to store form data and scores, Deployment to Heroku and Gear Host. Games include 
@@ -105,12 +105,12 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 ---
 
 ## Athlone Institute of Technology (2018)
+### Certificate in Software Engineering
 
 <div class="box">
 	<h3>JR Boating - Group Project - Dynamic Webpage</h3>
 	<div>
 		<div class="list text">
-			<h4>AIT, Certificate in Software Engineering</h4>
 			<h5>Group Project (2018)</h5>
 			<div>
 				Cross-platform networked games library with communication between Windows and Linux. Code base compiles in both C and C++. Cross-platform 2D multiplayer platform test game that worked on both Windows and Linux systems. Application acts as both server and client.
@@ -150,12 +150,12 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 ---
 
 ## Limerick Institute of Technology (2015/2018)
+### Games Design and Development
 
 <div class="box">
 	<h3>Jor_Net: Networked Games Library</h3>
 	<div>
 		<div class="list text">
-			<h4>LIT, Games Design and Development</h4>
 			<h5>Year 4, Project (2018)</h5>
 			<div>
 				Cross-platform networked games library with communication between Windows and Linux. Code base compiles in both C and C++. Cross-platform 2D multiplayer platform test game that worked on both Windows and Linux systems. Application acts as both server and client.
@@ -198,7 +198,6 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	<h3>Zombie Apocalypse (Unity Game)</h3>
 	<div>
 		<div class="list text">
-			<h4>LIT, Games Design and Development</h4>
 			<h5>Year 4, Digital Game Engines</h5>
 			<div>
 				Unity Game with Virtual Reality
@@ -237,7 +236,6 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	<h3>Space Quest (Cross-Platform C++ Game)</h3>
 	<div>
 		<div class="list text">
-			<h4>LIT, Games Design and Development</h4>
 			<h5>Year 4, Platform Digital Game Development</h5>
 			<div>
 				Cross-platform C++ game for Android, Windows, Linux, and MacOS. Google Analytics tracks and analyses events and reward progress through games on Android Devices creating Leaderboards and Unlockable Achievements. Deployed game to Beta on Google Play.
@@ -278,7 +276,6 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	<h3>Antibody (C++/Python/JavaScript Game)</h3>
 	<div>
 		<div class="list text">
-			<h4>LIT, Games Design and Development</h4>
 			<h5>Year 3, Group Project (2017)</h5>
 			<div>
 				Antibody is a 2D side scrolling game create using C++ and the SDL2 library working as an agile team.
@@ -316,7 +313,6 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 <div class="box">
 	<h3>Enterprise App Website with MySQL database</h3>
 	<div class="list">
-		<h5>LIT, Games Design and Development</h5>
 		<h4>Year 2, Enterprise Application Development</h4>
 		<div>
 			Enterprise Application for an ICT in Education event
