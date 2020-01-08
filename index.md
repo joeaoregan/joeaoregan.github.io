@@ -232,6 +232,47 @@ img {
 </div>
 
 <div class="box">
+	<h3>Space Quest (Cross-Platform C++ Game)</h3>
+	<div>
+		<div class="list text">
+			<h4>LIT, Games Design and Development</h4>
+			<h5>Year 4, Platform Digital Game Development</h5>
+			<div>
+				Cross-platform C++ game for Android, Windows, Linux, and MacOS. Google Analytics tracks and analyses events and reward progress through games on Android Devices creating Leaderboards and Unlockable Achievements. Deployed game to Beta on Google Play.
+			</div>
+			<div>
+				<h5>Technologies Used</h5>
+				<div class="list">
+					<ul>
+						<li>C++</li>
+						<li>Google Analytics</li>
+						<li>Google Play Games</li>
+						<li>Android Studio</li>
+						<li>Windows</li>
+					</ul>			
+				</div>
+				<div class="list">
+					<ul>
+						<li>Linux</li>
+						<li>MacOS</li>
+						<li>Cocos2d-x</li>
+						<li>Cross-Platform Development</li>
+						<li>SDK Box</li>
+					</ul>			
+				</div>
+			</div>
+			<h5>Links</h5>
+			<ul>
+				<li><a href="https://github.com/joeaoregan/LIT-Yr4-PlatformGameDevelopment" target="_blank">Repo</a></li>
+			</ul>
+		</div>
+		<div class="image">
+			<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr4-PlatformGameDevelopment/master/Screenshots/SpaceGame14DerpStar.jpg"/>
+		</div>
+	</div>
+</div>
+
+<div class="box">
 	<h3>Antibody (C++/Python/JavaScript Game)</h3>
 	<div>
 		<div class="list text">
