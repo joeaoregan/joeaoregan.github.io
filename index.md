@@ -33,7 +33,7 @@ h4 {
 h5 {
 	padding-left: 10%;
 }
-img {
+img, iframe {
 	position:  absolute;
 	top: 0;
 	left: 0;
@@ -228,8 +228,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines" target="_blank">Repo</a></li>				
 			</ul>
 		</div>
-		<div class="image">			
-			<iframe width="300" height="240" src="https://www.youtube.com/watch?v=V1eb564VPUw"></iframe>
+		<div class="image">
+			<iframe width="300" height="240" src="https://www.youtube.com/embed/V1eb564VPUw" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>
@@ -344,7 +344,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</ul>
 		</div>
 		<div class="image">
-			<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S6-AdvancedDigitalGameDesign/master/Screenshots/AlienAttack7StartLevel1.jpg"/>
+			<iframe width="300" height="240" src="https://www.youtube.com/embed/JNEkne0aIOY" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>
