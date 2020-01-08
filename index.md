@@ -1,7 +1,7 @@
 <style>
 .box {
 	border: 1px solid;
-	box-shadow: 5px 10px #888888;
+	box-shadow: 10px 10px 5px rgba(.3,.3,.3,.3);
 	border-radius: 25px;
 	padding: 20px;
 	padding-top:0;
