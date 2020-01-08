@@ -57,7 +57,7 @@ img {
 
 # College Projects:
 
-Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps (e.g. [www.jimgames.site](https://www.jimgames.site) hosted on Gear Host).
+Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps (e.g. [www.jimgames.site](http://www.jimgames.site) hosted on Gear Host).
 
 ## National College of Ireland (2019/2020)
 
@@ -91,7 +91,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://www.jimgames.site" target="_blank">J.I.M. Games Site (www.jimgames.site)</a></li>
+				<li><a href="http://www.jimgames.site" target="_blank">J.I.M. Games Site (www.jimgames.site)</a></li>
 				<li><a href="https://jimgames.herokuapp.com/" target="_blank">Heroku (Slightly different version with Node JS)</a></li>
 				<li><a href="https://github.com/joeaoregan/NCI-WebDesign-CA" target="_blank">Repo</a></li>
 			</ul>
