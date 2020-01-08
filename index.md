@@ -27,10 +27,10 @@
 	display: inline-block;
 	overflow: auto;
 }
-h4 {
+h3 {
 	text-align: center;
 }
-h5, h6 {
+h4, h5 {
 	padding-left: 5%;
 }
 img {
@@ -58,16 +58,16 @@ img {
 #### National College of Ireland (2019/2020)
 
 <div class="box">
-	<h4>J.I.M. Games - Group Project - Dynamic Webpage</h4>
+	<h3>J.I.M. Games - Group Project - Dynamic Webpage</h3>
 	<div>
 		<div class="list text">
-			<h5>NCI, HDip in Cyber Security</h5>
-			<h6>Web Design Group Project (2019)</h6>
+			<h4>NCI, HDip in Cyber Security</h4>
+			<h5>Web Design Group Project (2019)</h5>
 			<div>
 				Group project with HTML5 Canvas Games and audio, embedded Google Map, local storage to store form data and scores, Deployment to Heroku and Gear Host
 			</div>
 			<div>
-				<h6>Technologies Used</h6>
+				<h5>Technologies Used</h5>
 				<div class="list">
 					<ul>
 						<li>HTML</li>
@@ -85,7 +85,7 @@ img {
 					</ul>			
 				</div>
 			</div>
-			<h6>Links</h6>
+			<h5>Links</h5>
 			<ul>
 				<li><a href="https://www.jimgames.site" target="_blank">J.I.M. Games Site</a></li>
 				<li><a href="https://jimgames.herokuapp.com/" target="_blank">Heroku (Slightly different version with Node JS)</a></li>
@@ -101,16 +101,16 @@ img {
 #### Athlone Institute of Technology (2018)
 
 <div class="box">
-	<h4>JR Boating - Group Project - Dynamic Webpage</h4>
+	<h3>JR Boating - Group Project - Dynamic Webpage</h3>
 	<div>
 		<div class="list text">
-			<h5>AIT, Certificate in Software Engineering</h5>
-			<h6>Group Project (2018)</h6>
+			<h4>AIT, Certificate in Software Engineering</h4>
+			<h5>Group Project (2018)</h5>
 			<div>
 				Cross-platform networked games library with communication between Windows and Linux. Code base compiles in both C and C++. Cross-platform 2D multiplayer platform test game that worked on both Windows and Linux systems. Application acts as both server and client.
 			</div>
 			<div>
-				<h6>Technologies Used</h6>
+				<h5>Technologies Used</h5>
 				<div class="list">
 					<ul>
 						<li>Java</li>
@@ -130,7 +130,7 @@ img {
 					</ul>			
 				</div>
 			</div>
-			<h6>Links</h6>
+			<h5>Links</h5>
 			<ul>
 				<li><a href="https://github.com/joeaoregan/AIT-CSE-TeamProject-JRBoating" target="_blank">Repo</a></li>
 			</ul>
@@ -144,16 +144,16 @@ img {
 #### Limerick Institute of Technology (2018)
 
 <div class="box">
-	<h4>Jor_Net: Networked Games Library</h4>
+	<h3>Jor_Net: Networked Games Library</h3>
 	<div>
 		<div class="list text">
-			<h5>LIT, Games Design and Development</h5>
-			<h6>Year 4, Project (2018)</h6>
+			<h4>LIT, Games Design and Development</h4>
+			<h5>Year 4, Project (2018)</h5>
 			<div>
 				Cross-platform networked games library with communication between Windows and Linux. Code base compiles in both C and C++. Cross-platform 2D multiplayer platform test game that worked on both Windows and Linux systems. Application acts as both server and client.
 			</div>
 			<div>
-				<h6>Technologies Used</h6>
+				<h5>Technologies Used</h5>
 				<div class="list">
 					<ul>
 						<li>WebSocket’s</li>
@@ -173,7 +173,7 @@ img {
 					</ul>			
 				</div>
 			</div>
-			<h6>Links</h6>
+			<h5>Links</h5>
 			<ul>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-Project-NetworkGamesLibrary" target="_blank">Repo</a></li>
 			</ul>
@@ -187,16 +187,16 @@ img {
 </div>
 
 <div class="box">
-	<h4>Zombie Apocalypse (Unity Game)</h4>
+	<h3>Zombie Apocalypse (Unity Game)</h3>
 	<div>
 		<div class="list text">
-			<h5>LIT, Games Design and Development</h5>
-			<h6>Year 4, Digital Game Engines</h6>
+			<h4>LIT, Games Design and Development</h4>
+			<h5>Year 4, Digital Game Engines</h5>
 			<div>
 				Unity Game with Virtual Reality
 			</div>
 			<div>
-				<h6>Technologies Used</h6>
+				<h5>Technologies Used</h5>
 				<div class="list">
 					<ul>
 						<li>C#</li>
@@ -214,7 +214,7 @@ img {
 					</ul>			
 				</div>
 			</div>
-			<h6>Links</h6>
+			<h5>Links</h5>
 			<ul>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines" target="_blank">Repo</a></li>
 			</ul>
@@ -226,16 +226,16 @@ img {
 </div>
 
 <div class="box">
-	<h4>Antibody (C++/Python/JavaScript Game)</h4>
+	<h3>Antibody (C++/Python/JavaScript Game)</h3>
 	<div>
 		<div class="list text">
-			<h5>LIT, Games Design and Development</h5>
-			<h6>Year 3, Group Project (2017)</h6>
+			<h4>LIT, Games Design and Development</h4>
+			<h5>Year 3, Group Project (2017)</h5>
 			<div>
 				Antibody is a 2D side scrolling game create using C++ and the SDL2 library working as an agile team.
 			</div>
 			<div>
-				<h6>Technologies Used</h6>
+				<h5>Technologies Used</h5>
 				<div class="list">
 					<ul>
 						<li>C++</li>
@@ -251,7 +251,7 @@ img {
 					</ul>			
 				</div>
 			</div>
-			<h6>Links</h6>
+			<h5>Links</h5>
 			<ul>
 				<li><a href="https://antibody-js.herokuapp.com/" target="_blank">Antibody JS on Heroku</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr3-Project-Antibody/tree/master/AntibodyV2-GamesFleadhEntry" target="_blank">Repo (Games Fleadh Entry)</a></li>
@@ -265,15 +265,15 @@ img {
 </div>
 
 <div class="box">
-	<h4>Enterprise App Website with MySQL database</h4>
+	<h3>Enterprise App Website with MySQL database</h3>
 	<div class="list">
 		<h5>LIT, Games Design and Development</h5>
-		<h6>Year 2, Enterprise Application Development</h6>
+		<h4>Year 2, Enterprise Application Development</h4>
 		<div>
 			Enterprise Application for an ICT in Education event
 		</div>
 		<div>
-			<h6>Technologies Used</h6>
+			<h5>Technologies Used</h5>
 			<div class="list">
 				<ul>
 					<li>Java Servlets</li>
@@ -289,7 +289,7 @@ img {
 				</ul>			
 			</div>
 		</div>
-		<h6>Links</h6>
+		<h5>Links</h5>
 		<ul>
 			<li><a href="https://lit-yr2-ead.herokuapp.com/" target="_blank">Heroku Web App</a></li>
 			<li><a href="https://github.com/joeaoregan/LIT-Yr2-EnterpriseApplicationDevelopment" target="_blank">Repo</a></li>
