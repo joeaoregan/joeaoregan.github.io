@@ -87,7 +87,7 @@ img {
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://www.jimgames.site" target="_blank">J.I.M. Games Site</a></li>
+				<li><a href="https://www.jimgames.site" target="_blank">J.I.M. Games Site (www.jimgames.site)</a></li>
 				<li><a href="https://jimgames.herokuapp.com/" target="_blank">Heroku (Slightly different version with Node JS)</a></li>
 				<li><a href="https://github.com/joeaoregan/NCI-WebDesign-CA" target="_blank">Repo</a></li>
 			</ul>
