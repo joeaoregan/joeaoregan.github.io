@@ -5,7 +5,7 @@
 	border-radius: 25px;
 	padding: 20px;
 	padding-top:0;
-	width: 90%;
+	width: 95%;
 	margin-bottom: 2.5%;
 	overflow:auto;
 }
@@ -47,6 +47,11 @@ img {
 	height: 100%;
 }
 </style>
+
+## Links
+
+* [LinkedIn Profile](https://www.linkedin.com/in/joeaoregan/)
+* [GitHub Profile](https://github.com/joeaoregan)
 
 ## College Projects:
 
