@@ -31,7 +31,7 @@ h3 {
 	text-align: center;
 }
 h4, h5 {
-	padding-left: 6%;
+	padding-left: 7.5%;
 }
 img {
 	position:  absolute;
