@@ -57,6 +57,8 @@ img {
 
 # College Projects:
 
+Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps (e.g. [www.jimgames.site](https://www.jimgames.site) hosted on Gear Host).
+
 ## National College of Ireland (2019/2020)
 
 <div class="box">
@@ -147,7 +149,7 @@ img {
 
 ---
 
-## Limerick Institute of Technology (2018)
+## Limerick Institute of Technology (2015/2018)
 
 <div class="box">
 	<h3>Jor_Net: Networked Games Library</h3>
