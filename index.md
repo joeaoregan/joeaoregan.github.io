@@ -223,12 +223,13 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines" target="_blank">Repo</a></li>
 				<li><a href="https://www.youtube.com/watch?v=V1eb564VPUw" target="_blank">Youtube Game Walkthrough</a></li>
+				<li><a href="https://www.youtube.com/watch?v=IDp3Z8KcD6o" target="_blank">Youtube Game Outtakes</a></li>
+				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines" target="_blank">Repo</a></li>				
 			</ul>
 		</div>
-		<div class="image">
-			<img src=""/>
+		<div class="image">			
+			<iframe width="300" height="240" src="https://www.youtube.com/watch?v=V1eb564VPUw"></iframe>
 		</div>
 	</div>
 </div>
