@@ -27,11 +27,11 @@
 	display: inline-block;
 	overflow: auto;
 }
-h3 {
+h4 {
 	text-align: center;
 }
-h4, h5 {
-	padding-left: 7.5%;
+h5 {
+	padding-left: 10%;
 }
 img {
 	position:  absolute;
@@ -59,7 +59,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 ### HDip in Cyber Security
 
 <div class="box">
-	<h3>J.I.M. Games - Group Project - Dynamic Webpage</h3>
+	<h4>J.I.M. Games - Group Project - Dynamic Webpage</h4>
 	<div>
 		<div class="list text">
 			<h5>Web Design Group Project (2019)</h5>
@@ -108,7 +108,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 ### Certificate in Software Engineering
 
 <div class="box">
-	<h3>JR Boating - Group Project - Dynamic Webpage</h3>
+	<h4>JR Boating - Group Project - Dynamic Webpage</h4>
 	<div>
 		<div class="list text">
 			<h5>Group Project (2018)</h5>
@@ -153,7 +153,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 ### Games Design and Development
 
 <div class="box">
-	<h3>Jor_Net: Networked Games Library</h3>
+	<h4>Jor_Net: Networked Games Library</h4>
 	<div>
 		<div class="list text">
 			<h5>Year 4, Project (2018)</h5>
@@ -195,7 +195,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 <div class="box">
-	<h3>Zombie Apocalypse (Unity Game)</h3>
+	<h4>Zombie Apocalypse (Unity Game)</h4>
 	<div>
 		<div class="list text">
 			<h5>Year 4, Digital Game Engines</h5>
@@ -233,7 +233,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 <div class="box">
-	<h3>Space Quest (Cross-Platform C++ Game)</h3>
+	<h4>Space Quest (Cross-Platform C++ Game)</h4>
 	<div>
 		<div class="list text">
 			<h5>Year 4, Platform Digital Game Development</h5>
@@ -273,7 +273,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 <div class="box">
-	<h3>Antibody (C++/Python/JavaScript Game)</h3>
+	<h4>Antibody (C++/Python/JavaScript Game)</h4>
 	<div>
 		<div class="list text">
 			<h5>Year 3, Group Project (2017)</h5>
@@ -311,7 +311,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 <div class="box">
-	<h3>Enterprise App Website with MySQL database</h3>
+	<h4>Enterprise App Website with MySQL database</h4>
 	<div class="list">
 		<h4>Year 2, Enterprise Application Development</h4>
 		<div>
