@@ -17,8 +17,8 @@
 	margin: 0 auto;
 	/*border: 1px solid;*/
 	position: relative;
-	width:30%;
-	padding-top: 30%;
+	width:35%;
+	padding-top: 35%;
 	float:right;
 	text-align: center;
 	overflow: hidden;
