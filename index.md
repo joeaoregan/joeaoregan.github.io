@@ -224,6 +224,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			<h5>Links</h5>
 			<ul>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines" target="_blank">Repo</a></li>
+				<li><a href="https://www.youtube.com/watch?v=V1eb564VPUw" target="_blank">Youtube Game Walkthrough</a></li>
 			</ul>
 		</div>
 		<div class="image">
@@ -311,9 +312,46 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 <div class="box">
+	<h4>Alien Attack (C++, SDL2)</h4>
+	<div>
+		<div class="list text">
+			<h5>Year 3, Advanced Digital Game Programming</h5>
+			<div>
+				Continuous Assessment game for Advanced Digital Game Programming Module of Year 3. Modified Alien Attack game from [SDL Game Development by Shaun Mitchell](https://www.packtpub.com/eu/game-development/sdl-game-developm).
+			</div>
+			<div>
+				<h5>Technologies Used</h5>
+				<div class="list">
+					<ul>
+						<li>C++</li>
+						<li>Simple DirectMedia Layer (SDL2)</li>
+						<li>XML</li>
+					</ul>			
+				</div>
+				<div class="list">
+					<ul>
+						<li>zlib</li>
+						<li>XML Parser</li>
+						<li>Game Design</li>
+					</ul>			
+				</div>
+			</div>
+			<h5>Links</h5>
+			<ul>
+				<li><a href="https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming" target="_blank">Repo</a></li>
+				<li><a href="https://www.youtube.com/watch?v=JNEkne0aIOY" target="_blank">Project Trailer, Youtube</a></li>
+			</ul>
+		</div>
+		<div class="image">
+			<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S6-AdvancedDigitalGameDesign/master/Screenshots/AlienAttack7StartLevel1.jpg"/>
+		</div>
+	</div>
+</div>
+
+<div class="box">
 	<h4>Enterprise App Website with MySQL database</h4>
 	<div class="list">
-		<h4>Year 2, Enterprise Application Development</h4>
+		<h5>Year 2, Enterprise Application Development</h5>
 		<div>
 			Enterprise Application for an ICT in Education event
 		</div>
