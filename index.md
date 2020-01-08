@@ -31,7 +31,7 @@ h3 {
 	text-align: center;
 }
 h4, h5 {
-	padding-left: 5%;
+	padding-left: 6%;
 }
 img {
 	position:  absolute;
@@ -48,12 +48,14 @@ img {
 }
 </style>
 
-## Links
+# Links
 
 * [LinkedIn Profile](https://www.linkedin.com/in/joeaoregan/)
 * [GitHub Profile](https://github.com/joeaoregan)
 
-## College Projects:
+---
+
+# College Projects:
 
 ## National College of Ireland (2019/2020)
 
@@ -98,6 +100,8 @@ img {
 	</div>
 </div>
 
+---
+
 ## Athlone Institute of Technology (2018)
 
 <div class="box">
@@ -140,6 +144,8 @@ img {
 		</div>
 	</div>
 </div>
+
+---
 
 ## Limerick Institute of Technology (2018)
 
