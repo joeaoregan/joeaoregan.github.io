@@ -99,7 +99,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</ul>
 		</div>
 		<div class="image">
-			<img src=""/>
+			<img src="https://raw.githubusercontent.com/joeaoregan/NCI-WebDesign-CA/master/screenshots/1home.jpg"/>
 		</div>
 	</div>
 </div>
