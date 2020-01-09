@@ -68,7 +68,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 				<a href="http://www.jimgames.site/antibody.html" target="_blank">Antibody</a>, 
 				<a href="http://www.jimgames.site/flappybird.html" target="_blank">Flappy Bird</a>, 
 				<a href="http://www.jimgames.site/spaceinvaders.html" target="_blank">Space Invaders</a>, and 
-				<a href="https://jimgames.herokuapp.com/connect5.html" target="_blank">Connect 5</a> (Online Multiplayer)
+				<a href="https://jimgames.herokuapp.com/connect5.html" target="_blank">Connect 5</a> (Online Multiplayer).
 			</div>
 			<div>
 				<h5>Technologies Used</h5>
@@ -78,14 +78,16 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 						<li>CSS</li>
 						<li>JavaScript</li>
 						<li>jQuery</li>
+						<li>JSON</li>
 					</ul>			
 				</div>
 				<div class="list">
 					<ul>
-						<li>JSON</li>
 						<li>Node JS</li>
 						<li>HTML5 Games</li>
 						<li>Google Map Integration</li>
+						<li>Popups</li>
+						<li>iframe</li>
 					</ul>			
 				</div>
 			</div>
@@ -113,7 +115,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<div class="list text">
 			<h5>Group Project (2018)</h5>
 			<div>
-				Cross-platform networked games library with communication between Windows and Linux. Code base compiles in both C and C++. Cross-platform 2D multiplayer platform test game that worked on both Windows and Linux systems. Application acts as both server and client.
+				Team project dynamic webpage with connected database
 			</div>
 			<div>
 				<h5>Technologies Used</h5>
@@ -195,50 +197,10 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 <div class="box">
-	<h4>Zombie Apocalypse (Unity Game)</h4>
-	<div>
-		<div class="list text">
-			<h5>Year 4, Digital Game Engines</h5>
-			<div>
-				Unity Game with Virtual Reality
-			</div>
-			<div>
-				<h5>Technologies Used</h5>
-				<div class="list">
-					<ul>
-						<li>C#</li>
-						<li>Unity</li>
-						<li>Virtual Reality</li>
-						<li>Game Engines</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
-						<li>3D Graphics</li>
-						<li>3D Audio</li>
-						<li>Animation</li>
-						<li>Oculus Rift</li>
-					</ul>			
-				</div>
-			</div>
-			<h5>Links</h5>
-			<ul>
-				<li><a href="https://www.youtube.com/watch?v=V1eb564VPUw" target="_blank">Youtube Game Walkthrough</a></li>
-				<li><a href="https://www.youtube.com/watch?v=IDp3Z8KcD6o" target="_blank">Youtube Game Outtakes</a></li>
-				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines" target="_blank">Repo</a></li>				
-			</ul>
-		</div>
-		<div class="image">
-			<iframe src="https://www.youtube.com/embed/V1eb564VPUw" frameborder="0" autohide="1" allowfullscreen></iframe>
-		</div>
-	</div>
-</div>
-
-<div class="box">
 	<h4>Space Quest (Cross-Platform C++ Game)</h4>
 	<div>
 		<div class="list text">
-			<h5>Year 4, Platform Digital Game Development</h5>
+			<h5>Year 4, Platform Digital Game Development (2018)</h5>
 			<div>
 				Cross-platform C++ game for Android, Windows, Linux, and MacOS. Google Analytics tracks and analyses events and reward progress through games on Android Devices creating Leaderboards and Unlockable Achievements. Deployed game to Beta on Google Play.
 			</div>
@@ -275,6 +237,83 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 <div class="box">
+	<h4>Zombie Apocalypse (Unity Game)</h4>
+	<div>
+		<div class="list text">
+			<h5>Year 4, Digital Game Engines (2017)</h5>
+			<div>
+				3D Unity Game with Virtual Reality app for third level.
+			</div>
+			<div>
+				<h5>Technologies Used</h5>
+				<div class="list">
+					<ul>
+						<li>C#</li>
+						<li>Unity</li>
+						<li>Virtual Reality</li>
+						<li>Game Engines</li>
+					</ul>			
+				</div>
+				<div class="list">
+					<ul>
+						<li>3D Graphics</li>
+						<li>3D Audio (Spatial Sound)</li>
+						<li>Animation</li>
+						<li>Oculus Rift</li>
+					</ul>			
+				</div>
+			</div>
+			<h5>Links</h5>
+			<ul>
+				<li><a href="https://www.youtube.com/watch?v=V1eb564VPUw" target="_blank">Youtube Game Walkthrough</a></li>
+				<li><a href="https://www.youtube.com/watch?v=IDp3Z8KcD6o" target="_blank">Youtube Game Outtakes</a></li>
+				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases" target="_blank">VR Level 3 Release</a></li>
+				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines" target="_blank">Repo</a></li>				
+			</ul>
+		</div>
+		<div class="image">
+			<iframe src="https://www.youtube.com/embed/V1eb564VPUw" frameborder="0" autohide="1" allowfullscreen></iframe>
+		</div>
+	</div>
+</div>
+
+<div class="box">
+	<h4>Networked Hangman</h4>
+	<div>
+		<div class="list text">
+			<h5>Year 4, Networked Games (2017)</h5>
+			<div>
+				Group assignment for 4th year Networked Games module. Hangman networked game using TCP, UDP, fork(), select(), and asynchronous communication.
+			</div>
+			<div>
+				<h5>Technologies Used</h5>
+				<div class="list">
+					<ul>
+						<li>C</li>
+						<li>TCP</li>
+						<li>UDP</li>
+					</ul>			
+				</div>
+				<div class="list">
+					<ul>
+						<li>Socket Programming</li>
+						<li>Linux</li>
+						<li>client/Server</li>
+					</ul>			
+				</div>
+			</div>
+			<h5>Links</h5>
+			<ul>
+				<li><a href="https://github.com/joeaoregan/LIT-Yr4-NetworkGames" target="_blank">Repo</a></li>
+			</ul>
+		</div>
+		<div class="image">
+			<img src="https://raw.githubusercontent.com/joeaoregan/Yr4-NetworkGames-Hangman/master/Screenshots/5HangmanSelectTCP.png"/>
+		</div>
+	</div>
+</div>
+
+<div class="box">
 	<h4>Bullet Physics / Open GL Scene</h4>
 	<div>
 		<div class="list text">
@@ -293,7 +332,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 				<div class="list">
 					<ul>
 						<li>OpenGL</li>
-						<li>sDL2</li>
+						<li>SDL2</li>
 					</ul>			
 				</div>
 			</div>
@@ -350,9 +389,10 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	<h4>Alien Attack (C++, SDL2)</h4>
 	<div>
 		<div class="list text">
-			<h5>Year 3, Advanced Digital Game Programming</h5>
+			<h5>Year 3, Advanced Digital Game Programming (2017)</h5>
 			<div>
-				Continuous Assessment game for Advanced Digital Game Programming Module of Year 3. Modified Alien Attack game from [SDL Game Development by Shaun Mitchell](https://www.packtpub.com/eu/game-development/sdl-game-developm).
+				Continuous Assessment game for Advanced Digital Game Programming Module of Year 3. Modified Alien Attack game from 
+				<a href="https://www.packtpub.com/game-development/sdl-game-development" target="_blank">SDL Game Development by Shaun Mitchell</a>.
 			</div>
 			<div>
 				<h5>Technologies Used</h5>
@@ -386,7 +426,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 <div class="box">
 	<h4>Enterprise App Website with MySQL database</h4>
 	<div class="list">
-		<h5>Year 2, Enterprise Application Development</h5>
+		<h5>Year 2, Enterprise Application Development (2016)</h5>
 		<div>
 			Enterprise Application for an ICT in Education event
 		</div>
@@ -458,35 +498,37 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 <div class="box">
 	<h4>Chat App</h4>
-	<div class="list">
-		<h5>Simple NodeJS Chat Application (2019)</h5>
-		<div>
-			Simple chat application using JavaScript and Node.js
-		</div>
-		<div>
-			<h5>Technologies Used</h5>
-			<div class="list">
-				<ul>
-					<li>Node JS</li>
-					<li>JavaScript</li>
-					<li>Heroku</li>
-				</ul>			
+	<div>
+		<div class="list text">
+			<h5>Simple NodeJS Chat Application (2019)</h5>
+			<div>
+				Simple chat application using JavaScript and Node.js. This has since been improved upon and added to the above <a href="https://connect5-jor.herokuapp.com/" target="_blank">Connect 5</a> node.js game.
 			</div>
-			<div class="list">
-				<ul>
-					<li>HTML</li>
-					<li>CSS</li>
-					<li>HTTP</li>
-				</ul>			
+			<div>
+				<h5>Technologies Used</h5>
+				<div class="list">
+					<ul>
+						<li>Node JS</li>
+						<li>JavaScript</li>
+						<li>Heroku</li>
+					</ul>			
+				</div>
+				<div class="list">
+					<ul>
+						<li>HTML</li>
+						<li>CSS</li>
+						<li>HTTP</li>
+					</ul>			
+				</div>
 			</div>
+			<h5>Links</h5>
+			<ul>
+				<li><a href="https://chat-jor.herokuapp.com/" target="_blank">Interactable Heroku Web App</a></li>
+				<li><a href="https://github.com/joeaoregan/NodeJS-AppsAndTutorials/tree/master/Chat-JOR" target="_blank">Repo</a></li>
+			</ul>
+		</div>	
+		<div class="image">
+			<img src="https://raw.githubusercontent.com/joeaoregan/NodeJS-AppsAndTutorials/master/Screenshots/screenshot3.jpg"/>
 		</div>
-		<h5>Links</h5>
-		<ul>
-			<li><a href="https://chat-jor.herokuapp.com/" target="_blank">Interactable Heroku Web App</a></li>
-			<li><a href="https://github.com/joeaoregan/NodeJS-AppsAndTutorials/tree/master/Chat-JOR" target="_blank">Repo</a></li>
-		</ul>
-	</div>	
-	<div class="image">
-		<img src="https://raw.githubusercontent.com/joeaoregan/NodeJS-AppsAndTutorials/master/Screenshots/screenshot3.jpg"/>
 	</div>
 </div>
