@@ -344,7 +344,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</ul>
 		</div>
 		<div class="image">
-			<iframe width="300" height="245" src="https://www.youtube.com/embed/JNEkne0aIOY" frameborder="0" autohide="1" allowfullscreen></iframe>
+			<iframe src="https://www.youtube.com/embed/JNEkne0aIOY" frameborder="0" autohide="1" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>
