@@ -5,7 +5,7 @@
 	border-radius: 25px;
 	padding: 20px;
 	padding-top:0;
-	width: 95%;
+	width: 97.5%;
 	margin-bottom: 2.5%;
 	overflow:auto;
 }
@@ -185,12 +185,13 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ## Limerick Institute of Technology (2015/2018)
 ### Games Design and Development
+#### Year 4
 
 <div class="box">
 	<h4>Jor_Net: Networked Games Library</h4>
 	<div>
 		<div class="list text">
-			<h5>Year 4, Project (2018)</h5>
+			<h5>Project (2018)</h5>
 			<div>
 				Cross-platform networked games library with communication between Windows and Linux. Code base compiles in both C and C++. Cross-platform 2D multiplayer platform test game that worked on both Windows and Linux systems. Application acts as both server and client.
 			</div>
@@ -233,7 +234,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	<h4>Space Quest (Cross-Platform C++ Game)</h4>
 	<div>
 		<div class="list text">
-			<h5>Year 4, Platform Digital Game Development (2018)</h5>
+			<h5>Platform Digital Game Development (2018)</h5>
 			<div>
 				Cross-platform C++ game for Android, Windows, Linux, and MacOS. Google Analytics tracks and analyses events and reward progress through games on Android Devices creating Leaderboards and Unlockable Achievements. Deployed game to Beta on Google Play.
 			</div>
@@ -273,7 +274,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	<h4>Zombie Apocalypse (Unity Game)</h4>
 	<div>
 		<div class="list text">
-			<h5>Year 4, Digital Game Engines (2017)</h5>
+			<h5>Digital Game Engines (2017)</h5>
 			<div>
 				3D Unity Game with Virtual Reality app for third level.
 			</div>
@@ -314,7 +315,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	<h4>Networked Hangman</h4>
 	<div>
 		<div class="list text">
-			<h5>Year 4, Networked Games (2017)</h5>
+			<h5>Networked Games (2017)</h5>
 			<div>
 				Group assignment for 4th year Networked Games module. Hangman networked game using TCP, UDP, fork(), select(), and asynchronous communication.
 			</div>
@@ -350,7 +351,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	<h4>Bullet Physics / Open GL Scene</h4>
 	<div>
 		<div class="list text">
-			<h5>Year 4, Game Physics (2017)</h5>
+			<h5>Game Physics (2017)</h5>
 			<div>
 				Scene demonstrating the use of game physics using the Bullet physics engine, OpenGL (3D graphics), and SDL (audio only)
 			</div>
@@ -382,11 +383,13 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
+#### Year 3
+
 <div class="box">
 	<h4>Antibody (C++/Python/JavaScript Game)</h4>
 	<div>
 		<div class="list text">
-			<h5>Year 3, Group Project (2017)</h5>
+			<h5>Group Project (2017)</h5>
 			<div>
 				Antibody is a 2D side scrolling game create using C++ and the SDL2 library working as an agile team.
 			</div>
@@ -424,7 +427,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	<h4>Alien Attack (C++, SDL2)</h4>
 	<div>
 		<div class="list text">
-			<h5>Year 3, Advanced Digital Game Programming (2017)</h5>
+			<h5>Advanced Digital Game Programming (2017)</h5>
 			<div>
 				Continuous Assessment game for Advanced Digital Game Programming Module of Year 3. Modified Alien Attack game from 
 				<a href="https://www.packtpub.com/game-development/sdl-game-development" target="_blank">SDL Game Development by Shaun Mitchell</a>.
@@ -458,10 +461,12 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
+#### Year 2
+
 <div class="box">
 	<h4>Enterprise App Website with MySQL database</h4>
 	<div class="list">
-		<h5>Year 2, Enterprise Application Development (2016)</h5>
+		<h5>Enterprise Application Development (2016)</h5>
 		<div>
 			Enterprise Application for an ICT in Education event
 		</div>
