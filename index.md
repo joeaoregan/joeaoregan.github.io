@@ -217,12 +217,13 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
+				<li><a href="https://youtu.be/okzvO2SbCCY" target="_blank">Youtube: Client and Server running in Virtual Box</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-Project-NetworkGamesLibrary" target="_blank">Repo</a></li>
 			</ul>
 		</div>
 		<div class="image">
 			<div class="vert">
-				<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr4-Project-NetworkGamesLibrary/master/Screenshots/20180408_AdditionalTiles.png"/>
+				<iframe height="300" src="https://www.youtube.com/embed/5F_BFmn_ySE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
 	</div>
@@ -297,8 +298,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://www.youtube.com/watch?v=V1eb564VPUw" target="_blank">Youtube Game Walkthrough</a></li>
-				<li><a href="https://www.youtube.com/watch?v=IDp3Z8KcD6o" target="_blank">Youtube Game Outtakes</a></li>
+				<li><a href="https://www.youtube.com/watch?v=V1eb564VPUw" target="_blank">Youtube: Game Walkthrough</a></li>
+				<li><a href="https://www.youtube.com/watch?v=IDp3Z8KcD6o" target="_blank">Youtube: Game Outtakes</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases" target="_blank">VR Level 3 Release</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines" target="_blank">Repo</a></li>				
 			</ul>
@@ -446,11 +447,11 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			<h5>Links</h5>
 			<ul>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming" target="_blank">Repo</a></li>
-				<li><a href="https://www.youtube.com/watch?v=JNEkne0aIOY" target="_blank">Project Trailer, Youtube</a></li>
+				<li><a href="https://www.youtube.com/watch?v=JNEkne0aIOY" target="_blank">Youtube: Project Trailer</a></li>
 			</ul>
 		</div>
 		<div class="image">
-			<iframe src="https://www.youtube.com/embed/JNEkne0aIOY" frameborder="0" autohide="1" allowfullscreen></iframe>
+			<iframe height="300" src="https://www.youtube.com/embed/JNEkne0aIOY" frameborder="0" autohide="1" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>
