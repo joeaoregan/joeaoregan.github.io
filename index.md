@@ -144,6 +144,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
+#### [Back to top](#links)
 ---
 
 ## Athlone Institute of Technology (2018)
@@ -189,6 +190,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
+#### [Back to top](#links)
 ---
 
 ## Limerick Institute of Technology (2015/2018)
@@ -391,6 +393,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
+#### [Back to top](#links)
+---
 #### Year 3
 
 <div class="box">
@@ -469,6 +473,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
+#### [Back to top](#links)
+---
 #### Year 2
 
 <div class="box">
@@ -506,6 +512,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
+#### [Back to top](#links)
+---
 ## Other Projects
 
 <div class="box">
@@ -579,3 +587,5 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 	</div>
 </div>
+
+#### [Back to top](#links)
