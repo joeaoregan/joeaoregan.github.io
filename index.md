@@ -53,6 +53,14 @@ img, iframe {
 
 # College Projects:
 
+* [NCI, Cyber Security (HDip)](#hdip-in-cyber-security)
+* [AIT, Certificate in Software Engineering (Level 8)](#certificate-in-software-engineering)
+* LIT, Games Design and Development (BSc)
+  * [Year 4](#year-4)
+  * [Year 3](#year-3)
+  * [Year 2](#year-2)
+* [Other Projects](#other-projects)
+
 Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps (e.g. [www.jimgames.site](http://www.jimgames.site) hosted on Gear Host).
 
 ## National College of Ireland (2019/2020)
@@ -497,7 +505,6 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<iframe src="https://www.youtube.com/embed/6wLYdgpeXuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" autohide="1" allowfullscreen></iframe>
 	</div>
 </div>
-
 
 ## Other Projects
 
