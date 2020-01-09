@@ -375,11 +375,49 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 		<h5>Links</h5>
 		<ul>
-			<li><a href="https://lit-yr2-ead.herokuapp.com/" target="_blank">Heroku Web App</a></li>
+			<li><a href="https://lit-yr2-ead.herokuapp.com/" target="_blank">Live Heroku Web App</a></li>
 			<li><a href="https://github.com/joeaoregan/LIT-Yr2-EnterpriseApplicationDevelopment" target="_blank">Repo</a></li>
 		</ul>
 	</div>	
 	<div class="image">
 		<img src="https://raw.githubusercontent.com/joeaoregan/Yr2-EAD-CA-Project/master/Screenshots/ManageSchedule2.png"/>
+	</div>
+</div>
+
+
+## Other Projects
+
+<div class="box">
+	<h4>Connect 5</h4>
+	<div class="list">
+		<h5>Job Application Coding Challenge (2019)</h5>
+		<div>
+			Platform Independent Multiplayer Connect 5 Game
+		</div>
+		<div>
+			<h5>Technologies Used</h5>
+			<div class="list">
+				<ul>
+					<li>Node JS</li>
+					<li>JavaScript</li>
+					<li>Heroku</li>
+				</ul>			
+			</div>
+			<div class="list">
+				<ul>
+					<li>HTML</li>
+					<li>CSS</li>
+					<li>HTTP</li>
+				</ul>			
+			</div>
+		</div>
+		<h5>Links</h5>
+		<ul>
+			<li><a href="https://connect5-jor.herokuapp.com/" target="_blank">Connect 5 Playable Heroku Web App</a></li>
+			<li><a href="https://github.com/joeaoregan/Connect5-JS" target="_blank">Repo</a></li>
+		</ul>
+	</div>	
+	<div class="image">
+		<img src="https://raw.githubusercontent.com/joeaoregan/Connect5-JS/master/Screenshots/screenshot1.png"/>
 	</div>
 </div>
