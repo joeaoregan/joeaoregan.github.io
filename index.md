@@ -223,7 +223,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 		<div class="image">
 			<div class="vert">
-				<iframe height="300" src="https://www.youtube.com/embed/5F_BFmn_ySE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<iframe src="https://www.youtube.com/embed/5F_BFmn_ySE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
 	</div>
@@ -451,7 +451,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</ul>
 		</div>
 		<div class="image">
-			<iframe height="300" src="https://www.youtube.com/embed/JNEkne0aIOY" frameborder="0" autohide="1" allowfullscreen></iframe>
+			<iframe src="https://www.youtube.com/embed/JNEkne0aIOY" frameborder="0" autohide="1" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>
@@ -487,7 +487,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</ul>
 	</div>	
 	<div class="image">
-		<iframe height="300" src="https://www.youtube.com/embed/6wLYdgpeXuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" autohide="1" allowfullscreen></iframe>
+		<iframe src="https://www.youtube.com/embed/6wLYdgpeXuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" autohide="1" allowfullscreen></iframe>
 	</div>
 </div>
 
