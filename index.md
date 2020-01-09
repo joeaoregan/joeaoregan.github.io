@@ -275,6 +275,40 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 <div class="box">
+	<h4>Bullet Physics / Open GL Scene</h4>
+	<div>
+		<div class="list text">
+			<h5>Year 4, Game Physics (2017)</h5>
+			<div>
+				Scene demonstrating the use of game physics using the Bullet physics engine, OpenGL (3D graphics), and SDL (audio only)
+			</div>
+			<div>
+				<h5>Technologies Used</h5>
+				<div class="list">
+					<ul>
+						<li>C++</li>
+						<li>Bullet Physics</li>
+					</ul>			
+				</div>
+				<div class="list">
+					<ul>
+						<li>OpenGL</li>
+						<li>sDL2</li>
+					</ul>			
+				</div>
+			</div>
+			<h5>Links</h5>
+			<ul>
+				<li><a href="https://github.com/joeaoregan/LIT-Yr4-GamePhysics" target="_blank">Repo</a></li>
+			</ul>
+		</div>
+		<div class="image">
+			<img src="https://raw.githubusercontent.com/joeaoregan/Yr4-GamePhysics-Bullet-OpenGL-SDL/master/Screenshots/Screenshot3.png"/>
+		</div>
+	</div>
+</div>
+
+<div class="box">
 	<h4>Antibody (C++/Python/JavaScript Game)</h4>
 	<div>
 		<div class="list text">
@@ -419,5 +453,40 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>	
 	<div class="image">
 		<img src="https://raw.githubusercontent.com/joeaoregan/Connect5-JS/master/Screenshots/screenshot1.png"/>
+	</div>
+</div>
+
+<div class="box">
+	<h4>Chat App</h4>
+	<div class="list">
+		<h5>Simple NodeJS Chat Application (2019)</h5>
+		<div>
+			Simple chat application using JavaScript and Node.js
+		</div>
+		<div>
+			<h5>Technologies Used</h5>
+			<div class="list">
+				<ul>
+					<li>Node JS</li>
+					<li>JavaScript</li>
+					<li>Heroku</li>
+				</ul>			
+			</div>
+			<div class="list">
+				<ul>
+					<li>HTML</li>
+					<li>CSS</li>
+					<li>HTTP</li>
+				</ul>			
+			</div>
+		</div>
+		<h5>Links</h5>
+		<ul>
+			<li><a href="https://chat-jor.herokuapp.com/" target="_blank">Interactable Heroku Web App</a></li>
+			<li><a href="https://github.com/joeaoregan/NodeJS-AppsAndTutorials/tree/master/Chat-JOR" target="_blank">Repo</a></li>
+		</ul>
+	</div>	
+	<div class="image">
+		<img src="https://raw.githubusercontent.com/joeaoregan/NodeJS-AppsAndTutorials/master/Screenshots/screenshot3.jpg"/>
 	</div>
 </div>
