@@ -104,6 +104,38 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
+<div class="box">
+	<h4>Problem Based Learning Group Project (Java)</h4>
+	<div>
+		<div class="list text">
+			<h5>Software Development (2019)</h5>
+			<div>
+				Lottery application, generating random numbers, and basing output on numbers matched. Group Problem Based Learning Project for Software Development module of HDip in Science in Computing (Cyber Security)
+			</div>
+			<div>
+				<h5>Technologies Used</h5>
+				<div class="list">
+					<ul>
+						<li>Java</li>
+					</ul>			
+				</div>
+				<div class="list">
+					<ul>
+						<li>JOptionPane</li>
+					</ul>			
+				</div>
+			</div>
+			<h5>Links</h5>
+			<ul>
+				<li><a href="https://github.com/joeaoregan/NCI-SoftwareDevelopment-PBL-Project" target="_blank">Repo</a></li>
+			</ul>
+		</div>
+		<div class="image">
+			<img src=""/>
+		</div>
+	</div>
+</div>
+
 ---
 
 ## Athlone Institute of Technology (2018)
