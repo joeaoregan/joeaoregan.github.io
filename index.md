@@ -487,7 +487,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</ul>
 	</div>	
 	<div class="image">
-		<img src="https://raw.githubusercontent.com/joeaoregan/Yr2-EAD-CA-Project/master/Screenshots/ManageSchedule2.png"/>
+		<iframe height="300" src="https://www.youtube.com/embed/6wLYdgpeXuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" autohide="1" allowfullscreen></iframe>
 	</div>
 </div>
 
