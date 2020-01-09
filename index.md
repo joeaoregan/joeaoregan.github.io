@@ -371,11 +371,13 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
+				<li><a href="https://youtu.be/apLz-i1GBNI" target="_blank">Youtube: Scene 1</a></li>
+				<li><a href="https://youtu.be/EJVCr7RJ0kY" target="_blank">Youtube: Scene 2</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-GamePhysics" target="_blank">Repo</a></li>
 			</ul>
 		</div>
 		<div class="image">
-			<img src="https://raw.githubusercontent.com/joeaoregan/Yr4-GamePhysics-Bullet-OpenGL-SDL/master/Screenshots/Screenshot3.png"/>
+			<iframe src="https://www.youtube.com/embed/apLz-i1GBNI" frameborder="0" autohide="1" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>
