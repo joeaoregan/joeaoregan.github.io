@@ -68,7 +68,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 				<a href="http://www.jimgames.site/antibody.html" target="_blank">Antibody</a>, 
 				<a href="http://www.jimgames.site/flappybird.html" target="_blank">Flappy Bird</a>, 
 				<a href="http://www.jimgames.site/spaceinvaders.html" target="_blank">Space Invaders</a>, and 
-				<a href="https://jimgames.herokuapp.com/connect5.html" target="_blank">Connect 5</a> (Online Multiplayer).
+				<a href="https://jimgames.herokuapp.com/connect5.html" target="_blank">Connect 5</a> (Online Multiplayer). Responsive design and mobile features, including game controller for Antibody game.
 			</div>
 			<div>
 				<h5>Technologies Used</h5>
