@@ -131,7 +131,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</ul>
 		</div>
 		<div class="image">
-			<img src=""/>
+			<img src="https://raw.githubusercontent.com/joeaoregan/NCI-SoftwareDevelopment-PBL-Project/master/Screenshots/LotteryApp4.png"/>
 		</div>
 	</div>
 </div>
