@@ -465,7 +465,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			<h5>Links</h5>
 			<ul>
 				<li><a href="https://www.youtube.com/watch?v=JNEkne0aIOY" target="_blank">Youtube: Project Trailer</a></li>
-				<li><a href="https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming/releases/download/v2/Alien.Attack.v2.Release.rar" download></a>Download: Alien Attack Game (Windows exe) (12.8 MB)</li>
+				<li><a href="https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming/releases/download/v2/Alien.Attack.v2.Release.rar" download></a>Download: Alien Attack Game (Windows exe) (12.8 MB)</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming" target="_blank">Repo</a></li>
 			</ul>
 		</div>
