@@ -96,7 +96,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			<h5>Links</h5>
 			<ul>
 				<li><a href="https://github.com/joeaoregan/NCI-SoftwareDevelopment-PBL-Project" target="_blank">Repo</a></li>
-				<li><a href="https://github.com/joeaoregan/NCI-SoftwareDevelopment-PBL-Project/releases/download/1.0/NCI-SoftwareDevelopment-LotteryApp.jar" download>Runnable JAR file</a>
+				<li><a href="https://github.com/joeaoregan/NCI-SoftwareDevelopment-PBL-Project/releases/download/1.0/NCI-SoftwareDevelopment-LotteryApp.jar" download>Runnable JAR file</a></li>
 			</ul>
 		</div>
 		<div class="image">
