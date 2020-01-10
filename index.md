@@ -270,8 +270,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://www.youtube.com/watch?v=V1eb564VPUw" target="_blank">Youtube: Game Walkthrough</a></li>
-				<li><a href="https://www.youtube.com/watch?v=IDp3Z8KcD6o" target="_blank">Youtube: Game Outtakes</a></li>
+				<li>Youtube: <a href="https://www.youtube.com/watch?v=V1eb564VPUw" target="_blank">Game Walkthrough</a>, 
+				<a href="https://www.youtube.com/watch?v=IDp3Z8KcD6o" target="_blank">Game Outtakes</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases/download/SubmittedVersion/20180104.Zombie.Apocalypse.Final.Submitted.Version.rar" download>Download: Zombie Apocalypse Exe (316 MB)</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases/download/SubmittedVersion/Zombie.Apocalypse.-.Level.3.VR.Incompleted.rar" download>Download: VR Level 3 Release (149 MB)</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines" target="_blank">Repo</a></li>				
@@ -308,12 +308,14 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://jor-unity.herokuapp.com/Unity/roll-a-ball-modified.html" target="_blank">Play Online: Roll-A-Ball (Modified)</a></li>
-				<li><a href="https://jor-unity.herokuapp.com/Unity/space-shooter-extended.html" target="_blank">Play Online: Space Shooter (Extended)</a></li>
-				<li><a href="https://jor-unity.herokuapp.com/Unity/tanks-original.html" target="_blank">Play Online: 3D Tanks</a></li>
-				<li><a href="https://jor-unity.herokuapp.com/Unity/nightmares.html" target="_blank">Play Online: 3D Nightmares</a></li>				
-				<li><a href="https://jor-unity.herokuapp.com/Unity/2d-ufo.htm" target="_blank">Play Online: 2D UFO</a></li>
-				<li><a href="https://jor-unity.herokuapp.com/Unity/2d-roguelike.html" target="_blank">Play 2D Rogue (like)</a></li>				
+				<li>Play Online: 
+					<a href="https://jor-unity.herokuapp.com/Unity/roll-a-ball-modified.html" target="_blank">Roll-A-Ball (Modified)</a>, 
+					<a href="https://jor-unity.herokuapp.com/Unity/space-shooter-extended.html" target="_blank">Space Shooter (Extended)</a>, 
+					<a href="https://jor-unity.herokuapp.com/Unity/tanks-original.html" target="_blank">3D Tanks</a>, 
+					<a href="https://jor-unity.herokuapp.com/Unity/nightmares.html" target="_blank">3D Nightmares</a>, 			
+					<a href="https://jor-unity.herokuapp.com/Unity/2d-ufo.htm" target="_blank">2D UFO</a>, 
+					<a href="https://jor-unity.herokuapp.com/Unity/2d-roguelike.html" target="_blank">2D Rogue (like)</a>
+				</li>				
 			</ul>
 		</div>
 		<div class="image">
@@ -383,8 +385,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://youtu.be/apLz-i1GBNI" target="_blank">Youtube: Scene 1</a></li>
-				<li><a href="https://youtu.be/EJVCr7RJ0kY" target="_blank">Youtube: Scene 2</a></li>
+				<li>Youtube: <a href="https://youtu.be/apLz-i1GBNI" target="_blank">Scene 1</a>, 
+				<a href="https://youtu.be/EJVCr7RJ0kY" target="_blank">Scene 2</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-GamePhysics" target="_blank">Repo</a></li>
 			</ul>
 		</div>
@@ -425,9 +427,9 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://antibody-js.herokuapp.com/" target="_blank">Antibody JS on Heroku</a></li>
-				<li><a href="https://github.com/joeaoregan/LIT-Yr3-Project-Antibody/tree/master/AntibodyV2-GamesFleadhEntry" target="_blank">Repo (Games Fleadh Entry)</a></li>
-				<li><a href="https://github.com/joeaoregan/AntibodyJS" target="_blank">Repo (JavaScript)</a></li>
+				<li>Play Online: <a href="https://antibody-js.herokuapp.com/" target="_blank">Antibody JS on Heroku</a></li>
+				<li>Repos: <a href="https://github.com/joeaoregan/LIT-Yr3-Project-Antibody/tree/master/AntibodyV2-GamesFleadhEntry" target="_blank">Games Fleadh Entry</a>, 
+				<a href="https://github.com/joeaoregan/AntibodyJS" target="_blank">JavaScript</a></li>
 			</ul>
 		</div>
 		<div class="image">
@@ -464,8 +466,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://www.youtube.com/watch?v=JNEkne0aIOY" target="_blank">Youtube: Project Trailer</a></li>
-				<li><a href="https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming/releases/download/v2/Alien.Attack.v2.Release.rar" download></a>Download: Alien Attack Game (Windows exe) (12.8 MB)</a></li>
+				<li>Youtube: <a href="https://www.youtube.com/watch?v=JNEkne0aIOY" target="_blank">Project Trailer</a></li>
+				<li>Download: <a href="https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming/releases/download/v2/Alien.Attack.v2.Release.rar" download>Alien Attack Game (Windows exe)</a> (12.8 MB)</li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming" target="_blank">Repo</a></li>
 			</ul>
 		</div>
@@ -505,7 +507,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 		<h5>Links</h5>
 		<ul>
-			<li><a href="https://lit-yr2-ead.herokuapp.com/" target="_blank">Live Heroku Web App</a></li>
+			<li>Try Online: <a href="https://lit-yr2-ead.herokuapp.com/" target="_blank">Live Heroku Web App</a></li>
 			<li><a href="https://github.com/joeaoregan/LIT-Yr2-EnterpriseApplicationDevelopment" target="_blank">Repo</a></li>
 		</ul>
 	</div>	
@@ -544,8 +546,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 		<h5>Links</h5>
 		<ul>
-			<li><a href="https://connect5-jor.herokuapp.com/" target="_blank">Play Online: Connect 5 Multiplayer Heroku Web App</a></li>
-			<li><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Download: Connect 5 Java (Local 2 Player)(11.3 KB)</a></li>
+			<li>Play Online: <a href="https://connect5-jor.herokuapp.com/" target="_blank">Connect 5 Multiplayer Heroku Web App</a></li>
+			<li>Download: <a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Connect 5 Java (Local 2 Player)</a> (11.3 KB)</li>
 			<li><a href="https://github.com/joeaoregan/Connect5-JS" target="_blank">Repo</a></li>
 		</ul>
 	</div>	
@@ -581,7 +583,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://chat-jor.herokuapp.com/" target="_blank">Play Online: Interactable Heroku Web App</a></li>
+				<li>Try Online: <a href="https://chat-jor.herokuapp.com/" target="_blank">Interactable Heroku Web App</a></li>
 				<li><a href="https://github.com/joeaoregan/NodeJS-AppsAndTutorials/tree/master/Chat-JOR" target="_blank">Repo</a></li>
 			</ul>
 		</div>	
@@ -618,9 +620,9 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/FBv1.0/FlappyBird.jar" download>Download: Flappy Bird (486 KB)</a>, 
-				<a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.02/BlockBreaker.jar" download>Block Breaker (41.9 KB)</a>, 
-				<a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Connect 5 (11.3 KB)</a></li>
+				<li>Download: <a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/FBv1.0/FlappyBird.jar" download>Flappy Bird</a> (486 KB), 
+				<a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.02/BlockBreaker.jar" download>Block Breaker</a> (41.9 KB), 
+				<a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Connect 5</a> (11.3 KB)</li> 
 				<li><a href="https://github.com/joeaoregan/Java-AppsAndTutorials" target="_blank">Repo</a></li>
 			</ul>
 		</div>	
