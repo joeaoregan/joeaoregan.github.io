@@ -96,7 +96,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			<h5>Links</h5>
 			<ul>
 				<li><a href="https://github.com/joeaoregan/NCI-SoftwareDevelopment-PBL-Project" target="_blank">Repo</a></li>
-				<li><a href="https://github.com/joeaoregan/NCI-SoftwareDevelopment-PBL-Project/releases/download/1.0/NCI-SoftwareDevelopment-LotteryApp.jar" download>Runnable JAR file</a></li>
+				<li><a href="https://github.com/joeaoregan/NCI-SoftwareDevelopment-PBL-Project/releases/download/1.0/NCI-SoftwareDevelopment-LotteryApp.jar" download>Download: Runnable JAR file (5.6 KB)</a></li>
 			</ul>
 		</div>
 		<div class="image">
@@ -272,7 +272,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			<ul>
 				<li><a href="https://www.youtube.com/watch?v=V1eb564VPUw" target="_blank">Youtube: Game Walkthrough</a></li>
 				<li><a href="https://www.youtube.com/watch?v=IDp3Z8KcD6o" target="_blank">Youtube: Game Outtakes</a></li>
-				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases" target="_blank">VR Level 3 Release</a></li>
+				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases/download/SubmittedVersion/20180104.Zombie.Apocalypse.Final.Submitted.Version.rar" download>Download: Zombie Apocalypse Exe (316m MB)</a></li>
+				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases/download/SubmittedVersion/Zombie.Apocalypse.-.Level.3.VR.Incompleted.rar" download>Download: VR Level 3 Release (149 MB)</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines" target="_blank">Repo</a></li>				
 			</ul>
 		</div>
