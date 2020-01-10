@@ -548,7 +548,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<ul>
 			<li><b>Play Online: </b><a href="https://connect5-jor.herokuapp.com/" target="_blank">Connect 5 Multiplayer Heroku Web App</a></li>
 			<li><b>Download: </b><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Connect 5 Java (Local 2 Player)</a> (11.3 KB)</li>
-			<li><b>Repo: </b><a href="https://github.com/joeaoregan/Connect5-JS" target="_blank"></a>https://github.com/joeaoregan/Connect5-JS</li>
+			<li><b>Repo: </b><a href="https://github.com/joeaoregan/Connect5-JS" target="_blank">https://github.com/joeaoregan/Connect5-JS</a></li>
 		</ul>
 	</div>	
 	<div class="image">
