@@ -1,0 +1,43 @@
+.box {
+	border: 1px solid;
+	box-shadow: 10px 10px 5px rgba(.3,.3,.3,.3);
+	border-radius: 25px;
+	padding: 20px;
+	padding-top:0;
+	width: 97.5%;
+	margin-bottom: 2.5%;
+	overflow:auto;
+}
+.text {
+	overflow:auto;
+	width: 65%;
+}
+.image {
+	margin: 0 auto;
+	/*border: 1px solid;*/
+	position: relative;
+	width:35%;
+	padding-top: 35%;
+	float:right;
+	text-align: center;
+	overflow: hidden;
+}
+.list {
+	display: inline-block;
+	overflow: auto;
+}
+h4 {
+	text-align: center;
+}
+h5 {
+	padding-left: 10%;
+}
+img, iframe {
+	position:  absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	text-align: center;
+	width: 100%;
+}
