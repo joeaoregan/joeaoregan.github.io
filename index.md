@@ -546,9 +546,9 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 		<h5>Links</h5>
 		<ul>
-			<li>Play Online: <a href="https://connect5-jor.herokuapp.com/" target="_blank">Connect 5 Multiplayer Heroku Web App</a></li>
-			<li>Download: <a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Connect 5 Java (Local 2 Player)</a> (11.3 KB)</li>
-			<li><a href="https://github.com/joeaoregan/Connect5-JS" target="_blank">Repo</a></li>
+			<li><b>Play Online: </b><a href="https://connect5-jor.herokuapp.com/" target="_blank">Connect 5 Multiplayer Heroku Web App</a></li>
+			<li><b>Download: </b><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Connect 5 Java (Local 2 Player)</a> (11.3 KB)</li>
+			<li><b>Repo: </b><a href="https://github.com/joeaoregan/Connect5-JS" target="_blank"></a>https://github.com/joeaoregan/Connect5-JS</li>
 		</ul>
 	</div>	
 	<div class="image">
@@ -583,8 +583,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li>Try Online: <a href="https://chat-jor.herokuapp.com/" target="_blank">Interactable Heroku Web App</a></li>
-				<li><a href="https://github.com/joeaoregan/NodeJS-AppsAndTutorials/tree/master/Chat-JOR" target="_blank">Repo</a></li>
+				<li><b>Try Online: </b><a href="https://chat-jor.herokuapp.com/" target="_blank">Interactable Heroku Web App</a></li>
+				<li><b>Repo: </b><a href="https://github.com/joeaoregan/NodeJS-AppsAndTutorials/tree/master/Chat-JOR" target="_blank">https://github.com/joeaoregan/NodeJS-AppsAndTutorials/tree/master/Chat-JOR</a></li>
 			</ul>
 		</div>	
 		<div class="image">
@@ -620,10 +620,10 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li>Download: <a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/FBv1.0/FlappyBird.jar" download>Flappy Bird</a> (486 KB), 
+				<li><b>Downloads: </b><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/FBv1.0/FlappyBird.jar" download>Flappy Bird</a> (486 KB), 
 				<a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.02/BlockBreaker.jar" download>Block Breaker</a> (41.9 KB), 
 				<a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Connect 5</a> (11.3 KB)</li> 
-				<li><a href="https://github.com/joeaoregan/Java-AppsAndTutorials" target="_blank">Repo</a></li>
+				<li><b>Repo: </b><a href="https://github.com/joeaoregan/Java-AppsAndTutorials" target="_blank">https://github.com/joeaoregan/Java-AppsAndTutorials</a></li>
 			</ul>
 		</div>	
 		<div class="image">
