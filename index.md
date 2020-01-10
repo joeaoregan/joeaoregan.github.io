@@ -272,8 +272,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			<ul>
 				<li>Youtube: <a href="https://www.youtube.com/watch?v=V1eb564VPUw" target="_blank">Game Walkthrough</a>, 
 				<a href="https://www.youtube.com/watch?v=IDp3Z8KcD6o" target="_blank">Game Outtakes</a></li>
-				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases/download/SubmittedVersion/20180104.Zombie.Apocalypse.Final.Submitted.Version.rar" download>Download: Zombie Apocalypse Exe (316 MB)</a></li>
-				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases/download/SubmittedVersion/Zombie.Apocalypse.-.Level.3.VR.Incompleted.rar" download>Download: VR Level 3 Release (149 MB)</a></li>
+				<li>Download: <a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases/download/SubmittedVersion/20180104.Zombie.Apocalypse.Final.Submitted.Version.rar" download>Zombie Apocalypse Exe</a> (316 MB), 
+				<a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases/download/SubmittedVersion/Zombie.Apocalypse.-.Level.3.VR.Incompleted.rar" download>Download: VR Level 3 Release</a> (149 MB)</li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines" target="_blank">Repo</a></li>				
 			</ul>
 		</div>
