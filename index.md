@@ -322,6 +322,45 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 <div class="box">
+	<h4>Unity Game Tutorials and Assignments</h4>
+	<div>
+		<div class="list text">
+			<h5>Digital Game Engines (2017)</h5>
+			<div>
+				2D and 3D Unity tutorials and assignments for Digital Game Engines module.
+			</div>
+			<div>
+				<h5>Technologies Used</h5>
+				<div class="list">
+					<ul>
+						<li>C#</li>
+						<li>Unity</li>
+					</ul>			
+				</div>
+				<div class="list">
+					<ul>
+						<li>Game Engines</li>
+						<li>3D Graphics</li>
+					</ul>			
+				</div>
+			</div>
+			<h5>Links</h5>
+			<ul>
+				<li><a href="https://jor-unity.herokuapp.com/Unity/roll-a-ball-modified.html" target="_blank">Roll-A-Ball (Modified)</a></li>
+				<li><a href="https://jor-unity.herokuapp.com/Unity/space-shooter-extended.html" target="_blank">Space Shooter (Extended)</a></li>
+				<li><a href="https://jor-unity.herokuapp.com/Unity/tanks-original.html" target="_blank">3D Tanks</a></li>
+				<li><a href="https://jor-unity.herokuapp.com/Unity/nightmares.html" target="_blank">3D Nightmares</a></li>				
+				<li><a href="https://jor-unity.herokuapp.com/Unity/2d-ufo.htm" target="_blank">2D UFO</a></li>
+				<li><a href="https://jor-unity.herokuapp.com/Unity/2d-roguelike.html" target="_blank">2D Rogue (like)</a></li>				
+			</ul>
+		</div>
+		<div class="image">
+			<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr4-Unity-SpaceShooter/master/Screenshots/SpaceShooterHTML5.jpg" title="Space Shooter - Unity Game" />
+		</div>
+	</div>
+</div>
+
+<div class="box">
 	<h4>Networked Hangman</h4>
 	<div>
 		<div class="list text">
