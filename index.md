@@ -544,7 +544,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 		<h5>Links</h5>
 		<ul>
-			<li><a href="https://connect5-jor.herokuapp.com/" target="_blank">Connect 5 Playable Heroku Web App</a></li>
+			<li><a href="https://connect5-jor.herokuapp.com/" target="_blank">Connect 5 Playable Multiplayer Heroku Web App</a></li>
+			<li><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Download: Connect 5 Java (Local 2 Player)(11.3 KB)</a></li>
 			<li><a href="https://github.com/joeaoregan/Connect5-JS" target="_blank">Repo</a></li>
 		</ul>
 	</div>	
@@ -582,6 +583,45 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			<ul>
 				<li><a href="https://chat-jor.herokuapp.com/" target="_blank">Interactable Heroku Web App</a></li>
 				<li><a href="https://github.com/joeaoregan/NodeJS-AppsAndTutorials/tree/master/Chat-JOR" target="_blank">Repo</a></li>
+			</ul>
+		</div>	
+		<div class="image">
+			<img src="https://raw.githubusercontent.com/joeaoregan/NodeJS-AppsAndTutorials/master/Screenshots/screenshot3.jpg"/>
+		</div>
+	</div>
+</div>
+
+<div class="box">
+	<h4>Java Games</h4>
+	<div>
+		<div class="list text">
+			<h5>Flappy Bird, BlockBreaker, Connect 5 (2019)</h5>
+			<div>
+				Java Apps and Tutorials. With Flappy Bird, BlockBreaker, and Connect 5 Java version of <a href="https://connect5-jor.herokuapp.com/" target="_blank">Connect 5</a> node.js game.
+			</div>
+			<div>
+				<h5>Technologies Used</h5>
+				<div class="list">
+					<ul>
+						<li>Node JS</li>
+						<li>JavaScript</li>
+						<li>Heroku</li>
+					</ul>			
+				</div>
+				<div class="list">
+					<ul>
+						<li>HTML</li>
+						<li>CSS</li>
+						<li>HTTP</li>
+					</ul>			
+				</div>
+			</div>
+			<h5>Links</h5>
+			<ul>
+				<li><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/FBv1.0/FlappyBird.jar" download>Download: Flappy Bird Runnable JAR File (486 KB)</a></li>
+				<li><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.02/BlockBreaker.jar" download>Download: Block Breaker Runnable JAR File (41.9 KB)</a></li>
+				<li><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Download: Connect 5 Runnable JAR File (11.3 KB)</a></li>
+				<li><a href="https://github.com/joeaoregan/Java-AppsAndTutorials" target="_blank">Repo</a></li>
 			</ul>
 		</div>	
 		<div class="image">
