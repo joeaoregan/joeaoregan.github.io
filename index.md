@@ -625,7 +625,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</ul>
 		</div>	
 		<div class="image">
-			<img src="https://raw.githubusercontent.com/joeaoregan/NodeJS-AppsAndTutorials/master/Screenshots/screenshot3.jpg"/>
+			<img src="https://raw.githubusercontent.com/joeaoregan/Java-AppsAndTutorials/master/Screenshots/Connect5Java.jpg"/>
 		</div>
 	</div>
 </div>
