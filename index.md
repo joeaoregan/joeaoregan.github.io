@@ -632,4 +632,41 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
+<div class="box">
+	<h4>Angular Games</h4>
+	<div>
+		<div class="list text">
+			<h5>Angular Tetris</h5>
+			<div>
+				Angular Tetris game, deployed to Heroku.
+			</div>
+			<div>
+				<h5>Technologies Used</h5>
+				<div class="list">
+					<ul>
+						<li>Angular</li>
+						<li>TypeScript</li>
+						<li>Heroku</li>
+					</ul>			
+				</div>
+				<div class="list">
+					<ul>
+						<li>HTML</li>
+						<li>CSS</li>
+						<li>JavaScript</li>
+					</ul>			
+				</div>
+			</div>
+			<h5>Links</h5>
+			<ul>
+				<li><b>Play Online: </b><a href="https://jor-tetris.herokuapp.com/" target="_blank">Angular Tetris Heroku Web App</a></li>
+				<li><b>Repo: </b><a href="https://github.com/joeaoregan/jor-tetris" target="_blank">https://github.com/joeaoregan/jor-tetris</a></li>
+			</ul>
+		</div>	
+		<div class="image">
+			<img src="https://raw.githubusercontent.com/joeaoregan/jor-tetris/master/screenshot/tetris1.jpg"/>
+		</div>
+	</div>
+</div>
+
 #### [Back to top](#links)
