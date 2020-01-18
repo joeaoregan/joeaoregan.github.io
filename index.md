@@ -5,6 +5,19 @@
 * [LinkedIn Profile](https://www.linkedin.com/in/joeaoregan/)
 * [GitHub Profile](https://github.com/joeaoregan)
 
+### Heroku Web Apps
+
+* [Antibody (JavaScript)](https://antibody-js.herokuapp.com/)
+* [Chat App (JavaScript, Node.js)](https://chat-jor.herokuapp.com/)
+* [Connect5 (JavaScript, Node.js)](https://connect5-jor.herokuapp.com/)
+* [EAD Assignment - Dynamic Web Page (Java, MySQL)](https://lit-yr2-ead.herokuapp.com/)
+* [Flappy Bird (JavaScript)](https://jimgames.herokuapp.com/flappybird.html)
+* [Roll-A-Ball (C#, Unity)](https://jor-unity.herokuapp.com/Unity/roll-a-ball-modified.html)
+* [Space Invaders (JavaScript)](https://jimgames.herokuapp.com/spaceinvaders.html)
+* [Space Quest (JavaScript)](https://spacequest.herokuapp.com/)
+* [Space Shooter (C#, Unity)](https://jor-unity.herokuapp.com/Unity/space-shooter-extended.html)
+* [Tetris (Angular)](https://jor-tetris.herokuapp.com/)
+
 ---
 
 Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps (e.g. [www.jimgames.site](http://www.jimgames.site) hosted on Gear Host).
