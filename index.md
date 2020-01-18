@@ -5,18 +5,19 @@
 * [LinkedIn Profile](https://www.linkedin.com/in/joeaoregan/)
 * [GitHub Profile](https://github.com/joeaoregan)
 
+---
+
 ### Heroku Web Apps
 
-* [Antibody (JavaScript)](https://antibody-js.herokuapp.com/)
-* [Chat App (JavaScript, Node.js)](https://chat-jor.herokuapp.com/)
-* [Connect5 (JavaScript, Node.js)](https://connect5-jor.herokuapp.com/)
-* [EAD Assignment - Dynamic Web Page (Java, MySQL)](https://lit-yr2-ead.herokuapp.com/)
-* [Flappy Bird (JavaScript)](https://jimgames.herokuapp.com/flappybird.html)
-* [Roll-A-Ball (C#, Unity)](https://jor-unity.herokuapp.com/Unity/roll-a-ball-modified.html)
-* [Space Invaders (JavaScript)](https://jimgames.herokuapp.com/spaceinvaders.html)
-* [Space Quest (JavaScript)](https://spacequest.herokuapp.com/)
-* [Space Shooter (C#, Unity)](https://jor-unity.herokuapp.com/Unity/space-shooter-extended.html)
-* [Tetris (Angular, TypeScript)](https://jor-tetris.herokuapp.com/)
+Links to live demo apps
+
+| App           | Technologies  | App   | Technologies |
+| ------------- |:-------------:| ----- |:------------:|
+| [Antibody](https://antibody-js.herokuapp.com/) | JavaScript | [Roll-A-Ball](https://jor-unity.herokuapp.com/Unity/roll-a-ball-modified.html) | C#, Unity |
+| [Chat App](https://chat-jor.herokuapp.com/) | JavaScript, Node.js | [Space Invaders](https://jimgames.herokuapp.com/spaceinvaders.html) | JavaScript |
+| [Connect5](https://connect5-jor.herokuapp.com/) | JavaScript, Node.js | [Space Quest](https://spacequest.herokuapp.com/) | JavaScript |
+| [EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/) | Java, MySQL | [Space Shooter](https://jor-unity.herokuapp.com/Unity/space-shooter-extended.html) | C#, Unity |
+| [Flappy Bird](https://jimgames.herokuapp.com/flappybird.html) | JavaScript | [Tetris](https://jor-tetris.herokuapp.com/) | Angular, TypeScript |
 
 ---
 
