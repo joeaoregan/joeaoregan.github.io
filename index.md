@@ -16,7 +16,7 @@
 * [Space Invaders (JavaScript)](https://jimgames.herokuapp.com/spaceinvaders.html)
 * [Space Quest (JavaScript)](https://spacequest.herokuapp.com/)
 * [Space Shooter (C#, Unity)](https://jor-unity.herokuapp.com/Unity/space-shooter-extended.html)
-* [Tetris (Angular)](https://jor-tetris.herokuapp.com/)
+* [Tetris (Angular, TypeScript)](https://jor-tetris.herokuapp.com/)
 
 ---
 
