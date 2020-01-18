@@ -232,7 +232,9 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://github.com/joeaoregan/LIT-Yr4-PlatformGameDevelopment" target="_blank">Repo</a></li>
+				<li><b>Play Online: </b><a href="https://spacequest.herokuapp.com/" target="_blank">JavaScript Heroku Web App</a></li>
+				<li><b>Repos: </b><a href="https://github.com/joeaoregan/LIT-Yr4-PlatformGameDevelopment" target="_blank">Original</a>, 
+				<a href="https://github.com/joeaoregan/LIT-SpaceQuestJS" target="_blank">JavaScript Version</a></li>
 			</ul>
 		</div>
 		<div class="image">
