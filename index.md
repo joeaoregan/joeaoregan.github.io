@@ -45,7 +45,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	<h4>1989 Batmobile - 3D Model + Render</h4>
 	<div>
 		<div class="list text">
-			<h5>3D Content Creation CA (2021)<h5>
+			<h5>3D Content Creation CA (2021)</h5>
 			<div>
 				3D Model of the 1989 Batmobile
 				<a href="https://youtu.be/HjV5gyn1hJY" target="_blank">Batmobile Render</a>,
