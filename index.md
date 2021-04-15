@@ -72,11 +72,6 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<div class="image">
 			<div class="vert">
 				<iframe src="https://www.youtube.com/embed/HjV5gyn1hJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>			
-			<div class="image image-two">
-				<div class="vert">
-					<iframe src="https://www.youtube.com/embed/NVCV6gof2U0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
 			</div>
 		</div>
 	</div>
