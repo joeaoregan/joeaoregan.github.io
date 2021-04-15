@@ -35,6 +35,47 @@ Each project has a link to the GitHub on repo where more screenshots can be view
   * [Year 2](#year-2)
 * [Other Projects](#other-projects)
 
+
+---
+
+## Limerick Institute of Technology (2021)
+### Certificate in VFX for Film, TV & Animation (Level 9)
+
+<div class="box">
+	<h4>1989 Batmobile - 3D Model + Render</h4>
+	<div>
+		<div class="list text">
+			<h5>3D Content Creation CA (2021)<h5>
+			<div>
+				3D Model of the 1989 Batmobile
+				<a href="https://youtu.be/HjV5gyn1hJY" target="_blank">Batmobile Render</a>,
+				<a href="https://youtu.be/NVCV6gof2U0" target="_blank">Batmobile Playblast: Wireframe on shaded, Unsmoothed</a>,
+				<a href="https://youtu.be/sc-yudE6I9c" target="_blank">Batmobile Playblast Smoothed</a>
+			</div>
+			<div>
+				<h5>Technologies Used</h5>
+				<div class="list">
+					<ul>
+						<li>Maya</li>
+						<li>Substance Painter</li>
+						<li>Adobe After Effects</li>
+						<li>Adobe Media Encoder</li>
+					</ul>			
+				</div>
+			</div>
+			<h5>Links</h5>
+			<ul>
+				<li><a href="https://studentlit-my.sharepoint.com/personal/k00203642_student_lit_ie/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk00203642%5Fstudent%5Flit%5Fie%2FDocuments%2FExports%2FFBX%2F20210411%201989%20Batmobile%20%2D%20VFX%20%2D%203D%20Content%20Creation%20%2D%20Embed%20Media%2Efbx&parent=%2Fpersonal%2Fk00203642%5Fstudent%5Flit%5Fie%2FDocuments%2FExports%2FFBX" target="_blank">Batmobile 3D Model</a></li>
+			</ul>
+		</div>
+		<div class="image">
+			<div class="vert">
+				<iframe src="https://www.youtube.com/embed/HjV5gyn1hJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+	</div>
+</div>
+
 ---
 
 ## National College of Ireland (2019/2020)
