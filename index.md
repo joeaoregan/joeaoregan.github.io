@@ -27,6 +27,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 # College Projects:
 
+* [LIT, Certificate in VFX for Film, TV & Animation (Level 9)](#certificate-in-vfx-for-film-tv-and-animation)
 * [NCI, Cyber Security (HDip)](#hdip-in-cyber-security)
 * [AIT, Certificate in Software Engineering (Level 8)](#certificate-in-software-engineering)
 * LIT, Games Design and Development (BSc)
@@ -39,7 +40,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 ---
 
 ## Limerick Institute of Technology (2021)
-### Certificate in VFX for Film, TV & Animation (Level 9)
+### Certificate in VFX for Film TV and Animation
 
 <div class="box">
 	<h4>1989 Batmobile - 3D Model + Render</h4>
@@ -47,10 +48,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<div class="list text">
 			<h5>3D Content Creation CA (2021)</h5>
 			<div>
-				3D Model of the 1989 Batmobile
-				<a href="https://youtu.be/HjV5gyn1hJY" target="_blank">Batmobile Render</a>,
-				<a href="https://youtu.be/NVCV6gof2U0" target="_blank">Batmobile Playblast: Wireframe on shaded, Unsmoothed</a>,
-				<a href="https://youtu.be/sc-yudE6I9c" target="_blank">Batmobile Playblast Smoothed</a>
+				3D Model of the <a href="https://youtu.be/HjV5gyn1hJY" target="_blank">1989 Batmobile</a>,
 			</div>
 			<div>
 				<h5>Technologies Used</h5>
@@ -66,6 +64,9 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			<h5>Links</h5>
 			<ul>
 				<li><a href="https://studentlit-my.sharepoint.com/personal/k00203642_student_lit_ie/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk00203642%5Fstudent%5Flit%5Fie%2FDocuments%2FExports%2FFBX%2F20210411%201989%20Batmobile%20%2D%20VFX%20%2D%203D%20Content%20Creation%20%2D%20Embed%20Media%2Efbx&parent=%2Fpersonal%2Fk00203642%5Fstudent%5Flit%5Fie%2FDocuments%2FExports%2FFBX" target="_blank">Batmobile 3D Model</a></li>
+				<li><a href="https://youtu.be/HjV5gyn1hJY" target="_blank">YouTube: Batmobile Render</a></li>
+				<li><a href="https://youtu.be/NVCV6gof2U0" target="_blank">YouTube: Batmobile Playblast: Wireframe on shaded, Unsmoothed</a></li>
+				<li><a href="https://youtu.be/sc-yudE6I9c" target="_blank">YouTube: Batmobile Playblast Smoothed</a></li>
 			</ul>
 		</div>
 		<div class="image">
@@ -244,7 +245,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="https://youtu.be/okzvO2SbCCY" target="_blank">Youtube: Client and Server running in Virtual Box</a></li>
+				<li><a href="https://youtu.be/okzvO2SbCCY" target="_blank">YouTube: Client and Server running in Virtual Box</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-Project-NetworkGamesLibrary" target="_blank">Repo</a></li>
 			</ul>
 		</div>
@@ -327,7 +328,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li>Youtube: <a href="https://www.youtube.com/watch?v=V1eb564VPUw" target="_blank">Game Walkthrough</a>, 
+				<li>YouTube: <a href="https://www.youtube.com/watch?v=V1eb564VPUw" target="_blank">Game Walkthrough</a>, 
 				<a href="https://www.youtube.com/watch?v=IDp3Z8KcD6o" target="_blank">Game Outtakes</a></li>
 				<li>Download: <a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases/download/SubmittedVersion/20180104.Zombie.Apocalypse.Final.Submitted.Version.rar" download>Zombie Apocalypse Exe</a> (316 MB), 
 				<a href="https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines/releases/download/SubmittedVersion/Zombie.Apocalypse.-.Level.3.VR.Incompleted.rar" download>Download: VR Level 3 Release</a> (149 MB)</li>
@@ -442,7 +443,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li>Youtube: <a href="https://youtu.be/apLz-i1GBNI" target="_blank">Scene 1</a>, 
+				<li>YouTube: <a href="https://youtu.be/apLz-i1GBNI" target="_blank">Scene 1</a>, 
 				<a href="https://youtu.be/EJVCr7RJ0kY" target="_blank">Scene 2</a></li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr4-GamePhysics" target="_blank">Repo</a></li>
 			</ul>
@@ -523,7 +524,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li>Youtube: <a href="https://www.youtube.com/watch?v=JNEkne0aIOY" target="_blank">Project Trailer</a></li>
+				<li>YouTube: <a href="https://www.youtube.com/watch?v=JNEkne0aIOY" target="_blank">Project Trailer</a></li>
 				<li>Download: <a href="https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming/releases/download/v2/Alien.Attack.v2.Release.rar" download>Alien Attack Game (Windows exe)</a> (12.8 MB)</li>
 				<li><a href="https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming" target="_blank">Repo</a></li>
 			</ul>
