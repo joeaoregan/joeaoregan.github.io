@@ -48,7 +48,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<div class="list text">
 			<h5>3D Content Creation CA (2021)</h5>
 			<div>
-				3D Model of the <a href="https://youtu.be/HjV5gyn1hJY" target="_blank">1989 Batmobile</a>,
+				3D Model of the <a href="https://youtu.be/HjV5gyn1hJY" target="_blank">1989 Batmobile</a> using Maya, Susbstance Painter, Adobe After Effects and Adobe Media Encoder.
 			</div>
 			<div>
 				<h5>Technologies Used</h5>
@@ -72,6 +72,9 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<div class="image">
 			<div class="vert">
 				<iframe src="https://www.youtube.com/embed/HjV5gyn1hJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+			<div class="vert">
+				<iframe src="https://www.youtube.com/embed/NVCV6gof2U0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
 	</div>
