@@ -293,7 +293,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><b>Play Online: </b><a href="https://spacequest.herokuapp.com/" target="_blank">JavaScript Heroku Web App</a></li>
+				<li><b>Play Online: </b><a href="https://spacequest.onrender.com" target="_blank">JavaScript Heroku Web App</a></li>
 				<li><b>Repos: </b><a href="https://github.com/joeaoregan/LIT-Yr4-PlatformGameDevelopment" target="_blank">Original</a>, 
 				<a href="https://github.com/joeaoregan/LIT-SpaceQuestJS" target="_blank">JavaScript Version</a></li>
 			</ul>
@@ -372,12 +372,12 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			<h5>Links</h5>
 			<ul>
 				<li>Play Online: 
-					<a href="https://jor-unity.herokuapp.com/Unity/roll-a-ball-modified.html" target="_blank">Roll-A-Ball (Modified)</a>, 
-					<a href="https://jor-unity.herokuapp.com/Unity/space-shooter-extended.html" target="_blank">Space Shooter (Extended)</a>, 
-					<a href="https://jor-unity.herokuapp.com/Unity/tanks-original.html" target="_blank">3D Tanks</a>, 
-					<a href="https://jor-unity.herokuapp.com/Unity/nightmares.html" target="_blank">3D Nightmares</a>, 			
-					<a href="https://jor-unity.herokuapp.com/Unity/2d-ufo.htm" target="_blank">2D UFO</a>, 
-					<a href="https://jor-unity.herokuapp.com/Unity/2d-roguelike.html" target="_blank">2D Rogue (like)</a>
+					<a href="https://jor-unity.onrender.com/Unity/roll-a-ball-modified.html" target="_blank">Roll-A-Ball (Modified)</a>, 
+					<a href="https://jor-unity.onrender.com/Unity/space-shooter-extended.html" target="_blank">Space Shooter (Extended)</a>, 
+					<a href="https://jor-unity.onrender.com/Unity/tanks-original.html" target="_blank">3D Tanks</a>, 
+					<a href="https://jor-unity.onrender.com/Unity/nightmares.html" target="_blank">3D Nightmares</a>, 			
+					<a href="https://jor-unity.onrender.com/Unity/2d-ufo.htm" target="_blank">2D UFO</a>, 
+					<a href="https://jor-unity.onrender.com/Unity/2d-roguelike.html" target="_blank">2D Rogue (like)</a>
 				</li>				
 			</ul>
 		</div>
@@ -490,7 +490,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li>Play Online: <a href="https://antibody-js.herokuapp.com/" target="_blank">Antibody JS on Heroku</a></li>
+				<li>Play Online: <a href="https://antibody-js.onrender.com/" target="_blank">Antibody JS on Heroku</a></li>
 				<li>Repos: <a href="https://github.com/joeaoregan/LIT-Yr3-Project-Antibody/tree/master/AntibodyV2-GamesFleadhEntry" target="_blank">Games Fleadh Entry</a>, 
 				<a href="https://github.com/joeaoregan/AntibodyJS" target="_blank">JavaScript</a></li>
 			</ul>
@@ -609,7 +609,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 		<h5>Links</h5>
 		<ul>
-			<li><b>Play Online: </b><a href="https://connect5-jor.herokuapp.com/" target="_blank">Connect 5 Multiplayer Heroku Web App</a></li>
+			<li><b>Play Online: </b><a href="https://jor-connect5.onrender.com/" target="_blank">Connect 5 Multiplayer Heroku Web App</a></li>
 			<li><b>Download: </b><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Connect 5 Java (Local 2 Player)</a> (11.3 KB)</li>
 			<li><b>Repo: </b><a href="https://github.com/joeaoregan/Connect5-JS" target="_blank">https://github.com/joeaoregan/Connect5-JS</a></li>
 		</ul>
@@ -625,7 +625,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<div class="list text">
 			<h5>Simple NodeJS Chat Application (2019)</h5>
 			<div>
-				Simple chat application using JavaScript and Node.js. This has since been improved upon and added to the above <a href="https://connect5-jor.herokuapp.com/" target="_blank">Connect 5</a> node.js game.
+				Simple chat application using JavaScript and Node.js. This has since been improved upon and added to the above <a href="https://jor-connect5.onrender.com/" target="_blank">Connect 5</a> node.js game.
 			</div>
 			<div>
 				<h5>Technologies Used</h5>
@@ -662,7 +662,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<div class="list text">
 			<h5>Flappy Bird, BlockBreaker, Connect 5 (2019)</h5>
 			<div>
-				Java Apps and Tutorials. With Flappy Bird, BlockBreaker, and Connect 5 Java version of <a href="https://connect5-jor.herokuapp.com/" target="_blank">Connect 5</a> node.js game. I have exported runnable JAR files of the games.
+				Java Apps and Tutorials. With Flappy Bird, BlockBreaker, and Connect 5 Java version of <a href="https://jor-connect5.onrender.com/" target="_blank">Connect 5</a> node.js game. I have exported runnable JAR files of the games.
 			</div>
 			<div>
 				<h5>Technologies Used</h5>
@@ -722,7 +722,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><b>Play Online: </b><a href="https://jor-tetris.herokuapp.com/" target="_blank">Angular Tetris Heroku Web App</a></li>
+				<li><b>Play Online: </b><a href="https://tetris-js.onrender.com/" target="_blank">Angular Tetris Heroku Web App</a></li>
 				<li><b>Repo: </b><a href="https://github.com/joeaoregan/jor-tetris" target="_blank">https://github.com/joeaoregan/jor-tetris</a></li>
 			</ul>
 		</div>	
