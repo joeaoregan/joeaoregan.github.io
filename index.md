@@ -7,7 +7,7 @@
 
 ---
 
-### Heroku Web Apps
+### Web Apps
 
 Links to live demo apps
 
@@ -16,8 +16,8 @@ Links to live demo apps
 | [Antibody](https://antibody-js.onrender.com/) | JavaScript | [Roll-A-Ball](https://jor-unity.onrender.com/Unity/roll-a-ball-modified.html) | C#, Unity |
 | [Tetris](https://tetris-js.onrender.com/) | Angular, TypeScript | [Space Shooter](https://jor-unity.onrender.com/Unity/space-shooter-extended.html) | C#, Unity |
 | [Connect5](https://jor-connect5.onrender.com/) | JavaScript, Node.js | [Space Quest](https://spacequest.onrender.com) | JavaScript |
-| [EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/) | Java, MySQL | [Space Invaders](https://jimgames.herokuapp.com/spaceinvaders.html) | JavaScript |
-| [Flappy Bird](https://jimgames.herokuapp.com/flappybird.html) | JavaScript | [Chat App](https://chat-jor.herokuapp.com/) |JavaScript, Node.js | 
+| [Flappy Bird](https://jor-games.onrender.com/flappybird.html) | JavaScript | [Space Invaders](https://jor-games.onrender.com/spaceinvaders.html) | JavaScript |
+| [EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/) | Java, MySQL | [Chat App (Heroku Link No Longer Works](https://chat-jor.herokuapp.com/) |JavaScript, Node.js | 
 
 ---
 
@@ -93,11 +93,11 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<div class="list text">
 			<h5>Web Design Group Project (2019)</h5>
 			<div>
-				Group project with HTML5 Canvas Games and audio, embedded Google Map, local storage to store form data and scores, Deployment to Heroku and Gear Host. Games include 
-				<a href="http://www.jimgames.site/antibody.html" target="_blank">Antibody</a>, 
-				<a href="http://www.jimgames.site/flappybird.html" target="_blank">Flappy Bird</a>, 
-				<a href="http://www.jimgames.site/spaceinvaders.html" target="_blank">Space Invaders</a>, and 
-				<a href="https://jimgames.herokuapp.com/connect5.html" target="_blank">Connect 5</a> (Online Multiplayer). Responsive design and mobile features, including game controller for Antibody game.
+				Group project with HTML5 Canvas Games and audio, embedded Google Map, local storage to store form data and scores, Deployment to Render (Previously Gear Host). Games include 
+				<a href="https://jor-games.onrender.com/antibody.html" target="_blank">Antibody</a>, 
+				<a href="https://jor-games.onrender.com/flappybird.html" target="_blank">Flappy Bird</a>, 
+				<a href="https://jor-games.onrender.com/spaceinvaders.html" target="_blank">Space Invaders</a>, and 
+				<a href="https://jor-games.onrender.com/connect5.html" target="_blank">Connect 5</a> (Online Multiplayer). Responsive design and mobile features, including game controller for Antibody game.
 			</div>
 			<div>
 				<h5>Technologies Used</h5>
@@ -123,7 +123,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			<h5>Links</h5>
 			<ul>
 				<li><a href="http://www.jimgames.site" target="_blank">J.I.M. Games Site (www.jimgames.site)</a></li>
-				<li><a href="https://jimgames.herokuapp.com/" target="_blank">Heroku (Slightly different version with Node JS)</a></li>
+				<li><a href="https://jor-games.onrender.com/" target="_blank">Render (Previously Heroku) (Slightly different version with Node JS)</a></li>
 				<li><a href="https://github.com/joeaoregan/NCI-WebDesign-CA" target="_blank">Repo</a></li>
 			</ul>
 		</div>
@@ -293,7 +293,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><b>Play Online: </b><a href="https://spacequest.onrender.com" target="_blank">JavaScript Heroku Web App</a></li>
+				<li><b>Play Online: </b><a href="https://spacequest.onrender.com" target="_blank">JavaScript Web App</a></li>
 				<li><b>Repos: </b><a href="https://github.com/joeaoregan/LIT-Yr4-PlatformGameDevelopment" target="_blank">Original</a>, 
 				<a href="https://github.com/joeaoregan/LIT-SpaceQuestJS" target="_blank">JavaScript Version</a></li>
 			</ul>
@@ -352,7 +352,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<div class="list text">
 			<h5>Digital Game Engines (2017)</h5>
 			<div>
-				2D and 3D Unity tutorials and assignments for Digital Game Engines module. See links to playable HTML5 games on Heroku below.
+				2D and 3D Unity tutorials and assignments for Digital Game Engines module. See links to playable HTML5 games below.
 			</div>
 			<div>
 				<h5>Technologies Used</h5>
@@ -490,7 +490,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li>Play Online: <a href="https://antibody-js.onrender.com/" target="_blank">Antibody JS on Heroku</a></li>
+				<li>Play Online: <a href="https://antibody-js.onrender.com/" target="_blank">Antibody JS Web App/a></li>
 				<li>Repos: <a href="https://github.com/joeaoregan/LIT-Yr3-Project-Antibody/tree/master/AntibodyV2-GamesFleadhEntry" target="_blank">Games Fleadh Entry</a>, 
 				<a href="https://github.com/joeaoregan/AntibodyJS" target="_blank">JavaScript</a></li>
 			</ul>
@@ -570,7 +570,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 		<h5>Links</h5>
 		<ul>
-			<li>Try Online: <a href="https://lit-yr2-ead.herokuapp.com/" target="_blank">Live Heroku Web App</a></li>
+			<li>Try Online: <a href="https://lit-yr2-ead.herokuapp.com/" target="_blank">Live Web App (Heroku links no long working)</a></li>
 			<li><a href="https://github.com/joeaoregan/LIT-Yr2-EnterpriseApplicationDevelopment" target="_blank">Repo</a></li>
 		</ul>
 	</div>	
@@ -596,7 +596,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 				<ul>
 					<li>Node JS</li>
 					<li>JavaScript</li>
-					<li>Heroku</li>
+					<li>Render / Heroku</li>
 				</ul>			
 			</div>
 			<div class="list">
@@ -609,7 +609,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 		<h5>Links</h5>
 		<ul>
-			<li><b>Play Online: </b><a href="https://jor-connect5.onrender.com/" target="_blank">Connect 5 Multiplayer Heroku Web App</a></li>
+			<li><b>Play Online: </b><a href="https://jor-connect5.onrender.com/" target="_blank">Connect 5 Multiplayer Web App</a></li>
 			<li><b>Download: </b><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Connect 5 Java (Local 2 Player)</a> (11.3 KB)</li>
 			<li><b>Repo: </b><a href="https://github.com/joeaoregan/Connect5-JS" target="_blank">https://github.com/joeaoregan/Connect5-JS</a></li>
 		</ul>
@@ -633,7 +633,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 					<ul>
 						<li>Node JS</li>
 						<li>JavaScript</li>
-						<li>Heroku</li>
+						<li>Render / Heroku</li>
 					</ul>			
 				</div>
 				<div class="list">
@@ -670,7 +670,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 					<ul>
 						<li>Node JS</li>
 						<li>JavaScript</li>
-						<li>Heroku</li>
+						<li>Render / Heroku</li>
 					</ul>			
 				</div>
 				<div class="list">
@@ -701,7 +701,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<div class="list text">
 			<h5>Angular Tetris</h5>
 			<div>
-				Angular Tetris game, deployed to Heroku.
+				Angular Tetris game, deployed as Web App.
 			</div>
 			<div>
 				<h5>Technologies Used</h5>
@@ -709,7 +709,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 					<ul>
 						<li>Angular</li>
 						<li>TypeScript</li>
-						<li>Heroku</li>
+						<li>Render / Heroku</li>
 					</ul>			
 				</div>
 				<div class="list">
@@ -722,7 +722,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><b>Play Online: </b><a href="https://tetris-js.onrender.com/" target="_blank">Angular Tetris Heroku Web App</a></li>
+				<li><b>Play Online: </b><a href="https://tetris-js.onrender.com/" target="_blank">Angular Tetris Web App</a></li>
 				<li><b>Repo: </b><a href="https://github.com/joeaoregan/jor-tetris" target="_blank">https://github.com/joeaoregan/jor-tetris</a></li>
 			</ul>
 		</div>	
