@@ -21,7 +21,8 @@ Links to live demo apps
 
 ---
 
-Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps (e.g. [www.jimgames.site](http://www.jimgames.site) hosted on Gear Host).
+Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps 
+(e.g. [JOR Games (previously: www.jimgames.site)](https://jor-games.onrender.com/)).
 
 ---
 
@@ -122,9 +123,9 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li><a href="http://www.jimgames.site" target="_blank">J.I.M. Games Site (www.jimgames.site)</a></li>
 				<li><a href="https://jor-games.onrender.com/" target="_blank">Render (Previously Heroku) (Slightly different version with Node JS)</a></li>
 				<li><a href="https://github.com/joeaoregan/NCI-WebDesign-CA" target="_blank">Repo</a></li>
+				<li><a href="http://www.jimgames.site" target="_blank">BROKEN: J.I.M. Games Site (www.jimgames.site)</a></li>
 			</ul>
 		</div>
 		<div class="image">
