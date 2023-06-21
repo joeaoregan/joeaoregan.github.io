@@ -15,7 +15,7 @@ Links to live demo apps
 | ------------- |:-------------:| ----- |:------------:|
 | [Antibody](https://antibody-js.onrender.com/) | JavaScript | [Roll-A-Ball](https://jor-unity.herokuapp.com/Unity/roll-a-ball-modified.html) | C#, Unity |
 | [Chat App](https://chat-jor.herokuapp.com/) | JavaScript, Node.js | [Space Invaders](https://jimgames.herokuapp.com/spaceinvaders.html) | JavaScript |
-| [Connect5](https://connect5-jor.herokuapp.com/) | JavaScript, Node.js | [Space Quest](https://spacequest.herokuapp.com/) | JavaScript |
+| [Connect5](https://jor-connect5.onrender.com/) | JavaScript, Node.js | [Space Quest](https://spacequest.herokuapp.com/) | JavaScript |
 | [EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/) | Java, MySQL | [Space Shooter](https://jor-unity.herokuapp.com/Unity/space-shooter-extended.html) | C#, Unity |
 | [Flappy Bird](https://jimgames.herokuapp.com/flappybird.html) | JavaScript | [Tetris](https://jor-tetris.herokuapp.com/) | Angular, TypeScript |
 
