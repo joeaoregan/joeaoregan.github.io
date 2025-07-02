@@ -24,7 +24,7 @@ Links to live demo apps
 ---
 
 Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps
-(e.g. [JOR Games (previously: www.jimgames.site)](https://jor-games.onrender.com/)).
+(e.g. [NCI Web Design CA)](https://jor-games.onrender.com/)).
 
 ---
 
@@ -82,7 +82,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ---
 
-<details closed><summary><b>National College of Ireland</b>> HDip in Cyber Security</summary>
+<details closed><summary><b>National College of Ireland</b> HDip in Cyber Security</summary>
 
 <h3>National College of Ireland (2019/2020)</h3>
 <h4>HDip in Cyber Security</h4>
