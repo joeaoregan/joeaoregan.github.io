@@ -1,4 +1,122 @@
 <link rel="stylesheet" type="text/css" href="style.css">
+<link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+<div>
+    <header>
+      <nav>
+        <ul>
+          <li>
+            <a href="https://joeaoregan.github.io/">
+              <i class="fa-solid fa-house" title="GitHub Pages Home"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/joeaoregan/LIT-Yr4-Unity-SpaceShooter">
+              <i class="fa-solid fa-code" title="This Project GitHub Repo"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/joeaoregan">
+              <i class="fa-brands fa-github" title="GitHub Profile"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/joeaoregan/">
+              <i class="fa-brands fa-linkedin" title="LinkedIn Profile"></i>
+            </a>
+          </li>
+          <li>
+            <div class="dropdown">
+              <button class="dropbtn">
+                <i class="fa-brands fa-react" title="React Projects"></i>
+              </button>
+              <div class="dropdown-content">
+                <a
+                  href="https://joeaoregan.github.io/react-vite-nasa-apod-api-app/"
+                  >NASA APOD API App</a
+                >
+                <a
+                  href="https://joeaoregan.github.io/react-nasa-techtransfer-api-app/"
+                  >NASA Tech Transfer API App</a
+                >
+                <a href="https://joeaoregan.github.io/react-apod-api-app/"
+                  >NASA APOD API App 2</a
+                >
+                <a href="https://joeaoregan.github.io/react-swapi-app/"
+                  >Star Wars SWAPI API App</a
+                >
+                <a href="https://joeaoregan.github.io/react-tic-tac-toe/"
+                  >Tic Tac Toe</a
+                >
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="dropdown">
+              <button class="dropbtn">
+                <i class="fa-brands fa-r-project" title="R Programming"></i>
+              </button>
+              <div class="dropdown-content">
+                <a href="https://joeaoregan.github.io/2022_DAIE_GCA_JOR/">
+                  Group CA: Descriptive & Inferential Analysis
+                </a>
+                <a href="https://joeaoregan.github.io/2022_DAIE_CA4_JOR1">
+                  CA4: Generate & Populate DB
+                </a>
+                <a href="https://joeaoregan.github.io/2022_DAIE_CA4_JOR1/query">
+                  CA4: Querying DB
+                </a>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="dropdown">
+              <button class="dropbtn">
+                <i class="fa-brands fa-unity" title="Unity Projects"></i>
+              </button>
+              <div class="dropdown-content">
+                <a href="https://joeaoregan.github.io/LIT-Yr4-Unity-RollABall"
+                  >Roll A Ball
+                </a>
+                <a
+                  href="https://joeaoregan.github.io/LIT-Yr4-DigitalGameEngines"
+                  >Zombie Apocalypse
+                </a>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="dropdown">
+              <button class="dropbtn">
+                <img
+                  src="./images/processing.svg"
+                  alt="Processing Logo"
+                  width="24px"
+                  height="24px"
+                  title="Processing"
+                />
+              </button>
+              <div class="dropdown-content">
+                <a href="https://joeaoregan.github.io/LIT-Yr3-Graphics/"
+                  >Big Foot 3D Scene</a
+                >
+                <a href="https://joeaoregan.github.io/LIT-Yr3-Graphics/2d/"
+                  >2D Scenes</a
+                >
+              </div>
+            </div>
+          </li>
+        </ul>
+      </nav>
+    </header>
+</div>
+
+---
 
 ## Links
 
@@ -23,12 +141,12 @@ Links to deployed apps:
 
 ---
 
-Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps
-(e.g. [NCI Web Design CA)](https://jor-games.onrender.com/)).
+<p class="note">Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps
+(e.g. [NCI Web Design CA)](https://jor-games.onrender.com/)).</p>
 
 ---
 
-## College Projects:
+## College Projects
 
 <p class="note">Click to expand the following sections:</p>
 
