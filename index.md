@@ -82,9 +82,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ---
 
-<details closed><summary>2019/2020, National College of Ireland
-
-- HDip in Cyber Security</summary>
+<details closed><summary><b>National College of Ireland</b>> HDip in Cyber Security</summary>
 
 <h3>National College of Ireland (2019/2020)</h3>
 <h4>HDip in Cyber Security</h4>
@@ -174,10 +172,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ---
 
-<details closed><summary>2018, Athlone Institute of Technology
-
-- Certificate in Software Engineering
-- MSc in Applied Software Engineering</summary>
+<details closed><summary><b>Athlone Institute of Technology</b>
+<ul><li>Certificate in Software Engineering</li><li>MSc in Applied Software Engineering</li></ul></summary>
 
 <h3>Athlone Institute of Technology (2018)</h3>
 <h4>Certificate in Software Engineering</h4>
@@ -228,9 +224,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ---
 
-<details closed><summary>2015-2018, Limerick Institute of Technology
-
-- BSc (Hounours) in Computing (Games Design and Development)</summary>
+<details closed><summary><b>Limerick Institute of Technology</b> BSc (Hounours) in Computing (Games Design and Development)</summary>
 
 <h3>Limerick Institute of Technology (2015/2018)</h3>
 <h4>Games Design and Development</h4>
