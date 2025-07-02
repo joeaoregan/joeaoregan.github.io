@@ -129,6 +129,9 @@ nav li a:hover {
 .dropdown:hover .dropbtn, .sub-menu:hover .dropbtn{background-color: #111;}
 
 .badge {
+	margin: 0;
+    padding: 0;
+    border: 0;
     font-family: Helvetica,Arial,"Lucida Grande",sans-serif;
     font-size: .88rem;
     text-align: center;
@@ -136,6 +139,8 @@ nav li a:hover {
 	height: 270px;
 	max-width: 150px;
 	max-height: 270px;
+    border: 1px solid #e5e5e5;
+	display: inline-block;
 }
 
 .badge img {
