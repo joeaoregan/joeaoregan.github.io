@@ -10,7 +10,7 @@
 
 ### Web Apps
 
-Links to live demo apps
+Links to deployed apps:
 
 | App                                                                                     |                 Technologies                 | App                                                                               |       Technologies       |
 | --------------------------------------------------------------------------------------- | :------------------------------------------: | --------------------------------------------------------------------------------- | :----------------------: |
@@ -34,7 +34,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ---
 
-<details closed><summary><b>Limerick Institute of Technology</b> Certificate in VFX for Film TV and Animation</summary>
+<details closed><summary><b>> Limerick Institute of Technology</b> Certificate in VFX for Film TV and Animation</summary>
 
 <h3>Limerick Institute of Technology (2021)</h3>
 <h4>Certificate in VFX for Film TV and Animation</h4>
@@ -82,7 +82,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ---
 
-<details closed><summary><b>National College of Ireland</b> HDip in Cyber Security</summary>
+<details closed><summary><b>> National College of Ireland</b> HDip in Cyber Security</summary>
 
 <h3>National College of Ireland (2019/2020)</h3>
 <h4>HDip in Cyber Security</h4>
@@ -172,7 +172,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ---
 
-<details closed><summary><b>Athlone Institute of Technology</b>
+<details closed><summary><b>> Athlone Institute of Technology</b>
 <ul><li>Certificate in Software Engineering</li><li>MSc in Applied Software Engineering</li></ul></summary>
 
 <h3>Athlone Institute of Technology (2018)</h3>
@@ -224,7 +224,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ---
 
-<details closed><summary><b>Limerick Institute of Technology</b> BSc (Hounours) in Computing (Games Design and Development)</summary>
+<details closed><summary><b>> Limerick Institute of Technology</b> BSc (Hounours) in Computing (Games Design and Development)</summary>
 
 <h3>Limerick Institute of Technology (2015/2018)</h3>
 <h4>Games Design and Development</h4>
@@ -607,7 +607,9 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ## Other Projects
 
-<details closed><summary>Connect 5</summary>
+<p>Click to expand the following sections:</p>
+
+<details closed><summary><b>> Connect 5</b></summary>
 <div class="box">
 	<h4>Connect 5</h4>
 	<div class="list">
@@ -645,7 +647,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 </details>
 
-<details closed><summary>Chat App</summary>
+<details closed><summary><b>> Chat App</b></summary>
 <div class="box">
 	<h4>Chat App</h4>
 	<div>
@@ -684,7 +686,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 </details>
 
-<details closed><summary>Java Games</summary>
+<details closed><summary><b>> Java Games</b></summary>
 <div class="box">
 	<h4>Java Games</h4>
 	<div>
@@ -725,7 +727,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 </details>
 
-<details closed><summary>Angular Games</summary>
+<details closed><summary><b>> Angular Games</b></summary>
 <div class="box">
 	<h4>Angular Games</h4>
 	<div>
