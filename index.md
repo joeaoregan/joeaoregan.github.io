@@ -876,6 +876,9 @@
 
 [Back to top](#links)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8d6ac4d0-b885-4291-a7a1-07e121e39b80" data-share-badge-host="https://www.credly.com">
+<div>
+	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8d6ac4d0-b885-4291-a7a1-07e121e39b80" data-share-badge-host="https://www.credly.com"></div>
+	<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b0f9a0b4-d0b1-4d01-80f1-0e1f66756573" data-share-badge-host="https://www.credly.com"></div>
+    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
