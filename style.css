@@ -129,5 +129,37 @@ nav li a:hover {
 .dropdown:hover .dropbtn, .sub-menu:hover .dropbtn{background-color: #111;}
 
 .badge {
+    font-family: Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-size: .88rem;
+    text-align: center;
+	width: 150px;
+	height: 270px;
+	max-width: 150px;
+	max-height: 270px;
+}
+
+.badge img {
+	margin: 22.5px;
+	width: 105px; 
+	height: 105px; 
 	object-fit: cover;
+	object-position: 50% 100%;
+}
+
+.badge-name {
+    color: #333;
+    display: block;
+    font-size: 1rem;
+    line-height: 1.1em;
+    margin: 0 8px 8px
+}
+
+.badge-issuer {
+    color: #666;
+    font-size: .81rem;
+    font-style: italic;
+    line-height: 1.1em;
+    margin: 0 8px;
+    max-width: 100%;
+    overflow: hidden
 }

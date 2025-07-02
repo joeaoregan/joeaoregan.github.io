@@ -1,5 +1,5 @@
 (function () {
-  var e, t, a, r, d, l, i, m, n, o, u, c, s;
+  var e, t, a, badgeId, d, l, iframeHeight, m, n, o, u, c, iframeWidth;
   for (
     window.CREDLY_EMBED_JS_LOADER_VERSION = "20210331",
       e = "www.credly.com",
@@ -25,9 +25,9 @@
     m < n;
     m++
   )
-    (r = (d = o[m]).attributes.getNamedItem("data-share-badge-id").value),
-      (s = d.attributes.getNamedItem("data-iframe-width").value),
-      (i = d.attributes.getNamedItem("data-iframe-height").value),
+    (badgeId = (d = o[m]).attributes.getNamedItem("data-share-badge-id").value),
+      (iframeWidth = d.attributes.getNamedItem("data-iframe-width").value),
+      (iframeHeight = d.attributes.getNamedItem("data-iframe-height").value),
       (a = c(
         null != (u = d.attributes.getNamedItem("data-share-badge-host"))
           ? u.value
@@ -36,14 +36,14 @@
       /^https?:\/\//.test(a) || (a = "//" + a),
       (d.outerHTML =
         '<iframe name="acclaim-badge" allowTransparency="true" frameborder="0" id="embedded-badge-' +
-        r +
+        badgeId +
         '" scrolling="no" src="' +
         a +
         "/embedded_badge/" +
-        r +
+        badgeId +
         '" style="width: ' +
-        s +
+        iframeWidth +
         "px; height: " +
-        i +
+        iframeHeight +
         'px;" title="View my verified achievement on Credly." ></iframe>');
 }).call(this);
