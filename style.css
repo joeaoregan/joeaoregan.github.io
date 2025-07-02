@@ -1,3 +1,4 @@
+
 .box {
 	border: 1px solid;
 	box-shadow: 10px 10px 5px rgba(.3,.3,.3,.3);
@@ -12,6 +13,7 @@
 	overflow:auto;
 	width: 65%;
 }
+
 .image {
 	margin: 0 auto;
 	/*border: 1px solid;*/
@@ -26,6 +28,7 @@
 	display: inline-block;
 	overflow: auto;
 }
+
 h4 {
 	text-align: center;
 }
@@ -129,21 +132,17 @@ nav li a:hover {
 .dropdown:hover .dropbtn, .sub-menu:hover .dropbtn{background-color: #111;}
 
 .badge {
-	/* margin: 0; */
-    /* padding: 0; */
-    /* border: 0; */
     font-family: Helvetica,Arial,"Lucida Grande",sans-serif;
     font-size: .88rem;
     text-align: center;
 	width: 150px;
 	height: 270px;
-	max-width: 150px;
-	max-height: 270px;
+	/* max-width: 150px; */
+	/* max-height: 270px; */
     border: 1px solid #e5e5e5;
-  /* overflow:hidden; */
   display:inline-block;
-  /* text-overflow: ellipsis; */
   white-space: nowrap;
+  vertical-align: top;
 }
 
 .badge img {
@@ -151,7 +150,7 @@ nav li a:hover {
 	width: 105px;
 	height: 105px; 
 	object-fit: cover;
-	object-position: 50% 50%;
+	object-position: 50% 100%;
 }
 
 .badge-name {
@@ -172,4 +171,9 @@ nav li a:hover {
     margin: 0 8px;
     max-width: 100%;
     overflow: hidden;
+}
+
+.testing {
+	background-color: blue;
+	height: 100px;
 }
