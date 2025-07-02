@@ -30,7 +30,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ## College Projects:
 
-<p>Click to expand the following sections:</p>
+<p class="note">Click to expand the following sections:</p>
 
 ---
 
@@ -607,7 +607,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ## Other Projects
 
-<p>Click to expand the following sections:</p>
+<p class="note">Click to expand the following sections:</p>
 
 <details closed><summary><b>> Connect 5</b></summary>
 <div class="box">
