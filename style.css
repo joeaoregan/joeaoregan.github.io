@@ -55,7 +55,8 @@ p.note
      -webkit-border-radius: 6px;
      background-color: #f0f7fb;
      background-image: url(./images/Message-Information-256.png);
-     background-position: 9px 0px;
+     background-position: 9px 8px;
+	 background-size: 32px 32px;
      background-repeat: no-repeat;
      border: solid 1px #3498db;
      border-radius: 6px;
