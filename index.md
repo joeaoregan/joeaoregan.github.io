@@ -168,7 +168,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
-#### [Back to top](#links)
+[Back to top](#links)
 
 </details>
 
@@ -222,7 +222,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
-#### [Back to top](#links)
+[Back to top](#links)
 
 </details>
 
@@ -235,9 +235,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 <h3>Limerick Institute of Technology (2015/2018)</h3>
 <h4>Games Design and Development</h4>
 
-<details closed><summary>Year 4</summary>
-
-#### Year 4
+<details closed><summary><b>Year 4</b></summary>
 
 <div class="box">
 	<h4>Jor_Net: Networked Games Library</h4>
@@ -479,14 +477,12 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
-#### [Back to top](#links)
+[Back to top](#links)
 
 ---
 
 </details>
-<details closed><summary>Year 3</summary>
-
-#### Year 3
+<details closed><summary><b>Year 3</b></summary>
 
 <div class="box">
 	<h4>Antibody (C++/Python/JavaScript Game)</h4>
@@ -565,14 +561,12 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
-#### [Back to top](#links)
+[Back to top](#links)
 
 ---
 
 </details>
-<details closed><summary>Year 2</summary>
-
-#### Year 2
+<details closed><summary><b>Year 2</b></summary>
 
 <div class="box">
 	<h4>Enterprise App Website with MySQL database</h4>
@@ -609,7 +603,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
-#### [Back to top](#links)
+[Back to top](#links)
 
 </details>
 
@@ -778,4 +772,4 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ---
 
-#### [Back to top](#links)
+[Back to top](#links)
