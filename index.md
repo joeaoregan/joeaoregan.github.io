@@ -7,7 +7,6 @@
       referrerpolicy="no-referrer"
     />
 <div>
-    <header>
       <nav>
         <ul>
           <li>
@@ -83,6 +82,9 @@
                 <a href="https://joeaoregan.github.io/LIT-Yr4-Unity-RollABall"
                   >Roll A Ball
                 </a>
+                <a href="https://joeaoregan.github.io/LIT-Yr4-Unity-SpaceShooter"
+                  >Space Shooter
+                </a>
                 <a
                   href="https://joeaoregan.github.io/LIT-Yr4-DigitalGameEngines"
                   >Zombie Apocalypse
@@ -96,8 +98,8 @@
                 <img
                   src="./images/processing.svg"
                   alt="Processing Logo"
-                  width="24px"
-                  height="24px"
+                  width="16px"
+                  height="16px"
                   title="Processing"
                 />
               </button>
@@ -113,7 +115,6 @@
           </li>
         </ul>
       </nav>
-    </header>
 </div>
 
 ---

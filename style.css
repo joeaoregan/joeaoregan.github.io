@@ -99,6 +99,7 @@ nav li a:hover {
   color: white;
   border: none;
 }
+
 .sub-menu {
   padding: 0;
   margin-top: 0px;
@@ -124,4 +125,5 @@ nav li a:hover {
 
 .dropdown:hover .dropdown-content, .sub-menu:hover  .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn, .sub-menu:hover .dropbtn{background-color: darkslategray;}
+/* .dropdown:hover .dropbtn, .sub-menu:hover .dropbtn{background-color: darkslategray;} */
+.dropdown:hover .dropbtn, .sub-menu:hover .dropbtn{background-color: #111;}
