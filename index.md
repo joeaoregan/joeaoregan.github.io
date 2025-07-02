@@ -34,9 +34,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ---
 
-<details closed><summary>2021, Limerick Institute of Technology
-
-- Certificate in VFX for Film TV and Animation</summary>
+<details closed><summary><b>Limerick Institute of Technology</b> Certificate in VFX for Film TV and Animation</summary>
 
 <h3>Limerick Institute of Technology (2021)</h3>
 <h4>Certificate in VFX for Film TV and Animation</h4>
@@ -517,7 +515,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 			</div>
 			<h5>Links</h5>
 			<ul>
-				<li>Play Online: <a href="https://antibody-js.onrender.com/" target="_blank">Antibody JS Web App/a></li>
+				<li>Play Online: <a href="https://antibody-js.onrender.com/" target="_blank">Antibody JS Web App</a></li>
 				<li>Repos: <a href="https://github.com/joeaoregan/LIT-Yr3-Project-Antibody/tree/master/AntibodyV2-GamesFleadhEntry" target="_blank">Games Fleadh Entry</a>, 
 				<a href="https://github.com/joeaoregan/AntibodyJS" target="_blank">JavaScript</a></li>
 			</ul>
