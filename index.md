@@ -30,13 +30,16 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 ## College Projects:
 
+<p>Click to expand the following sections:</p>
+
+---
+
 <details closed><summary>2021, Limerick Institute of Technology
 
 - Certificate in VFX for Film TV and Animation</summary>
 
-## Limerick Institute of Technology (2021)
-
-### Certificate in VFX for Film TV and Animation
+<h3>Limerick Institute of Technology (2021)</h3>
+<h4>Certificate in VFX for Film TV and Animation</h4>
 
 <div class="box">
 	<h4>1989 Batmobile - 3D Model + Render</h4>
