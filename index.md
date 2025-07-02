@@ -88,9 +88,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 - HDip in Cyber Security</summary>
 
-## National College of Ireland (2019/2020)
-
-### HDip in Cyber Security
+<h3>National College of Ireland (2019/2020)</h3>
+<h4>HDip in Cyber Security</h4>
 
 <div class="box">
 	<h4>J.I.M. Games - Group Project - Dynamic Webpage</h4>
@@ -182,9 +181,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 - Certificate in Software Engineering
 - MSc in Applied Software Engineering</summary>
 
-## Athlone Institute of Technology (2018)
-
-### Certificate in Software Engineering
+<h3>Athlone Institute of Technology (2018)</h3>
+<h4>Certificate in Software Engineering</h4>
 
 <div class="box">
 	<h4>JR Boating - Group Project - Dynamic Webpage</h4>
@@ -236,9 +234,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 
 - BSc (Hounours) in Computing (Games Design and Development)</summary>
 
-## Limerick Institute of Technology (2015/2018)
-
-### Games Design and Development
+<h3>Limerick Institute of Technology (2015/2018)</h3>
+<h4>Games Design and Development</h4>
 
 <details closed><summary>Year 4</summary>
 
