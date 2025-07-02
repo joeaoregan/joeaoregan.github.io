@@ -127,3 +127,7 @@ nav li a:hover {
 
 /* .dropdown:hover .dropbtn, .sub-menu:hover .dropbtn{background-color: darkslategray;} */
 .dropdown:hover .dropbtn, .sub-menu:hover .dropbtn{background-color: #111;}
+
+.badge {
+	object-fit: cover;
+}
