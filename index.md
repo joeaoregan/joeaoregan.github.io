@@ -1,11 +1,10 @@
-Updated: 21/06/2023 - Fix broken Heroku links, move webapps to Render
+<link rel="stylesheet" type="text/css" href="style.css">
 
-<link rel="stylesheet" type="text/css" href="style.css">  
+## Links
 
-# Links
-
-* [LinkedIn Profile](https://www.linkedin.com/in/joeaoregan/)
-* [GitHub Profile](https://github.com/joeaoregan)
+- [LinkedIn Profile](https://www.linkedin.com/in/joeaoregan/ "Go to LinkedIn Profile")
+- [GitHub Profile](https://github.com/joeaoregan "Go to GitHub Profile")
+- [Credly - Digital Credentials](https://www.credly.com/users/joe-o-regan "Go to Credly Profile")
 
 ---
 
@@ -13,36 +12,30 @@ Updated: 21/06/2023 - Fix broken Heroku links, move webapps to Render
 
 Links to live demo apps
 
-| App           | Technologies  | App   | Technologies |
-| ------------- |:-------------:| ----- |:------------:|
-| [Antibody](https://antibody-js.onrender.com/) | JavaScript | [Roll-A-Ball](https://jor-unity.onrender.com/Unity/roll-a-ball-modified.html) | C#, Unity |
-| [Tetris](https://tetris-js.onrender.com/) | Angular, TypeScript | [Space Shooter](https://jor-unity.onrender.com/Unity/space-shooter-extended.html) | C#, Unity |
-| [Connect5](https://jor-connect5.onrender.com/) | JavaScript, Node.js | [Space Quest](https://spacequest.onrender.com) | JavaScript |
-| [Flappy Bird](https://jor-games.onrender.com/flappybird.html) | JavaScript | [Space Invaders](https://jor-games.onrender.com/spaceinvaders.html) | JavaScript |
-| [EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/) | Java, MySQL | [Chat App (Heroku Link No Longer Works](https://chat-jor.herokuapp.com/) |JavaScript, Node.js | 
+| App                                                                                     |                 Technologies                 | App                                                                               |       Technologies       |
+| --------------------------------------------------------------------------------------- | :------------------------------------------: | --------------------------------------------------------------------------------- | :----------------------: |
+| [React Full-stack Site](https://jor-react-full-stack-site.onrender.com)                 | MongoDB, Express, React, Node.js, JavaScript | [Vue Star Wars API (SWAPI) App](https://vuejs-frontenddemo.onrender.com)          | Vue, Node.js, JavaScript |
+| [Antibody](https://antibody-js.onrender.com/)                                           |                  JavaScript                  | [Roll-A-Ball](https://jor-unity.onrender.com/Unity/roll-a-ball-modified.html)     |        C#, Unity         |
+| [Tetris](https://tetris-js.onrender.com/)                                               |             Angular, TypeScript              | [Space Shooter](https://jor-unity.onrender.com/Unity/space-shooter-extended.html) |        C#, Unity         |
+| [Connect5](https://jor-connect5.onrender.com/)                                          |             JavaScript, Node.js              | [Space Quest](https://spacequest.onrender.com)                                    |        JavaScript        |
+| [Flappy Bird](https://jor-games.onrender.com/flappybird.html)                           |                  JavaScript                  | [Space Invaders](https://jor-games.onrender.com/spaceinvaders.html)               |        JavaScript        |
+| ~~[EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/)~~ (Heroku, on todo list) |                 Java, MySQL                  | ~~[Chat App](https://chat-jor.herokuapp.com/)~~ (Heroku, on todo list)            |   JavaScript, Node.js    |
 
 ---
 
-Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps 
+Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps
 (e.g. [JOR Games (previously: www.jimgames.site)](https://jor-games.onrender.com/)).
 
 ---
 
-# College Projects:
+## College Projects:
 
-* [LIT, Certificate in VFX for Film, TV & Animation (Level 9)](#certificate-in-vfx-for-film-tv-and-animation)
-* [NCI, Cyber Security (HDip)](#hdip-in-cyber-security)
-* [AIT, Certificate in Software Engineering (Level 8)](#certificate-in-software-engineering)
-* LIT, Games Design and Development (BSc)
-  * [Year 4](#year-4)
-  * [Year 3](#year-3)
-  * [Year 2](#year-2)
-* [Other Projects](#other-projects)
+<details closed><summary>2021, Limerick Institute of Technology
 
-
----
+- Certificate in VFX for Film TV and Animation</summary>
 
 ## Limerick Institute of Technology (2021)
+
 ### Certificate in VFX for Film TV and Animation
 
 <div class="box">
@@ -84,10 +77,16 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 	</div>
 </div>
+</details>
 
 ---
 
+<details closed><summary>2019/2020, National College of Ireland
+
+- HDip in Cyber Security</summary>
+
 ## National College of Ireland (2019/2020)
+
 ### HDip in Cyber Security
 
 <div class="box">
@@ -170,9 +169,18 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 #### [Back to top](#links)
+
+</details>
+
 ---
 
+<details closed><summary>2018, Athlone Institute of Technology
+
+- Certificate in Software Engineering
+- MSc in Applied Software Engineering</summary>
+
 ## Athlone Institute of Technology (2018)
+
 ### Certificate in Software Engineering
 
 <div class="box">
@@ -216,10 +224,21 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 #### [Back to top](#links)
+
+</details>
+
 ---
 
+<details closed><summary>2015-2018, Limerick Institute of Technology
+
+- BSc (Hounours) in Computing (Games Design and Development)</summary>
+
 ## Limerick Institute of Technology (2015/2018)
+
 ### Games Design and Development
+
+<details closed><summary>Year 4</summary>
+
 #### Year 4
 
 <div class="box">
@@ -463,7 +482,12 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 #### [Back to top](#links)
+
 ---
+
+</details>
+<details closed><summary>Year 3</summary>
+
 #### Year 3
 
 <div class="box">
@@ -544,7 +568,12 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 #### [Back to top](#links)
+
 ---
+
+</details>
+<details closed><summary>Year 2</summary>
+
 #### Year 2
 
 <div class="box">
@@ -583,9 +612,16 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 </div>
 
 #### [Back to top](#links)
+
+</details>
+
+</details>
+
 ---
+
 ## Other Projects
 
+<details closed><summary>Connect 5</summary>
 <div class="box">
 	<h4>Connect 5</h4>
 	<div class="list">
@@ -621,7 +657,9 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		<img src="https://raw.githubusercontent.com/joeaoregan/Connect5-JS/master/Screenshots/screenshot1.png"/>
 	</div>
 </div>
+</details>
 
+<details closed><summary>Chat App</summary>
 <div class="box">
 	<h4>Chat App</h4>
 	<div>
@@ -658,7 +696,9 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 	</div>
 </div>
+</details>
 
+<details closed><summary>Java Games</summary>
 <div class="box">
 	<h4>Java Games</h4>
 	<div>
@@ -697,7 +737,9 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 	</div>
 </div>
+</details>
 
+<details closed><summary>Angular Games</summary>
 <div class="box">
 	<h4>Angular Games</h4>
 	<div>
@@ -734,5 +776,8 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 		</div>
 	</div>
 </div>
+</details>
+
+---
 
 #### [Back to top](#links)
