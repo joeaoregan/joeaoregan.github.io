@@ -32,7 +32,7 @@ h4 {
 h5 {
 	padding-left: 10%;
 }
-img, iframe {
+image.img, iframe {
 	position:  absolute;
 	top: 0;
 	left: 0;
