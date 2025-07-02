@@ -130,8 +130,7 @@
 
 ---
 
-<p class="note">Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps
-(e.g. [NCI Web Design CA)](https://jor-games.onrender.com/)).</p>
+<p class="note">Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps (e.g. <a href="https://jor-games.onrender.com/">NCI Web Design CA</a>)</p>
 
 ---
 
