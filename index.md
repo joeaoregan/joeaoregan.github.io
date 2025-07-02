@@ -168,7 +168,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
-[Back to top](#links)
+<a href="#links">Back to top</a>
 
 </details>
 
@@ -222,7 +222,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
-[Back to top](#links)
+<a href="#links">Back to top</a>
 
 </details>
 
@@ -477,7 +477,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
-[Back to top](#links)
+<a href="#links">Back to top</a>
 
 ---
 
@@ -561,7 +561,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
-[Back to top](#links)
+<a href="#links">Back to top</a>
 
 ---
 
@@ -603,7 +603,7 @@ Each project has a link to the GitHub on repo where more screenshots can be view
 	</div>
 </div>
 
-[Back to top](#links)
+<a href="#links">Back to top</a>
 
 </details>
 
