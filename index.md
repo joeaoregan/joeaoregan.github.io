@@ -89,6 +89,22 @@
                   href="https://joeaoregan.github.io/LIT-Yr4-DigitalGameEngines"
                   >Zombie Apocalypse
                 </a>
+                <a
+                  href="https://joeaoregan.github.io/unity-games/Unity/2d-roguelike.html"
+                  >2D Roguelike (Unity Tutorial)
+                </a>
+                <a
+                  href="https://joeaoregan.github.io/unity-games/Unity/2d-ufo.html"
+                  >2D UFO (Unity Tutorial)
+                </a>
+                <a
+                  href="https://joeaoregan.github.io/unity-games/Unity/nightmares.html"
+                  >Nightmares (Unity Tutorial)
+                </a>
+                <a
+                  href="https://joeaoregan.github.io/unity-games/Unity/tanks-original.html"
+                  >Tanks (Unity Tutorial)
+                </a>
               </div>
             </div>
           </li>
