@@ -15,7 +15,7 @@
             </a>
           </li>
           <li>
-            <a href="https://github.com/joeaoregan/LIT-Yr4-Unity-SpaceShooter">
+            <a href="https://github.com/joeaoregan/joeaoregan.github.io">
               <i class="fa-solid fa-code" title="This Project GitHub Repo"></i>
             </a>
           </li>
@@ -54,6 +54,9 @@
                 >
                 <a href="https://joeaoregan.github.io/react-todo-list/"
                   >Todo List</a
+                >
+                <a href="https://jor-react-full-stack-site.onrender.com/"
+                  >Full Stack React Project: Blog</a
                 >
               </div>
             </div>
