@@ -52,6 +52,9 @@
                 <a href="https://joeaoregan.github.io/react-tic-tac-toe/"
                   >Tic Tac Toe</a
                 >
+                <a href="https://joeaoregan.github.io/react-todo-list/"
+                  >Todo List</a
+                >
               </div>
             </div>
           </li>
