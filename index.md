@@ -73,6 +73,7 @@
                 <a href="https://jor-connect5.onrender.com">Connect 5 JS</a>
                 <a href="https://antibody-js.onrender.com">Antibody JS </a>
                 <a href="https://spacequest.onrender.com/">SpaceQuest JS </a>
+                <a href="https://jor-chat.onrender.com/">Chat </a>
               </div>
             </div>
           </li>
@@ -152,6 +153,7 @@
           </li>
         </ul>
       </nav>
+
 </div>
 
 ### Deployed Apps
@@ -163,7 +165,7 @@
 | [Tetris](https://tetris-js.onrender.com/)                                               |             Angular, TypeScript              | [Space Shooter](https://jor-unity.onrender.com/Unity/space-shooter-extended.html) |        C#, Unity         |
 | [Connect5](https://jor-connect5.onrender.com/)                                          |             JavaScript, Node.js              | [Space Quest](https://spacequest.onrender.com)                                    |        JavaScript        |
 | [Flappy Bird](https://jor-games.onrender.com/flappybird.html)                           |                  JavaScript                  | [Space Invaders](https://jor-games.onrender.com/spaceinvaders.html)               |        JavaScript        |
-| ~~[EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/)~~ (Heroku, on todo list) |                 Java, MySQL                  | ~~[Chat App](https://chat-jor.herokuapp.com/)~~ (Heroku, on todo list)            |   JavaScript, Node.js    |
+| ~~[EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/)~~ (Heroku, on todo list) |                 Java, MySQL                  | [Chat App](https://jor-chat.onrender.com/)                                        |   JavaScript, Node.js    |
 
 ---
 
