@@ -175,7 +175,8 @@
 | [Tetris](https://tetris-js.onrender.com/)                                               |             Angular, TypeScript              | [Space Shooter](https://jor-unity.onrender.com/Unity/space-shooter-extended.html) |        C#, Unity         |
 | [Connect5](https://jor-connect5.onrender.com/)                                          |             JavaScript, Node.js              | [Space Quest](https://spacequest.onrender.com)                                    |        JavaScript        |
 | [Flappy Bird](https://jor-games.onrender.com/flappybird.html)                           |                  JavaScript                  | [Space Invaders](https://jor-games.onrender.com/spaceinvaders.html)               |        JavaScript        |
-| ~~[EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/)~~ (Heroku, on todo list) |                 Java, MySQL                  | [Chat App](https://jor-chat.onrender.com/)                                        |   JavaScript, Node.js    |
+| [Django / PostgreSQL Portfolio](https://django-postgresql-portfolio.onrender.com/)      |          Python, Django, PostgreSQL          | [Chat App](https://jor-chat.onrender.com/)                                        |   JavaScript, Node.js    |
+| ~~[EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/)~~ (Heroku, on todo list) |                 Java, MySQL                  |                                                                                   |                          |
 
 ---
 
