@@ -80,6 +80,17 @@
           <li>
             <div class="dropdown">
               <button class="dropbtn">
+				<i class="fa-brands fa-python" title="Python Projects"></i>
+              </button>
+              <div class="dropdown-content">
+                <a href="https://django-postgresql-portfolio.onrender.com/"
+                  >Django/PostgreSQL Portfolio</a>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="dropdown">
+              <button class="dropbtn">
                 <i class="fa-brands fa-r-project" title="R Programming"></i>
               </button>
               <div class="dropdown-content">
@@ -153,7 +164,6 @@
           </li>
         </ul>
       </nav>
-
 </div>
 
 ### Deployed Apps
