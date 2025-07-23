@@ -929,19 +929,18 @@
 ## Certification
 
 <div>
+	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f1ed65d1-17b5-4320-813a-3f78abd3374f" data-share-badge-host="https://www.credly.com"></div>
 	<div class="badge">
 		<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=70F67C3148E9DBC4C9A7CBCB8FBB4EADFD01B1155C5AC0948EF34A46EDC8BEB9" alt="Oracle Certified Associate, Java SE 8 Programmer" title="Oracle Certified Associate, Java SE 8 Programmer">
 		<img width="210" height="105" src="./images/oracle_oca.png" /></a><p class="badge-name">Oracle Certified Associate Java SE 8</p><p class="badge-issuer">Issuer: Oracle</p>
 	</div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f1ed65d1-17b5-4320-813a-3f78abd3374f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8d6ac4d0-b885-4291-a7a1-07e121e39b80" data-share-badge-host="https://www.credly.com"></div>
-	<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b0f9a0b4-d0b1-4d01-80f1-0e1f66756573" data-share-badge-host="https://www.credly.com"></div>
-    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="491cabbf-624d-4fd8-8240-862c69cc3d64" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="751f328d-0da4-4abb-be73-f6d3fe140a54" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ffa3357d-17bd-43b4-aeff-e862d2cc5cbc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ffa3357d-17bd-43b4-aeff-e862d2cc5cbc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="82c581df-184b-4aae-aacd-ab17613ab7d7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ceb6a40a-16b4-4fa9-bd92-a644d5e21e64" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="491cabbf-624d-4fd8-8240-862c69cc3d64" data-share-badge-host="https://www.credly.com"></div>
+	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="751f328d-0da4-4abb-be73-f6d3fe140a54" data-share-badge-host="https://www.credly.com"></div>
+	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ffa3357d-17bd-43b4-aeff-e862d2cc5cbc" data-share-badge-host="https://www.credly.com"></div>
+	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ffa3357d-17bd-43b4-aeff-e862d2cc5cbc" data-share-badge-host="https://www.credly.com"></div>
+	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="82c581df-184b-4aae-aacd-ab17613ab7d7" data-share-badge-host="https://www.credly.com"></div>
+	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ceb6a40a-16b4-4fa9-bd92-a644d5e21e64" data-share-badge-host="https://www.credly.com"></div>
+	<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
