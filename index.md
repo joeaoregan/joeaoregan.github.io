@@ -765,6 +765,43 @@
 
 <p class="note">Click to expand the following sections:</p>
 
+<details closed><summary><b>> Django / PostgreSQL Porfolio</b></summary>
+<div class="box">
+	<h4>Django / PostgreSQL Porfolio</h4>
+	<div class="list">
+		<h5>LinkedIn learning tutorial</h5>
+		<div>
+			Added extra details to pages and PostgreSQL database and deployed on render.com.
+		</div>
+		<div>
+			<h5>Technologies Used</h5>
+			<div class="list">
+				<ul>
+					<li>Django</li>
+					<li>PostgreSQL</li>
+					<li>Python</li>
+				</ul>			
+			</div>
+			<div class="list">
+				<ul>
+					<li>Render.com</li>
+					<li>CSS</li>
+					<li>HTML</li>
+				</ul>			
+			</div>
+		</div>
+		<h5>Links</h5>
+		<ul>
+			<li><b>View Online: </b><a href="https://django-postgresql-portfolio.onrender.com/" target="_blank">Django Web App</a></li>
+			<li><b>Repo: </b><a href="https://github.com/joeaoregan/Django-PostgreSQL-Portfolio" target="_blank">https://github.com/joeaoregan/Django-PostgreSQL-Portfolio</a></li>
+		</ul>
+	</div>	
+	<div class="image">
+		<img src="https://raw.githubusercontent.com/joeaoregan/portfolio-django-py/master/screenshots/site.jpg"/>
+	</div>
+</div>
+</details>
+
 <details closed><summary><b>> Connect 5</b></summary>
 <div class="box">
 	<h4>Connect 5</h4>
