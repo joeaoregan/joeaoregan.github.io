@@ -793,7 +793,7 @@
 		<h5>Links</h5>
 		<ul>
 			<li><b>View Online: </b><a href="https://django-postgresql-portfolio.onrender.com/" target="_blank">Django Web App</a></li>
-			<li><a href="https://github.com/joeaoregan/Django-PostgreSQL-Portfolio" target="_blank">https://github.com/joeaoregan/Django-PostgreSQL-Portfolio</a></li>
+			<li><b>Repo:</b><br/><a href="https://github.com/joeaoregan/Django-PostgreSQL-Portfolio" target="_blank">https://github.com/joeaoregan/Django-PostgreSQL-Portfolio</a></li>
 		</ul>
 	</div>	
 	<div class="image">
