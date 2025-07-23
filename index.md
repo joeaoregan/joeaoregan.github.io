@@ -930,8 +930,8 @@
 
 <div>
 	<div class="badge">
+	<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=70F67C3148E9DBC4C9A7CBCB8FBB4EADFD01B1155C5AC0948EF34A46EDC8BEB9" alt="Oracle Certified Associate, Java SE 8 Programmer" title="Oracle Certified Associate, Java SE 8 Programmer"></a>
 	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f1ed65d1-17b5-4320-813a-3f78abd3374f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-	<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=70F67C3148E9DBC4C9A7CBCB8FBB4EADFD01B1155C5AC0948EF34A46EDC8BEB9" alt="Oracle Certified Associate, Java SE 8 Programmer" title="Oracle Certified Associate, Java SE 8 Programmer">	
 	<img width="210" height="105" src="./images/oracle_oca.png" /></a><p class="badge-name">Oracle Certified Associate Java SE 8</p><p class="badge-issuer">Issuer: Oracle</p></div>
 	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8d6ac4d0-b885-4291-a7a1-07e121e39b80" data-share-badge-host="https://www.credly.com"></div>
 	<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
