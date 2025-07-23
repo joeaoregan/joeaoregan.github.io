@@ -929,7 +929,7 @@
 <div>
 	<h2>Certification</h2>
 	<p><a href="https://www.credly.com/users/joe-o-regan" target="_blank">Credly Profile</a></p>
-	<div data-iframe-width="150" data-iframe-height="265" data-share-badge-id="f1ed65d1-17b5-4320-813a-3f78abd3374f" data-share-badge-host="https://www.credly.com"></div>
+	<div data-iframe-width="150" data-iframe-height="255" data-share-badge-id="f1ed65d1-17b5-4320-813a-3f78abd3374f" data-share-badge-host="https://www.credly.com"></div>
 	<div class="badge">
 		<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=70F67C3148E9DBC4C9A7CBCB8FBB4EADFD01B1155C5AC0948EF34A46EDC8BEB9" alt="Oracle Certified Associate, Java SE 8 Programmer" title="Oracle Certified Associate, Java SE 8 Programmer">
 		<img width="210" height="105" src="./images/oracle_oca.png" /></a><p class="badge-name">Oracle Certified Associate Java SE 8</p><p class="badge-issuer">Issuer: Oracle</p>
