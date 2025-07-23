@@ -771,7 +771,7 @@
 	<div class="list">
 		<h5>LinkedIn learning tutorial</h5>
 		<div>
-			Added extra details to pages and PostgreSQL database and deployed on render.com.
+			Added extra details to pages and PostgreSQL database.
 		</div>
 		<div>
 			<h5>Technologies Used</h5>
