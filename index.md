@@ -975,7 +975,9 @@
 <div>
 	<h2>Certification</h2>
 	<p><a href="https://www.credly.com/users/joe-o-regan" target="_blank">Credly Profile</a></p>
+	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="024f2270-a134-4e09-9dc2-53560d73d6b2" data-share-badge-host="https://www.credly.com" title="Certified Entry-Level Web Developer"></div>
 	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="edba2f8e-4231-40ad-94da-ebb485f11b39" data-share-badge-host="https://www.credly.com" title="[PCAP-31-03] Certified Associate Python Programmer"></div>
+	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a4c7a31b-526d-4c4c-9a73-5ca16778638e" data-share-badge-host="https://www.credly.com" title="Microsoft Office Specialist: Excel Associate (Office 2019)"></div>
 	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="32fca618-2952-4166-bf1a-48553c172cf5" data-share-badge-host="https://www.credly.com" title="[JSA-41-01] Certified Associate JavaScript Programmer"></div>
 	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a04ad6a-4339-42cd-bfab-c8993d1597b7" data-share-badge-host="https://www.credly.com" title="AWS Cloud Practitioner"></div>
 	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f1ed65d1-17b5-4320-813a-3f78abd3374f" data-share-badge-host="https://www.credly.com" title="Microsoft Azure Fundamentals"></div>
