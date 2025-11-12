@@ -9,6 +9,7 @@
 		referrerpolicy="no-referrer"
 		/>
 </head>
+Last updated: 12 November 2025
 <div>
       <nav>
         <ul>
@@ -177,12 +178,9 @@
 </div>
 <hr/>
 <h3 id="deployed">Deployed Apps</h3>
-
----
-
+<hr />
 <p class="note">Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps (e.g. <a href="https://jor-games.onrender.com/">NCI Web Design CA</a>)</p>
-
----
+<hr />
 
 | App                                                                                     |                 Technologies                 | App                                                                               |       Technologies       |
 | --------------------------------------------------------------------------------------- | :------------------------------------------: | --------------------------------------------------------------------------------- | :----------------------: |
@@ -197,8 +195,7 @@
 <hr />
 <h3 id="collegeproj">College Projects</h3>
 <p class="note">Click to expand the following sections:</p>
-
----
+<hr />
 
 <details closed><summary><b>Technology University of the Shannon</b> MSc in Software Design with Cloud Native Computing</summary>
 
