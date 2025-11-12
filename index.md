@@ -195,7 +195,7 @@
 <h3>Technology University of the Shannon (2025/26)</h3>
 <h4>MSc in Software Design with Cloud Native Computing</h4>
 
-[Module Repo](https://joeaoregan.github.io/TUS-25-Applied-Scripting/)
+<a href="https://joeaoregan.github.io/TUS-25-Applied-Scripting/">Module Repo</a>
 
 </details>
 
