@@ -190,7 +190,16 @@
 
 ---
 
-<details closed><summary><b>> Limerick Institute of Technology</b> Certificate in VFX for Film TV and Animation</summary>
+<details closed><summary><b>Technology University of the Shannon</b> MSc in Software Design with Cloud Native Computing</summary>
+
+<h3>Technology University of the Shannon (2025/26)</h3>
+<h4>MSc in Software Design with Cloud Native Computing</h4>
+
+[Module Repo](https://joeaoregan.github.io/TUS-25-Applied-Scripting/)
+
+</details>
+
+<details closed><summary><b> Limerick Institute of Technology</b> Certificate in VFX for Film TV and Animation</summary>
 
 <h3>Limerick Institute of Technology (2021)</h3>
 <h4>Certificate in VFX for Film TV and Animation</h4>
@@ -238,7 +247,7 @@
 
 ---
 
-<details closed><summary><b>> National College of Ireland</b> HDip in Cyber Security</summary>
+<details closed><summary><b> National College of Ireland</b> HDip in Cyber Security</summary>
 
 <h3>National College of Ireland (2019/2020)</h3>
 <h4>HDip in Cyber Security</h4>
@@ -328,7 +337,7 @@
 
 ---
 
-<details closed><summary><b>> Athlone Institute of Technology</b>
+<details closed><summary><b> Athlone Institute of Technology</b>
 <ul><li>Certificate in Software Engineering</li><li>MSc in Applied Software Engineering</li></ul></summary>
 
 <h3>Athlone Institute of Technology (2018)</h3>
@@ -380,7 +389,7 @@
 
 ---
 
-<details closed><summary><b>> Limerick Institute of Technology</b> BSc (Hounours) in Computing (Games Design and Development)</summary>
+<details closed><summary><b> Limerick Institute of Technology</b> BSc (Hounours) in Computing (Games Design and Development)</summary>
 
 <h3>Limerick Institute of Technology (2015/2018)</h3>
 <h4>Games Design and Development</h4>
