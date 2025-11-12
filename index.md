@@ -166,7 +166,23 @@
       </nav>
 </div>
 
+<div>
+	<h3>Contents:</h3>
+	<ul>
+		<li><a href="#deployed">Deployed Apps</a></li>
+		<li><a href="#collegeproj">College Projects</a></li>
+		<li><a href="#otherproj">Other Projects</a></li>
+		<li><a href="#certs">Certification</a></li>
+	</ul>
+</div>
+
 ### Deployed Apps
+
+---
+
+<p class="note" id="deployed">Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps (e.g. <a href="https://jor-games.onrender.com/">NCI Web Design CA</a>)</p>
+
+---
 
 | App                                                                                     |                 Technologies                 | App                                                                               |       Technologies       |
 | --------------------------------------------------------------------------------------- | :------------------------------------------: | --------------------------------------------------------------------------------- | :----------------------: |
@@ -178,15 +194,9 @@
 | [Django / PostgreSQL Portfolio](https://django-postgresql-portfolio.onrender.com/)      |          Python, Django, PostgreSQL          | [Chat App](https://jor-chat.onrender.com/)                                        |   JavaScript, Node.js    |
 | ~~[EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/)~~ (Heroku, on todo list) |                 Java, MySQL                  |                                                                                   |                          |
 
----
-
-<p class="note">Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps (e.g. <a href="https://jor-games.onrender.com/">NCI Web Design CA</a>)</p>
-
----
-
 ## College Projects
 
-<p class="note">Click to expand the following sections:</p>
+<p class="note" id="collegeproj">Click to expand the following sections:</p>
 
 ---
 
@@ -774,7 +784,7 @@
 
 ## Other Projects
 
-<p class="note">Click to expand the following sections:</p>
+<p class="note" id="otherproj">Click to expand the following sections:</p>
 
 <details closed><summary><b>> Django / PostgreSQL Porfolio</b></summary>
 <div class="box">
@@ -975,7 +985,7 @@
 [Back to top](#links)
 
 <div>
-	<h2>Certification</h2>
+	<h2 id="certs">Certification</h2>
 	<p><a href="https://www.credly.com/users/joe-o-regan" target="_blank">Credly Profile</a></p>
 	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="024f2270-a134-4e09-9dc2-53560d73d6b2" data-share-badge-host="https://www.credly.com" title="Certified Entry-Level Web Developer"></div>
 	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="edba2f8e-4231-40ad-94da-ebb485f11b39" data-share-badge-host="https://www.credly.com" title="[PCAP-31-03] Certified Associate Python Programmer"></div>
