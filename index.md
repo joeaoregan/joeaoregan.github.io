@@ -197,12 +197,14 @@ Last updated: 12 November 2025
 <p class="note">Click to expand the following sections:</p>
 <hr />
 
-<details closed><summary><b>Technology University of the Shannon</b> MSc in Software Design with Cloud Native Computing</summary>
+<details open><summary><b>Technology University of the Shannon</b> MSc in Software Design with Cloud Native Computing</summary>
 
 <h3>Technology University of the Shannon (2025/26)</h3>
 <h4>MSc in Software Design with Cloud Native Computing</h4>
 
-<a href="https://joeaoregan.github.io/TUS-25-Applied-Scripting/">Module Repo</a>
+<a href="https://joeaoregan.github.io/TUS-25-Applied-Scripting/">Applied Scripting (Python) Module Repo</a>
+<br/>
+<a href="https://github.com/joeaoregan/TUS-25-CDD-CA1">Container Design and Deployment: Assignment 1</a>
 
 </details>
 
