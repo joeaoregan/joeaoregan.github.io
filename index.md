@@ -199,6 +199,8 @@
 
 </details>
 
+---
+
 <details closed><summary><b> Limerick Institute of Technology</b> Certificate in VFX for Film TV and Animation</summary>
 
 <h3>Limerick Institute of Technology (2021)</h3>
