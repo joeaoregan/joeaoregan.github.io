@@ -1,4 +1,6 @@
-# Joe O'Regan | Project Portfolio
+# Joe O'Regan
+
+<h2>Project Portfolio</h2>
 
 <div markdown="1" style="text-align: center; margin: 30px 0; font-size: 40px;">
 <div markdown="1" style="display: inline-block" title="Visit my GitHub profile">
@@ -209,12 +211,11 @@ Click to expand the following sections:
 
 <details closed><summary><b> Athlone Institute of Technology</b>
 <ul><li>Certificate in Software Engineering</li><li>MSc in Applied Software Engineering</li></ul></summary>
-
-<h3>Athlone Institute of Technology (2018)</h3>
 <h4>Certificate in Software Engineering</h4>
-
 <div class="box">
 	<h4>JR Boating - Group Project - Dynamic Webpage</h4>
+	<div align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/GXxJcnGdWsE" title="JRBoating Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<h6>CSE Team Project - Dynamic Webpage Assignment, JRBoating Clip</h6></div>
 	<div>
 		<div class="list text">
 			<h5>Group Project (2018)</h5>
@@ -596,7 +597,8 @@ Click to expand the following sections:
 
 <details closed><summary><b>> Django / PostgreSQL Porfolio</b></summary>
 <div class="box">
-	<div align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/9lGoAAfoc3k" title="Django PostgreSQL Portfolio Site" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+	<div align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/9lGoAAfoc3k" title="Django PostgreSQL Portfolio Site" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<h6>Django PostgresSQL Portfolio Site</h6></div>
 	<div class="list">
 		<h5>LinkedIn learning tutorial</h5>
 		<div>
