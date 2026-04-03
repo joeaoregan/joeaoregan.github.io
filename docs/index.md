@@ -1,6 +1,6 @@
-# Joe O'Regan
+# Project Portfolio
 
-<h2>Project Portfolio</h2>
+<h2 align="center">Joe O'Regan</h2>
 
 <div markdown="1" style="text-align: center; margin: 30px 0; font-size: 40px;">
 <div markdown="1" style="display: inline-block" title="Visit my GitHub profile">
@@ -14,7 +14,7 @@
 </div>
 </div>
 
-MSc in Software Design with Cloud Native Computing student at Technological University of the Shannon, graduating in 2026, with 2 years of software development experience.
+[MSc in Software Design with Cloud Native Computing](college/2026-tus/index.md) student at Technological University of the Shannon, graduating in 2026, with 2 years of software development experience.
 
 ---
 
