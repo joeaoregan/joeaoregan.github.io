@@ -5,16 +5,19 @@
 ### Engineering Team Project
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/SVtUEn6-pmU" title="ETP Sumo, Traffic Simulator Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-###### SUMO Traffic Simulation Demo
+<h6>ETP Sumo, Traffic Simulator Demonstration</h6>
 
 - <https://github.com/joeaoregan/TUS-26-ETP-AI-Traffic-Optimisation>
+
+---
 
 ### Microservices Architecture
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/VXFKyfw5zmo" title="Guitar Strore API - Guitars Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h6>Guitar Strore API - Guitars Demo</h6>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/z5adidLxAFg" title="Guitar Store API - Brands Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h6>Guitar Store API - Brands Demo</h6>
 
 #### Continuous Assessment 1
 - <https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API>
@@ -29,29 +32,34 @@
 #### Labs
 - <https://github.com/joeaoregan/TUS-26-MA-Labs>
 
+---
+
 ### Continuous Build and Delivery
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/jyT-ziHCOLA" title="Continuous Build &amp; Delivery CA1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-###### Guitar Store RESTful API application Software Testing & Coverage Demo
+<h6>Guitar Store RESTful API application Software Testing & Coverage Demo</h6>
 
 AI Assisted Software Testing of Microservices Architecture CA 1 Spring Boot application.
 
 - <https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API>
 - <https://joeaoregan.github.io/TUS-26-MA-CA1-Guitar-Store-API/continuous-build-and-delivery-ca1/>
 
+
 ### Object-Oriented Programming 2
 
-- [To Do]()
+- <https://github.com/joeaoregan/TUS-26-OOP2-CA>
+
+---
 
 ### Container Design and Deployment
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/QPC0n3RcKgY" title="Container Design &amp; Deployment CA1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-###### CA1 Auto Scaling & Load Balancing on AWS Demo
+<h6>CA1 Auto Scaling & Load Balancing on AWS Demo</h6>
 
 - <https://github.com/joeaoregan/TUS-25-CDD-CA1-Deploying-Microservice>
 - <https://github.com/joeaoregan/TUS-25-CDD-CA1>
+
+---
 
 ### Applied Scripting
 
