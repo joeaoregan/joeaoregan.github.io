@@ -58,15 +58,18 @@ nav:
   - College: 
     - Courses: college/index.md
     - 2026 TUS: college/2026-tus/index.md
-    - 2022 DKIT: college/2022-dkit/index.md
+    - 2023 DKIT: college/2023-dkit/index.md
+    - 2021 LIT: college/2021-lit/index.md
     - 2018 AIT: college/2018-ait/index.md
     - 2018 LIT:
       - LIT: college/2018-lit/index.md
-      - 2nd Year: college/2018-lit/year2.md
-      - 3rd Year: college/2018-lit/year3.md
       - 4th Year: college/2018-lit/year4.md
+      - 3rd Year: college/2018-lit/year3.md
+      - 2nd Year: college/2018-lit/year2.md
   - Projects: projects/index.md
-  - Games: games/index.md
+  - Games: 
+    - Overview: games/index.md
+    - Antibody: games/antibody.md
   - Certificates: certification/index.md
   
 markdown_extensions:
