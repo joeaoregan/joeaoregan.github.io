@@ -1,219 +1,79 @@
-<head>
-	<link rel="shortcut icon" type="image/x-icon" href="images\favicon.ico">
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<link
-		rel="stylesheet"
-		href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
-		integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
-		crossorigin="anonymous"
-		referrerpolicy="no-referrer"
-		/>
-</head>
-Last updated: 12 November 2025
-<div>
-      <nav>
-        <ul>
-          <li>
-            <a href="https://joeaoregan.github.io/">
-              <i class="fa-solid fa-house" title="GitHub Pages Home"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://github.com/joeaoregan/joeaoregan.github.io">
-              <i class="fa-solid fa-code" title="This Project GitHub Repo"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://github.com/joeaoregan">
-              <i class="fa-brands fa-github" title="GitHub Profile"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.linkedin.com/in/joeaoregan/">
-              <i class="fa-brands fa-linkedin" title="LinkedIn Profile"></i>
-            </a>
-          </li>
-          <li>
-            <div class="dropdown">
-              <button class="dropbtn">
-                <i class="fa-brands fa-react" title="React Projects"></i>
-              </button>
-              <div class="dropdown-content">
-                <a
-                  href="https://joeaoregan.github.io/react-vite-nasa-apod-api-app/"
-                  >NASA APOD API App</a
-                >
-                <a
-                  href="https://joeaoregan.github.io/react-nasa-techtransfer-api-app/"
-                  >NASA Tech Transfer API App</a
-                >
-                <a href="https://joeaoregan.github.io/react-apod-api-app/"
-                  >NASA APOD API App 2</a
-                >
-                <a href="https://joeaoregan.github.io/react-swapi-app/"
-                  >Star Wars SWAPI API App</a
-                >
-                <a href="https://joeaoregan.github.io/react-tic-tac-toe/"
-                  >Tic Tac Toe</a
-                >
-                <a href="https://joeaoregan.github.io/react-todo-list/"
-                  >Todo List</a
-                >
-                <a href="https://jor-react-full-stack-site.onrender.com/"
-                  >Full Stack React Project: Blog</a
-                >
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="dropdown">
-              <button class="dropbtn">
-                <i class="fa-brands fa-node-js" title="Node.js"></i>
-              </button>
-              <div class="dropdown-content">
-                <a href="https://jor-connect5.onrender.com">Connect 5 JS</a>
-                <a href="https://antibody-js.onrender.com">Antibody JS </a>
-                <a href="https://spacequest.onrender.com/">SpaceQuest JS </a>
-                <a href="https://jor-chat.onrender.com/">Chat </a>
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="dropdown">
-              <button class="dropbtn">
-				<i class="fa-brands fa-python" title="Python Projects"></i>
-              </button>
-              <div class="dropdown-content">
-                <a href="https://django-postgresql-portfolio.onrender.com/"
-                  >Django/PostgreSQL Portfolio</a>
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="dropdown">
-              <button class="dropbtn">
-                <i class="fa-brands fa-r-project" title="R Programming"></i>
-              </button>
-              <div class="dropdown-content">
-                <a href="https://joeaoregan.github.io/2022_DAIE_GCA_JOR/">
-                  Group CA: Descriptive & Inferential Analysis
-                </a>
-                <a href="https://joeaoregan.github.io/2022_DAIE_CA4_JOR1">
-                  CA4: Generate & Populate DB
-                </a>
-                <a href="https://joeaoregan.github.io/2022_DAIE_CA4_JOR1/query">
-                  CA4: Querying DB
-                </a>
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="dropdown">
-              <button class="dropbtn">
-                <i class="fa-brands fa-unity" title="Unity Projects"></i>
-              </button>
-              <div class="dropdown-content">
-                <a href="https://joeaoregan.github.io/LIT-Yr4-Unity-RollABall"
-                  >Roll A Ball
-                </a>
-                <a href="https://joeaoregan.github.io/LIT-Yr4-Unity-SpaceShooter"
-                  >Space Shooter
-                </a>
-                <a
-                  href="https://joeaoregan.github.io/LIT-Yr4-DigitalGameEngines"
-                  >Zombie Apocalypse
-                </a>
-                <a
-                  href="https://joeaoregan.github.io/unity-games/Unity/2d-roguelike.html"
-                  >2D Roguelike (Unity Tutorial)
-                </a>
-                <a
-                  href="https://joeaoregan.github.io/unity-games/Unity/2d-ufo.html"
-                  >2D UFO (Unity Tutorial)
-                </a>
-                <a
-                  href="https://joeaoregan.github.io/unity-games/Unity/nightmares.html"
-                  >Nightmares (Unity Tutorial)
-                </a>
-                <a
-                  href="https://joeaoregan.github.io/unity-games/Unity/tanks-original.html"
-                  >Tanks (Unity Tutorial)
-                </a>
-              </div>
-            </div>
-          </li>
-          <li>
-            <div class="dropdown">
-              <button class="dropbtn">
-                <img
-                  src="./images/processing.svg"
-                  alt="Processing Logo"
-                  width="16px"
-                  height="16px"
-                  title="Processing"
-                />
-              </button>
-              <div class="dropdown-content">
-                <a href="https://joeaoregan.github.io/LIT-Yr3-Graphics/"
-                  >Big Foot 3D Scene</a
-                >
-                <a href="https://joeaoregan.github.io/LIT-Yr3-Graphics/2d/"
-                  >2D Scenes</a
-                >
-              </div>
-            </div>
-          </li>
-        </ul>
-      </nav>
+# Joe O'Regan | Project Portfolio
+
+<div markdown="1" style="text-align: center; margin: 30px 0; font-size: 40px;">
+<div markdown="1" style="display: inline-block" title="Visit my GitHub profile">
+[:fontawesome-brands-github:](https://github.com/joeaoregan "Visit my GitHub profile"){ style="margin: 0 15px;" target="_blank"}
+</div>
+<div markdown="1" style="display: inline-block" title="Connect with me on LinkedIn">
+[:fontawesome-brands-linkedin:](https://www.linkedin.com/in/joeaoregan/ "Connect with me on LinkedIn"){ style="margin: 0 15px;" target="_blank"}
+</div>
+<div markdown="1" style="display: inline-block" title="View my Credly credentials">
+[:material-certificate-outline:](https://www.credly.com/users/joe-o-regan "View my Credly credentials"){ style="margin: 0 15px;" target="_blank"}
+</div>
 </div>
 
-<div>
-	<h3>Contents:</h3>
-	<ul>
-		<li><a href="#deployed">Deployed Apps</a></li>
-		<li><a href="#collegeproj">College Projects</a></li>
-		<li><a href="#otherproj">Other Projects</a></li>
-		<li><a href="#certs">Certification</a></li>
-	</ul>
-</div>
-<hr/>
-<h3 id="deployed">Deployed Apps</h3>
-<hr />
+MSc in Software Design with Cloud Native Computing student at Technological University of the Shannon, graduating in 2026, with 2 years of software development experience.
+
+---
+
+## Deployed Apps
+
 <p class="note">Each project has a link to the GitHub on repo where more screenshots can be viewed, and links to any active sites for web-apps (e.g. <a href="https://jor-games.onrender.com/">NCI Web Design CA</a>)</p>
 <hr />
 
 | App                                                                                     |                 Technologies                 | App                                                                               |       Technologies       |
-| --------------------------------------------------------------------------------------- | :------------------------------------------: | --------------------------------------------------------------------------------- | :----------------------: |
-| [React Full-stack Site](https://jor-react-full-stack-site.onrender.com)                 | MongoDB, Express, React, Node.js, JavaScript | [Vue Star Wars API (SWAPI) App](https://vuejs-frontenddemo.onrender.com)          | Vue, Node.js, JavaScript |
+| --------------------------------------------------------------------------------------- | :------------------------------------------: | ---------------------------------------------------------------------------- | :----------------------: |
+| [React Full-stack Site](https://jor-react-full-stack-site.onrender.com)                 | MongoDB, Express, React, Node.js, JavaScript | [Vue Star Wars API (SWAPI) App](https://vuejs-frontenddemo.onrender.com)     | Vue, Node.js, JavaScript |
 | [Antibody](https://antibody-js.onrender.com/)                                           |                  JavaScript                  | [Roll-A-Ball](https://jor-unity.onrender.com/Unity/roll-a-ball-modified.html)     |        C#, Unity         |
 | [Tetris](https://tetris-js.onrender.com/)                                               |             Angular, TypeScript              | [Space Shooter](https://jor-unity.onrender.com/Unity/space-shooter-extended.html) |        C#, Unity         |
 | [Connect5](https://jor-connect5.onrender.com/)                                          |             JavaScript, Node.js              | [Space Quest](https://spacequest.onrender.com)                                    |        JavaScript        |
 | [Flappy Bird](https://jor-games.onrender.com/flappybird.html)                           |                  JavaScript                  | [Space Invaders](https://jor-games.onrender.com/spaceinvaders.html)               |        JavaScript        |
 | [Django / PostgreSQL Portfolio](https://django-postgresql-portfolio.onrender.com/)      |          Python, Django, PostgreSQL          | [Chat App](https://jor-chat.onrender.com/)                                        |   JavaScript, Node.js    |
-| ~~[EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/)~~ (Heroku, on todo list) |                 Java, MySQL                  |                                                                                   |                          |
+| [EAD - Dynamic Web Page](https://lit-yr2-ead.herokuapp.com/)  |                 Java,MySQL  |  |
 
-<hr />
-<h3 id="collegeproj">College Projects</h3>
-<p class="note">Click to expand the following sections:</p>
-<hr />
+---
 
-<details open><summary><b>Technology University of the Shannon</b> MSc in Software Design with Cloud Native Computing</summary>
+## College Projects
 
-<h3>Technology University of the Shannon (2025/26)</h3>
-<h4>MSc in Software Design with Cloud Native Computing</h4>
+Click to expand the following sections:
 
-<a href="https://joeaoregan.github.io/TUS-25-Applied-Scripting/">Applied Scripting (Python) Module Repo</a>
-<br/>
-<a href="https://github.com/joeaoregan/TUS-25-CDD-CA1">Container Design and Deployment: Assignment 1</a>
-
+<details open><summary>MSc in Software Design with Cloud Native Computing<br/><sub>Technology University of the Shannon, 2026</sub></summary>
+<div align="center">
+	<details open><summary><b>Engineering Team Project</b></summary>
+		<iframe width="640" height="360" src="https://www.youtube.com/embed/SVtUEn6-pmU" title="ETP Sumo, Traffic Simulator Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br/>
+		<a href="https://joeaoregan.github.io/TUS-26-ETP-AI-Traffic-Optimisation/">AI Traffic Flow Optimisation Docs</a><br/>
+		<a href="https://github.com/joeaoregan/TUS-26-ETP-AI-Traffic-Optimisation">AI Traffic Flow Optimisation Repo</a><br/>
+		<a href="https://ai-traffic-control-api.onrender.com/">Java API Gateway App</a><br/>
+		<a href="https://ai-traffic-control-api.onrender.com/swagger-ui/index.html">Java API Gateway Swagger UI Docs</a><br/>
+		<a href="https://traffic-inference-service.onrender.com/">Python Inference Service App</a><br/>
+		<a href="https://traffic-inference-service.onrender.com/docs">Python Inference Service FastAPI Docs</a>	
+	</details>
+	<details closed><summary><b>Microservices Architecture</b></summary>
+		<a href="https://joeaoregan.github.io/TUS-26-MA-CA1-Guitar-Store-API/">Assignment 1 - RESTful API Application Docs</a><br/>
+		<a href="https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API">Assignment 1 - RESTful API Application Repo</a><br/>
+		<a href="https://github.com/joeaoregan/TUS-26-MA-CA2-Distributed-Microservice-App">Assignment 2 - Distributed Microservice Repo</a><br/>
+		<a href="https://joeaoregan.github.io/TUS-26-MA-Labs/">Class Labs Docs</a><br/>
+		<a href="https://github.com/joeaoregan/TUS-26-MA-Labs">Class Labs Repo</a>
+	</details>
+	<details closed><summary><b>Continuous Build and Delivery</b></summary>
+		<p>This project uses the same repo as the Microservices Architecure CA1, to test the Spring Boot application using AI tools.</p><br/>
+		<a href="https://joeaoregan.github.io/TUS-26-MA-CA1-Guitar-Store-API/continuous-build-and-delivery-ca1/">Assignment 1 - AI Assisted Testing Docs</a><br/>
+		<a href="https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API">Assignment 1 - AI Assisted Testing Repo</a><br/>
+	</details>
+	<details closed><summary><b>Container Design and Deployment</b></summary>
+		<a href="https://github.com/joeaoregan/TUS-25-CDD-CA1-Deploying-Microservice">Assignment 1 - Deploying a Microservice on AWS with AutoScaling</a><br/>
+		<a href="https://github.com/joeaoregan/TUS-25-CDD-CA1">Assignment 1 - Misc</a>
+	</details>
+	<details closed><summary><b>Applied Scripting</b></summary>
+		<p>Python module with Exception and File Handling, Data Vizualization, Matplotlib, and Regular Expressions.</p><br/>
+		<a href="https://joeaoregan.github.io/TUS-25-Applied-Scripting/">Class Labs</a>
+	</details>
+</div>
 </details>
 
 ---
 
-<details closed><summary><b> Limerick Institute of Technology</b> Certificate in VFX for Film TV and Animation</summary>
-
-<h3>Limerick Institute of Technology (2021)</h3>
-<h4>Certificate in VFX for Film TV and Animation</h4>
+<details closed><summary>Certificate in VFX for Film TV and Animation<br/><sub>Limerick Institute of Technology, 2021</sub></summary>
 
 <div class="box">
 	<h4>1989 Batmobile - 3D Model + Render</h4>
@@ -258,10 +118,9 @@ Last updated: 12 November 2025
 
 ---
 
-<details closed><summary><b> National College of Ireland</b> HDip in Cyber Security</summary>
+<details closed><summary>HDip in Cyber Security<br/><sub>National College of Ireland, 2019/2020</sub></summary>
 
 <h3>National College of Ireland (2019/2020)</h3>
-<h4>HDip in Cyber Security</h4>
 
 <div class="box">
 	<h4>J.I.M. Games - Group Project - Dynamic Webpage</h4>
@@ -279,15 +138,10 @@ Last updated: 12 November 2025
 				<h5>Technologies Used</h5>
 				<div class="list">
 					<ul>
-						<li>HTML</li>
-						<li>CSS</li>
+						<li>HTML, CSS</li>
 						<li>JavaScript</li>
 						<li>jQuery</li>
 						<li>JSON</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
 						<li>Node JS</li>
 						<li>HTML5 Games</li>
 						<li>Google Map Integration</li>
@@ -322,10 +176,6 @@ Last updated: 12 November 2025
 				<div class="list">
 					<ul>
 						<li>Java</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
 						<li>JOptionPane</li>
 					</ul>			
 				</div>
@@ -368,18 +218,12 @@ Last updated: 12 November 2025
 					<ul>
 						<li>Java</li>
 						<li>MySQL</li>
-						<li>HTML5</li>
-						<li>CSS</li>
+						<li>HTML5, CSS</li>
 						<li>JUnit</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
 						<li>JDBC</li>
 						<li>Java Server Faces (JSF)</li>
 						<li>Prime Faces</li>
-						<li>Agile</li>
-						<li>Scrum</li>
+						<li>Agile, Scrum</li>
 					</ul>			
 				</div>
 			</div>
@@ -400,12 +244,9 @@ Last updated: 12 November 2025
 
 ---
 
-<details closed><summary><b> Limerick Institute of Technology</b> BSc (Hounours) in Computing (Games Design and Development)</summary>
+<details open><summary> BSc (Hounours) in Computing (Games Design and Development)<br/><sub>Limerick Institute of Technology, 2018</sub></summary>
 
-<h3>Limerick Institute of Technology (2015/2018)</h3>
-<h4>Games Design and Development</h4>
-
-<details closed><summary><b>Year 4</b></summary>
+<details><summary><b>Year 4</b></summary>
 
 <div class="box">
 	<h4>Jor_Net: Networked Games Library</h4>
@@ -424,15 +265,10 @@ Last updated: 12 November 2025
 						<li>UDP</li>
 						<li>C</li>
 						<li>C++</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
 						<li>Cross-platform development</li>
-						<li>Windows</li>
-						<li>Linux</li>
 						<li>SDL2</li>
 						<li>Client / Server</li>
+						<li>OS: Windows, Linux</li>
 					</ul>			
 				</div>
 			</div>
@@ -466,16 +302,10 @@ Last updated: 12 November 2025
 						<li>Google Analytics</li>
 						<li>Google Play Games</li>
 						<li>Android Studio</li>
-						<li>Windows</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
-						<li>Linux</li>
-						<li>MacOS</li>
 						<li>Cocos2d-x</li>
 						<li>Cross-Platform Development</li>
 						<li>SDK Box</li>
+						<li>OS: Windows, Linux, MacOS</li>
 					</ul>			
 				</div>
 			</div>
@@ -508,10 +338,6 @@ Last updated: 12 November 2025
 						<li>Unity</li>
 						<li>Virtual Reality</li>
 						<li>Game Engines</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
 						<li>3D Graphics</li>
 						<li>3D Audio (Spatial Sound)</li>
 						<li>Animation</li>
@@ -548,10 +374,6 @@ Last updated: 12 November 2025
 					<ul>
 						<li>C#</li>
 						<li>Unity</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
 						<li>Game Engines</li>
 						<li>3D Graphics</li>
 					</ul>			
@@ -590,10 +412,6 @@ Last updated: 12 November 2025
 						<li>C</li>
 						<li>TCP</li>
 						<li>UDP</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
 						<li>Socket Programming</li>
 						<li>Linux</li>
 						<li>client/Server</li>
@@ -625,10 +443,6 @@ Last updated: 12 November 2025
 					<ul>
 						<li>C++</li>
 						<li>Bullet Physics</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
 						<li>OpenGL</li>
 						<li>SDL2</li>
 					</ul>			
@@ -669,13 +483,9 @@ Last updated: 12 November 2025
 						<li>C++</li>
 						<li>Simple DirectMedia Layer (SDL2)</li>
 						<li>Git</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
-						<li>Guitar Pro</li>
 						<li>Agile Development</li>
-						<li>Object Oriented</li>
+						<li>Guitar Pro</li>
+						<li>Object Oriented Programming</li>
 					</ul>			
 				</div>
 			</div>
@@ -708,13 +518,8 @@ Last updated: 12 November 2025
 						<li>C++</li>
 						<li>Simple DirectMedia Layer (SDL2)</li>
 						<li>XML</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
 						<li>zlib</li>
 						<li>XML Parser</li>
-						<li>Game Design</li>
 					</ul>			
 				</div>
 			</div>
@@ -751,12 +556,7 @@ Last updated: 12 November 2025
 				<ul>
 					<li>Java Servlets</li>
 					<li>JavaScript</li>
-					<li>HTML</li>
-				</ul>			
-			</div>
-			<div class="list">
-				<ul>
-					<li>CSS</li>
+					<li>HTML, CSS</li>
 					<li>MySQL</li>
 					<li>JDBC</li>
 				</ul>			
@@ -781,12 +581,13 @@ Last updated: 12 November 2025
 
 ---
 
-<h3 id="otherproj">Other Projects</h3>
+## Other Projects
+
 <p class="note">Click to expand the following sections:</p>
 
 <details closed><summary><b>> Django / PostgreSQL Porfolio</b></summary>
 <div class="box">
-	<h4>Django / PostgreSQL Porfolio</h4>
+	<div align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/9lGoAAfoc3k" title="Django PostgreSQL Portfolio Site" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 	<div class="list">
 		<h5>LinkedIn learning tutorial</h5>
 		<div>
@@ -799,14 +600,8 @@ Last updated: 12 November 2025
 					<li>Django</li>
 					<li>PostgreSQL</li>
 					<li>Python</li>
-				</ul>			
-			</div>
-			<div class="list">
-				<ul>
 					<li>Render.com</li>
-					<li>CSS</li>
-					<li>HTML</li>
-				</ul>			
+					<li>CSS, 		
 			</div>
 		</div>
 		<h5>Links</h5>
@@ -821,9 +616,42 @@ Last updated: 12 November 2025
 </div>
 </details>
 
+<details closed><summary><b>> Chat App</b></summary>
+<div class="box">
+	<div class="list text">
+		<h5>Simple NodeJS Chat Application (2019)</h5>
+		<div>
+			Simple chat application using JavaScript and Node.js. This has since been improved upon and added to the above <a href="https://jor-connect5.onrender.com/" target="_blank">Connect 5</a> node.js game.
+		</div>
+		<div>
+			<h5>Technologies Used</h5>
+			<div class="list">
+				<ul>
+					<li>Node JS, JavaScript</li>
+					<li>Render / Heroku</li>
+					<li>HTML, CSS</li>
+					<li>HTTP</li>
+				</ul>			
+			</div>
+		</div>
+		<h5>Links</h5>
+		<ul>
+			<li><b>Try Online: </b><a href="https://chat-jor.herokuapp.com/" target="_blank">Interactable Heroku Web App</a></li>
+			<li><b>Repo: </b><a href="https://github.com/joeaoregan/NodeJS-AppsAndTutorials/tree/master/Chat-JOR" target="_blank">https://github.com/joeaoregan/NodeJS-AppsAndTutorials/tree/master/Chat-JOR</a></li>
+		</ul>
+	</div>	
+	<div class="image">
+		<img src="https://raw.githubusercontent.com/joeaoregan/NodeJS-AppsAndTutorials/master/Screenshots/screenshot3.jpg"/>
+	</div>
+</div>
+</details>
+
+---
+
+## Games
+<p class="note">Click to expand the following sections:</p>
 <details closed><summary><b>> Connect 5</b></summary>
 <div class="box">
-	<h4>Connect 5</h4>
 	<div class="list">
 		<h5>Job Application Coding Challenge (2019)</h5>
 		<div>
@@ -836,12 +664,7 @@ Last updated: 12 November 2025
 					<li>Node JS</li>
 					<li>JavaScript</li>
 					<li>Render / Heroku</li>
-				</ul>			
-			</div>
-			<div class="list">
-				<ul>
-					<li>HTML</li>
-					<li>CSS</li>
+					<li>HTML, >CSS</li>
 					<li>HTTP</li>
 				</ul>			
 			</div>
@@ -859,149 +682,61 @@ Last updated: 12 November 2025
 </div>
 </details>
 
-<details closed><summary><b>> Chat App</b></summary>
-<div class="box">
-	<h4>Chat App</h4>
-	<div>
-		<div class="list text">
-			<h5>Simple NodeJS Chat Application (2019)</h5>
-			<div>
-				Simple chat application using JavaScript and Node.js. This has since been improved upon and added to the above <a href="https://jor-connect5.onrender.com/" target="_blank">Connect 5</a> node.js game.
-			</div>
-			<div>
-				<h5>Technologies Used</h5>
-				<div class="list">
-					<ul>
-						<li>Node JS</li>
-						<li>JavaScript</li>
-						<li>Render / Heroku</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
-						<li>HTML</li>
-						<li>CSS</li>
-						<li>HTTP</li>
-					</ul>			
-				</div>
-			</div>
-			<h5>Links</h5>
-			<ul>
-				<li><b>Try Online: </b><a href="https://chat-jor.herokuapp.com/" target="_blank">Interactable Heroku Web App</a></li>
-				<li><b>Repo: </b><a href="https://github.com/joeaoregan/NodeJS-AppsAndTutorials/tree/master/Chat-JOR" target="_blank">https://github.com/joeaoregan/NodeJS-AppsAndTutorials/tree/master/Chat-JOR</a></li>
-			</ul>
-		</div>	
-		<div class="image">
-			<img src="https://raw.githubusercontent.com/joeaoregan/NodeJS-AppsAndTutorials/master/Screenshots/screenshot3.jpg"/>
-		</div>
-	</div>
-</div>
-</details>
-
 <details closed><summary><b>> Java Games</b></summary>
 <div class="box">
-	<h4>Java Games</h4>
-	<div>
-		<div class="list text">
-			<h5>Flappy Bird, BlockBreaker, Connect 5 (2019)</h5>
-			<div>
-				Java Apps and Tutorials. With Flappy Bird, BlockBreaker, and Connect 5 Java version of <a href="https://jor-connect5.onrender.com/" target="_blank">Connect 5</a> node.js game. I have exported runnable JAR files of the games.
+	<div class="list text">
+		<h5>Flappy Bird, BlockBreaker, Connect 5 (2019)</h5>
+		<div>
+			Java Apps and Tutorials. With Flappy Bird, BlockBreaker, and Connect 5 Java version of <a href="https://jor-connect5.onrender.com/" target="_blank">Connect 5</a> node.js game. I have exported runnable JAR files of the games.
+			<h5>Technologies Used</h5>
+			<div class="list">
+				<ul>
+					<li>Node JS, JavaScript</li>
+					<li>Render / Heroku</li>
+					<li>HTML, CSS</li>
+					<li>HTTP</li>
+				</ul>			
 			</div>
-			<div>
-				<h5>Technologies Used</h5>
-				<div class="list">
-					<ul>
-						<li>Node JS</li>
-						<li>JavaScript</li>
-						<li>Render / Heroku</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
-						<li>HTML</li>
-						<li>CSS</li>
-						<li>HTTP</li>
-					</ul>			
-				</div>
-			</div>
-			<h5>Links</h5>
-			<ul>
-				<li><b>Downloads: </b><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/FBv1.0/FlappyBird.jar" download>Flappy Bird</a> (486 KB), 
-				<a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.02/BlockBreaker.jar" download>Block Breaker</a> (41.9 KB), 
-				<a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Connect 5</a> (11.3 KB)</li> 
-				<li><b>Repo: </b><a href="https://github.com/joeaoregan/Java-AppsAndTutorials" target="_blank">https://github.com/joeaoregan/Java-AppsAndTutorials</a></li>
-			</ul>
-		</div>	
-		<div class="image">
-			<img src="https://raw.githubusercontent.com/joeaoregan/Java-AppsAndTutorials/master/Screenshots/Connect5Java.jpg"/>
 		</div>
+		<h5>Links</h5>
+		<ul>
+			<li><b>Downloads: </b><a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/FBv1.0/FlappyBird.jar" download>Flappy Bird</a> (486 KB), 
+			<a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.02/BlockBreaker.jar" download>Block Breaker</a> (41.9 KB), 
+			<a href="https://github.com/joeaoregan/Java-AppsAndTutorials/releases/download/v1.01/Connect5.jar" download>Connect 5</a> (11.3 KB)</li> 
+			<li><b>Repo: </b><a href="https://github.com/joeaoregan/Java-AppsAndTutorials" target="_blank">https://github.com/joeaoregan/Java-AppsAndTutorials</a></li>
+		</ul>
+	</div>	
+	<div class="image">
+		<img src="https://raw.githubusercontent.com/joeaoregan/Java-AppsAndTutorials/master/Screenshots/Connect5Java.jpg"/>
 	</div>
 </div>
 </details>
 
-<details closed><summary><b>> Angular Games</b></summary>
+<details closed><summary><b>> Angular Tetris</b></summary>
 <div class="box">
-	<h4>Angular Games</h4>
-	<div>
-		<div class="list text">
-			<h5>Angular Tetris</h5>
-			<div>
-				Angular Tetris game, deployed as Web App.
-			</div>
-			<div>
-				<h5>Technologies Used</h5>
-				<div class="list">
-					<ul>
-						<li>Angular</li>
-						<li>TypeScript</li>
-						<li>Render / Heroku</li>
-					</ul>			
-				</div>
-				<div class="list">
-					<ul>
-						<li>HTML</li>
-						<li>CSS</li>
-						<li>JavaScript</li>
-					</ul>			
-				</div>
-			</div>
-			<h5>Links</h5>
-			<ul>
-				<li><b>Play Online: </b><a href="https://tetris-js.onrender.com/" target="_blank">Angular Tetris Web App</a></li>
-				<li><b>Repo: </b><a href="https://github.com/joeaoregan/jor-tetris" target="_blank">https://github.com/joeaoregan/jor-tetris</a></li>
-			</ul>
-		</div>	
-		<div class="image">
-			<img src="https://raw.githubusercontent.com/joeaoregan/jor-tetris/master/screenshot/tetris1.jpg"/>
+	<div align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/xD_03mSvV3s" title="NG Tetris" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+	<div class="list text">
+		<div>
+			Angular Tetris game, deployed as Web App.
 		</div>
+		<div>
+			<h5>Technologies Used</h5>
+			<div class="list">
+				<ul>
+					<li>Angular</li>
+					<li>TypeScript</li>
+					<li>Render</li>
+				</ul>			
+			</div>
+		</div>
+		<h5>Links</h5>
+		<ul>
+			<li><b>Play Online: </b><a href="https://tetris-js.onrender.com/" target="_blank">Angular Tetris Web App</a></li>
+			<li><b>Repo: </b><a href="https://github.com/joeaoregan/jor-tetris" target="_blank">https://github.com/joeaoregan/jor-tetris</a></li>
+		</ul>
+	</div>	
+	<div class="image">
+		<img src="https://raw.githubusercontent.com/joeaoregan/jor-tetris/master/screenshot/tetris1.jpg"/>
 	</div>
 </div>
 </details>
-
----
-
-[Back to top](#links)
-
-<div>
-	<h2 id="certs">Certification</h2>
-	<p><a href="https://www.credly.com/users/joe-o-regan" target="_blank">Credly Profile</a></p>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="024f2270-a134-4e09-9dc2-53560d73d6b2" data-share-badge-host="https://www.credly.com" title="Certified Entry-Level Web Developer"></div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="edba2f8e-4231-40ad-94da-ebb485f11b39" data-share-badge-host="https://www.credly.com" title="[PCAP-31-03] Certified Associate Python Programmer"></div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a4c7a31b-526d-4c4c-9a73-5ca16778638e" data-share-badge-host="https://www.credly.com" title="Microsoft Office Specialist: Excel Associate (Office 2019)"></div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="32fca618-2952-4166-bf1a-48553c172cf5" data-share-badge-host="https://www.credly.com" title="[JSA-41-01] Certified Associate JavaScript Programmer"></div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a04ad6a-4339-42cd-bfab-c8993d1597b7" data-share-badge-host="https://www.credly.com" title="AWS Cloud Practitioner"></div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f1ed65d1-17b5-4320-813a-3f78abd3374f" data-share-badge-host="https://www.credly.com" title="Microsoft Azure Fundamentals"></div>
-	<div class="badge">
-		<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=70F67C3148E9DBC4C9A7CBCB8FBB4EADFD01B1155C5AC0948EF34A46EDC8BEB9" alt="Oracle Certified Associate, Java SE 8 Programmer" title="Oracle Certified Associate, Java SE 8 Programmer">
-		<img width="210" height="105" src="./images/oracle_oca.png" /></a><p class="badge-name">Oracle Certified Associate Java SE 8</p><p class="badge-issuer">Issuer: Oracle</p>
-	</div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8d6ac4d0-b885-4291-a7a1-07e121e39b80" data-share-badge-host="https://www.credly.com" title="Oracle Java Foundations"></div>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b0f9a0b4-d0b1-4d01-80f1-0e1f66756573" data-share-badge-host="https://www.credly.com" title="APM Project Fundamentals"></div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="491cabbf-624d-4fd8-8240-862c69cc3d64" data-share-badge-host="https://www.credly.com" title="CompTIA A+"></div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="751f328d-0da4-4abb-be73-f6d3fe140a54" data-share-badge-host="https://www.credly.com" title="IT Specialist - Java"></div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ffa3357d-17bd-43b4-aeff-e862d2cc5cbc" data-share-badge-host="https://www.credly.com" title="IT Specialist - Python"></div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="569e831b-a6ca-4bfc-b185-01877d16a45c" data-share-badge-host="https://www.credly.com" title="IT Specialist - JavaScript"></div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="82c581df-184b-4aae-aacd-ab17613ab7d7" data-share-badge-host="https://www.credly.com" title="IT Specialist - Databases"></div>
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ceb6a40a-16b4-4fa9-bd92-a644d5e21e64" data-share-badge-host="https://www.credly.com" title="IT Specialist - HTML & CSS"></div>
-	<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
