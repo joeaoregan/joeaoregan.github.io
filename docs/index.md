@@ -12,6 +12,9 @@
 <div markdown="1" style="display: inline-block" title="View my Credly credentials">
 [:material-certificate-outline:](https://www.credly.com/users/joe-o-regan "View my Credly credentials"){ style="margin: 0 15px;" target="_blank"}
 </div>
+<div markdown="1" style="display: inline-block" title="GitHub Pages Home">
+[:simple-githubpages:](http://joeaoregan.github.io "GitHub Pages Home"){ style="margin: 0px 15px;" target="_blank"}
+</div>
 </div>
 
 [MSc in Software Design with Cloud Native Computing](college/2026-tus/index.md) student at Technological University of the Shannon, graduating in 2026, with 2 years of software development experience.
