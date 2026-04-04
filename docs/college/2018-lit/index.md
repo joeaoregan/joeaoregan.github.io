@@ -11,23 +11,23 @@
 
 #### Year 4
 
-- [Fourth-Year Project]()
+- [Fourth-Year Project](year4.md#fourth-year-project)
 
 Semester 2:
 
-- [Platform Digital Games Development]()
-- [Game Artificial Intelligence]()
-- [Graphics and Audio]()
-- [Distributed Algorithms]()
-- [Computers and Modern Culture]()
+- [Platform Digital Games Development](year4.md#platform-digital-games-development)
+- [Game Artificial Intelligence](year4.md#game-artificial-intelligence)
+- [Graphics and Audio](year4.md#graphics-and-audio)
+- [Distributed Algorithms](year4.md#distributed-algorithms)
+- [Computers and Modern Culture](year4.md#computers-and-modern-culture)
 
 Semester 1:
 
-- [Programming Digital Game Engines]()
-- [Networked Games]()
-- [Game Physics]()
-- [Concurrent Algorithms]()
-- [Software Project Management]()
+- [Programming Digital Game Engines](year4.md#programming-digital-game-engines)
+- [Networked Games](year4.md#networked-games)
+- [Game Physics](year4.md#game-physics)
+- [Concurrent Algorithms](year4.md#concurrent-algorithms)
+- [Software Project Management](year4.md#software-project-management)
 
 #### Year 3
 
