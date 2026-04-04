@@ -12,6 +12,8 @@ extra:
       link: https://github.com/joeaoregan
     - icon: material/certificate
       link: https://www.credly.com/users/joe-o-regan
+    - icon: simple/githubpages
+      link: https://joeaoregan.github.io/
 
 theme:
   name: material  

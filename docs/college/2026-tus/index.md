@@ -31,6 +31,7 @@
 
 #### Labs
 - <https://github.com/joeaoregan/TUS-26-MA-Labs>
+- <https://joeaoregan.github.io/TUS-26-MA-Labs/>
 
 ---
 
