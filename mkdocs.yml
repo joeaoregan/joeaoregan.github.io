@@ -70,6 +70,7 @@ nav:
   - Projects: projects/index.md
   - Games: 
     - Overview: games/index.md
+    - Zombie Apocalypse: games/zombie-apocalypse.md
     - Antibody: games/antibody.md
   - Certificates: certification/index.md
   
