@@ -4,13 +4,16 @@
 
 ### Hospital Panic Game
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/XdH8niwd3Gg" title="Hospital Panic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="500" src="https://www.youtube.com/embed/XdH8niwd3Gg" title="Hospital Panic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>Hospital Panic - Digital Game Design CA</h6>
 
 2D top down game created using Construct 2 by Scirra:  
 - <https://github.com/joeaoregan/LIT-Yr2-DigitalGameDesign>
 
 ## Enterprise Application Development
+
+<iframe width="878" height="500" src="https://www.youtube.com/embed/6wLYdgpeXuo" title="2020-01-09 LIT Yr2 EAD CA - Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h6>LIT Yr2 EAD CA - Walkthrough</h6>
 
 Enterprise Application for an ICT in Education event
 
