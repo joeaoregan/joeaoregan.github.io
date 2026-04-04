@@ -2,18 +2,18 @@
 
 <h2 align="center">Joe O'Regan</h2>
 
-<div markdown="1" style="text-align: center; margin: 30px 0; font-size: 40px;">
-<div markdown="1" style="display: inline-block" title="Visit my GitHub profile">
+<div markdown="1" style="text-align: center; margin: 30px 0; font-size: 60px;">
+<div markdown="1" style="display: inline-block; vertical-align: middle;" title="Visit my GitHub profile">
 [:fontawesome-brands-github:](https://github.com/joeaoregan "Visit my GitHub profile"){ style="margin: 0 15px;" target="_blank"}
 </div>
-<div markdown="1" style="display: inline-block" title="Connect with me on LinkedIn">
+<div markdown="1" style="display: inline-block; vertical-align: middle;" title="Connect with me on LinkedIn">
 [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/joeaoregan/ "Connect with me on LinkedIn"){ style="margin: 0 15px;" target="_blank"}
 </div>
-<div markdown="1" style="display: inline-block" title="View my Credly credentials">
-[:material-certificate-outline:](https://www.credly.com/users/joe-o-regan "View my Credly credentials"){ style="margin: 0 15px;" target="_blank"}
+<div markdown="1" style="display: inline-block; vertical-align: middle;" title="View my Credly credentials">
+[:material-certificate-outline:](https://www.credly.com/users/joe-o-regan "View my Credly credentials"){ style="margin: 0 15px; font-size: 1.1em;" target="_blank"}
 </div>
-<div markdown="1" style="display: inline-block" title="GitHub Pages Home">
-[:simple-githubpages:](http://joeaoregan.github.io "GitHub Pages Home"){ style="margin: 0px 15px;" target="_blank"}
+<div markdown="1" style="display: inline-block; vertical-align: middle;" title="GitHub Pages Home">
+[:simple-githubpages:](http://joeaoregan.github.io "GitHub Pages Home"){ style="margin: 0px 15px; font-size: 2.25em;" target="_blank"}
 </div>
 </div>
 

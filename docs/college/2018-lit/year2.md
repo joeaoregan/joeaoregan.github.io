@@ -80,9 +80,89 @@ Human Computer Interface Design App Inventor Apps
 
 - <https://github.com/joeaoregan/LIT-Yr2-HCID>
 
+
+<details closed>
+<summary><b>App 1 Gallery: </b>ICT Event Registeration APP<br/>
+<div style="height: 160px; overflow: hidden;">
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ca1-blocks.jpg" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ca2_20190208-195709.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ca3_20190208-195719.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ca4_20190208-195728.jpg" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ca5_20190208-195735.png" style="height: 160px; width: auto; object-fit: cover;"/>
+</div>
+<p>Click here for larger images.</p>
+</summary>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ca1-blocks.jpg" title=""/>
+<h6>App Inventor Code Blocks, CA ICT Event</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ca2_20190208-195709.png" title="HCID App"/>
+<h6>App CA ICT Event Menu</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ca3_20190208-195719.png" title="HCID App"/>
+<h6>App CA ICT Event Speakers</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ca4_20190208-195728.jpg" title="HCID App"/>
+<h6>App CA ICT Event Schedule</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ca5_20190208-195735.png" title="HCID App"/>
+<h6>App CA ICT Event Register</h6>
+</details>
+
+<details closed>
+<summary><b>App 2 Gallery: </b>Flick Tower Defense APP<br/>
+<div style="height: 160px; overflow: hidden;">
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd1-blocks.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd2_20170328-215013.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd3_20170328-215246.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd4_20170328-215249.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd5_20170328-215255.png" style="height: 160px; width: auto; object-fit: cover;"/>
+</div>
+<p>Click here for larger images.</p>
+</summary>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd1-blocks.png" title="HCID App"/>
+<h6>App Inventor Code Blocks, Flick Tower Defence</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd2_20170328-215013.png" title="HCID App"/>
+<h6>Flick Tower Defence Menu</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd3_20170328-215246.png" title="HCID App"/>
+<h6>Flick Tower Defence Level 1</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd4_20170328-215249.png" title="HCID App"/>
+<h6>Flick Tower Defence Level 1</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd5_20170328-215255.png" title="HCID App"/>
+<h6>Flick Tower Defence Miss Target</h6>
+</details>
+
+<details closed>
+<summary><b>App 3 Gallery: </b>Where in the World APP<br/>
+<div style="height: 160px; overflow: hidden;">
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw1-blocks.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw2-menu_20170328-213135.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw3-game1_20170328-213142.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw4-game1_20170328-213147.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw5-game1_20170328-213151.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw6-game2_20170328-213201.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw7-game2_20170328-213206.png" style="height: 160px; width: auto; object-fit: cover;"/>
+</div>
+<p>Click here for larger images.</p>
+</summary>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw1-blocks.png" title="HCID App"/>
+<h6>App Inventor Code Blocks, Where In The World</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw2-menu_20170328-213135.png" title="HCID App"/>
+<h6>Where In The World Intro</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw3-game1_20170328-213142.png" title="HCID App"/>
+<h6>Where In The World Where Is?</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw4-game1_20170328-213147.png" title="HCID App"/>
+<h6>Where In The World Where Is?</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw5-game1_20170328-213151.png" title="HCID App"/>
+<h6>Where In The World Where Is?</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw6-game2_20170328-213201.png" title="HCID App"/>
+<h6>Where In The World True Or False</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw7-game2_20170328-213206.png" title="HCID App"/>
+<h6>Where In The World True Or False</h6>
+</details>
+
 ## Multimedia Technology
 
+Text, Images, Sound, Compression.
+
 ## Database Planning and Design
+
+Databases with MySQL.
 
 ## Statistics (Exempt)
 
