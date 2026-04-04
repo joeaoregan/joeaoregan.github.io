@@ -3,17 +3,17 @@
 Semester 2:
 
 - [Enterprise Application Development](#enterprise-application-development)
-- [Database Implementation](d#database-implementation)
-- [Data Structures](d#data-structures)
-- [Internetworking](d#internetworking)
-- [Microprocessor Systems](d#microprocessor-systems)
-- [Human Computer Interface Design](d#human-computer-interface-design)
+- [Database Implementation](#database-implementation)
+- [Data Structures](#data-structures)
+- [Internetworking](#internetworking)
+- [Microprocessor Systems](#microprocessor-systems)
+- [Human Computer Interface Design](#human-computer-interface-design)
 
 Semester 1:
 
-- [Digital Game Design](d#digital-game-design)
-- [Structured Programming](d#structured-programming)
-- [Object-Oriented Design](d#object-oriented-design)
+- [Digital Game Design](#digital-game-design)
+- [Structured Programming](#structured-programming)
+- [Object-Oriented Design](#object-oriented-design)
 - [Multimedia Technology](#multimedia-technology)
 - [Database Planning and Design](#database-planning-and-design)
 - [Statistics (Exempt)](#statistics-exempt)
@@ -43,6 +43,8 @@ Project using Java, Java Servlets, MySQL, JDBC, HTML, and CSS
 
 ## Database Implementation
 
+Database Implementation MySQL
+
 - <https://github.com/joeaoregan/LIT-Yr2-DatabaseImplementation>
 
 ## Object-Oriented Design
@@ -52,9 +54,13 @@ Labs:
 
 ## Data Structures
 
+Data Structures module CA Percolation and Colinear Points
+
 - <https://github.com/joeaoregan/LIT-Yr2-DataStructures>
 
 ## Internetworking
+
+Take Home Assignment for 2nd year Internetworking module of Games Design & Development - BSc (Honours) in Computing (Level 8) course. 2 Perl Client and Server socket applications
 
 - <https://github.com/joeaoregan/LIT-Yr2-Internetworking>
 
@@ -64,13 +70,20 @@ Labs:
 
 ## Microprocessor Systems
 
+Microprocessor Systems Labs, 68K Assembly Language
+
 - <https://github.com/joeaoregan/LIT-Yr2-MicroprocessorSystems>
 
 ## Human Computer Interface Design
 
+Human Computer Interface Design App Inventor Apps
+
 - <https://github.com/joeaoregan/LIT-Yr2-HCID>
 
-
 ## Multimedia Technology
+
 ## Database Planning and Design
+
 ## Statistics (Exempt)
+
+Exemption due to previous course.
