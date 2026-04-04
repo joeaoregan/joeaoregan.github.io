@@ -11,16 +11,61 @@
 
 #### Year 4
 
+- [Fourth-Year Project]()
+
+Semester 2:
+
+- [Platform Digital Games Development]()
+- [Game Artificial Intelligence]()
+- [Graphics and Audio]()
+- [Distributed Algorithms]()
+- [Computers and Modern Culture]()
+
+Semester 1:
+
+- [Programming Digital Game Engines]()
+- [Networked Games]()
+- [Game Physics]()
+- [Concurrent Algorithms]()
+- [Software Project Management]()
+
 #### Year 3
+
+- [Third-Year Group Project](year3.md#third-year-group-project)
+
+Semester 2:
+
+- [Advanced Digital Game Programming](year3.md#advanced-digital-game-programming)
+- [Artificial Intelligence](year3.md#artificial-intelligence)
+- [Embedded Systems](year3.md#embedded-systems)
+- [Software Security](year3.md#software-security)
+- [Project & Group Development](year3.md#project-group-development)
+- [Work Placement](year3.md#work-placement)
+
+Semester 1:
+
+- [Digital Game Programming](year3.md#digital-game-programming)
+- [Network Services & Apps](year3.md#network-services-apps)
+- [Algorithms](year3.md#algorithms)
+- [Computer Graphics](year3.md#computer-graphics)
+- [Professional Development](year3.md#professional-development)
 
 #### Year 2
 
-- [Digital Game Design](year2.md#digital-game-design)
+Semester 2:
+
 - [Enterprise Application Development](year2.md#enterprise-application-development)
 - [Database Implementation](year2.md#database-implementation)
-- [Object-Oriented Design](year2.md#object-oriented-design)
 - [Data Structures](year2.md#data-structures)
 - [Internetworking](year2.md#internetworking)
-- [Structured Programming](year2.md#structured-programming)
 - [Microprocessor Systems](year2.md#microprocessor-systems)
 - [Human Computer Interface Design](year2.md#human-computer-interface-design)
+
+Semester 1:
+
+- [Digital Game Design](year2.md#digital-game-design)
+- [Structured Programming](year2.md#structured-programming)
+- [Object-Oriented Design](year2.md#object-oriented-design)
+- Multimedia Technology
+- Database Planning and Design
+- Statistics (Exempt)

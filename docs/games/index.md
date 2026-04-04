@@ -23,9 +23,9 @@
 
 ### Raylib
 
-#### Antibody (v100,000,000,000)
+#### Antibody (v1,000,000)
 
-MSc in Games Design and Extended Reality, Software Engineering Continuous Assessment 1 game, using C++ and the RayLib framework.
+MSc in Games Design and Extended Reality, Software Engineering Continuous Assessment 1 game, recreated using C++ and the RayLib framework. I'm not sure how many times I've recreated the game exactly, so going with version 1,000,000.
 
 <iframe width="878" height="500" src="https://www.youtube.com/embed/wKo21QLUrA8" title="DKIT MSc Software Engineering CA1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>Software Engineering CA1 - C++, RayLib Game, 2022</h6>

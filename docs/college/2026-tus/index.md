@@ -64,3 +64,31 @@ AI Assisted Software Testing of Microservices Architecture CA 1 Spring Boot appl
 ### Applied Scripting
 
 - <https://github.com/joeaoregan/TUS-25-Applied-Scripting>
+
+<details closed>
+<summary>
+<div style="height: 100px; overflow: hidden;">
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/visualisation with matplotlib/plots/acre_fires_2016.png" style="height: 80px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/histogram.png" style="height: 80px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/iqr2.png" style="height: 80px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/piechart_gk_distribution_colours2.png" style="height: 80px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/visualisation with matplotlib/bar charts/amazon_hbar_chart.png" style="height: 80px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/visualisation with matplotlib/scatterplot/scatterplot_supercomputers2.png" style="height: 80px; width: auto; object-fit: cover;"/>
+</div>
+<p>Click here for larger images.</p>
+</summary>
+
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/visualisation with matplotlib/plots/acre_fires_2016.png" title="Line Graph" height="100"/>
+<h6>Line Graph</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/histogram.png" title="Histogram" height="100"/>
+<h6>Histogram</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/iqr2.png" title="Interquartile Range" height="100"/>
+<h6>Box Plot</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/piechart_gk_distribution_colours2.png" title="Pie Chart" height="100"/>
+<h6>Pie Chart</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/visualisation with matplotlib/bar charts/amazon_hbar_chart.png" title="Bar Chart" height="100"/>
+<h6>Bar Chart</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/visualisation with matplotlib/scatterplot/scatterplot_supercomputers2.png" title="Scatterplot" height="100"/>
+<h6>Scatterplot</h6>
+
+</details>
