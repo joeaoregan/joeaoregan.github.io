@@ -1,5 +1,23 @@
 # 2nd Year Projects
 
+Semester 2:
+
+- [Enterprise Application Development](#enterprise-application-development)
+- [Database Implementation](d#database-implementation)
+- [Data Structures](d#data-structures)
+- [Internetworking](d#internetworking)
+- [Microprocessor Systems](d#microprocessor-systems)
+- [Human Computer Interface Design](d#human-computer-interface-design)
+
+Semester 1:
+
+- [Digital Game Design](d#digital-game-design)
+- [Structured Programming](d#structured-programming)
+- [Object-Oriented Design](d#object-oriented-design)
+- [Multimedia Technology](#multimedia-technology)
+- [Database Planning and Design](#database-planning-and-design)
+- [Statistics (Exempt)](#statistics-exempt)
+
 ## Digital Game Design
 
 ### Hospital Panic Game
@@ -51,3 +69,8 @@ Labs:
 ## Human Computer Interface Design
 
 - <https://github.com/joeaoregan/LIT-Yr2-HCID>
+
+
+## Multimedia Technology
+## Database Planning and Design
+## Statistics (Exempt)

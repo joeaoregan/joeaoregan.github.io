@@ -31,12 +31,12 @@ Semester 1:
 
 ### Platform Digital Games Development
 
-Platform Game Development Cocos2d-x Space Game Assignment
+Platform Game Development Cocos2d-x Space Game Assignment, Space Quest
 
 - <https://github.com/joeaoregan/LIT-Yr4-PlatformGameDevelopment>
 
 <iframe width="864" height="493" src="https://www.youtube.com/embed/TVLTJW5FwQs" title="Space Quest Game Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<h6>Space Quest Game Trailer</h6>
+<h6>Space Quest Game Trailer, 2018</h6>
 
 <details closed>
 <summary>Game Play<br/>

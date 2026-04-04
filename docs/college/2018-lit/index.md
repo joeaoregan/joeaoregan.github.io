@@ -66,6 +66,6 @@ Semester 1:
 - [Digital Game Design](year2.md#digital-game-design)
 - [Structured Programming](year2.md#structured-programming)
 - [Object-Oriented Design](year2.md#object-oriented-design)
-- Multimedia Technology
-- Database Planning and Design
-- Statistics (Exempt)
+- [Multimedia Technology](year2.md#multimedia-technology)
+- [Database Planning and Design](year2.md#database-planning-and-design)
+- [Statistics (Exempt)](year2.md#statistics-exempt)
