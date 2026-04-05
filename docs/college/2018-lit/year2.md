@@ -62,12 +62,21 @@ Microprocessor Systems Labs, 68K Assembly Language
 <details closed>
 <summary><b>Microprossor Systems: </b>68K Assembly Language Pics<br/>
 <div style="height: 160px; overflow: hidden;">
+<img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Microprocessor-Systems-Labs/master/Screenshots/lab1.jpg" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Microprocessor-Systems-Labs/master/Screenshots/lab2.jpg" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Microprocessor-Systems-Labs/master/Screenshots/lab4.png" style="height: 160px; width: auto; object-fit: cover;"/>
 <img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Microprocessor-Systems-Labs/master/Screenshots/Lab5a.png" style="height: 160px; width: auto; object-fit: cover;"/>
 <img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Microprocessor-Systems-Labs/master/Screenshots/Lab5b.png" style="height: 160px; width: auto; object-fit: cover;"/>
 <img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Microprocessor-Systems-Labs/master/Screenshots/Lab6.png" style="height: 160px; width: auto; object-fit: cover;"/>
 </div>
 <p>Click here for larger images.</p>
 </summary>
+<img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Microprocessor-Systems-Labs/master/Screenshots/lab1.jpg" title="Lab1 Intro to 68K"/>
+<h6>Lab1 Intro to 68K</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Microprocessor-Systems-Labs/master/Screenshots/lab2.jpg" title="Lab2 Hello World"/>
+<h6>Lab2 Hello World</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Microprocessor-Systems-Labs/master/Screenshots/lab4.png" title="Lab4 Calculator"/>
+<h6>Lab4 Perform calculation</h6>
 <img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Microprocessor-Systems-Labs/master/Screenshots/Lab5a.png" title="Lab5 Hardware Switch Detect 1"/>
 <h6>Lab5 Hardware Switch Detect 1</h6>
 <img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Microprocessor-Systems-Labs/master/Screenshots/Lab5b.png" title="Lab5 Hardware Switch Detect 2"/>
@@ -173,7 +182,33 @@ Human Computer Interface Design App Inventor Apps
 
 ### Structured Programming
 
-- <https://github.com/joeaoregan/LIT-Yr2-Internetworking>
+- <https://github.com/joeaoregan/LIT-Yr2-StructuredProgramming>
+
+<details closed>
+<summary><b>Screenshots: </b>Structured Programming, C<br/>
+<div style="height: 160px; overflow: hidden;">
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S3-StructuredProgramming/master/Screenshots/ca1-1-TankGame.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S3-StructuredProgramming/master/Screenshots/ca1-2-RoofMeasurements.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S3-StructuredProgramming/master/Screenshots/ca2-hangman1.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S3-StructuredProgramming/master/Screenshots/TicTacToe1.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S3-StructuredProgramming/master/Screenshots/TicTacToe2.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S3-StructuredProgramming/master/Screenshots/TicTacToe3.png" style="height: 160px; width: auto; object-fit: cover;"/>
+</div>
+<p>Click here for larger images.</p>
+</summary>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S3-StructuredProgramming/master/Screenshots/ca1-1-TankGame.png" title="Tank Game"/>
+<h6>1. Structured Programming CA 1 - Tank Game</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S3-StructuredProgramming/master/Screenshots/ca1-2-RoofMeasurements.png" title="Roof Measurements"/>
+<h6>2. Structured Programming CA 1 - Roof Measurements</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S3-StructuredProgramming/master/Screenshots/ca2-hangman1.png" title="Structured Programming CA2: Hangman"/>
+<h6>3. Structured Programming CA 2: Hangman (Programmed in C)</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S3-StructuredProgramming/master/Screenshots/TicTacToe1.png" title="TicTacToe"/>
+<h6>4. TicTacToe console game</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S3-StructuredProgramming/master/Screenshots/TicTacToe2.png" title="TicTacToe Coloured Text"/>
+<h6>5. Added colour</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S3-StructuredProgramming/master/Screenshots/TicTacToe3.png" title="TicTacToe More Coloured Text"/>
+<h6>6. More coloured text</h6>
+</details>
 
 ### Object-Oriented Design
 
@@ -212,6 +247,6 @@ Text, Images, Sound, Compression.
 
 Databases with MySQL.
 
-### Statistics (Exempt)
+### Statistics
 
 Exemption due to previous course.
