@@ -43,6 +43,9 @@ Database Implementation MySQL
 
 ### Data Structures
 
+<iframe width="878" height="500" src="https://www.youtube.com/embed/fPXCmkkYTlY" title="Data Structures CA1 Percolation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h6>Data Structures CA1 Percolation - 1x1, 10x10, 20x20, and 50x50 grids</h6>
+
 Data Structures module CA Percolation and Colinear Points
 
 - <https://github.com/joeaoregan/LIT-Yr2-DataStructures>
