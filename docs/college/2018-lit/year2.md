@@ -53,6 +53,20 @@ Take Home Assignment for 2nd year Internetworking module of Games Design & Devel
 
 - <https://github.com/joeaoregan/LIT-Yr2-Internetworking>
 
+<details closed>
+<summary><b>Microprossor Systems: </b>68K Assembly Language Pics<br/>
+<div style="height: 160px; overflow: hidden;">
+<img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Internetworking-CA/master/Screenshots/ClientServer1.png" style="height: 160px; width: auto; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Internetworking-CA/master/Screenshots/ClientServer1.png" style="height: 160px; width: auto; object-fit: cover;"/>
+</div>
+<p>Click here for larger images.</p>
+</summary>
+<img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Internetworking-CA/master/Screenshots/ClientServer1.png" title="Client/Server 1"/>
+<h6>Client/Server 1</h6>
+<img src="https://raw.githubusercontent.com/joeaoregan/Yr2-Internetworking-CA/master/Screenshots/ClientServer1.png" title="Client/Server 2"/>
+<h6>Client/Server 2</h6>
+</details>
+
 ### Microprocessor Systems
 
 Microprocessor Systems Labs, 68K Assembly Language
