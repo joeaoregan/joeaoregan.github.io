@@ -68,4 +68,4 @@ Semester 1:
 - [Object-Oriented Design](year2.md#object-oriented-design)
 - [Multimedia Technology](year2.md#multimedia-technology)
 - [Database Planning and Design](year2.md#database-planning-and-design)
-- [Statistics (Exempt)](year2.md#statistics-exempt)
+- [Statistics (Exempt)](year2.md#statistics)
