@@ -46,6 +46,9 @@ Database Implementation MySQL
 <iframe width="878" height="500" src="https://www.youtube.com/embed/fPXCmkkYTlY" title="Data Structures CA1 Percolation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>Data Structures CA1 Percolation - 1x1, 10x10, 20x20, and 50x50 grids</h6>
 
+<iframe width="878" height="500" src="https://www.youtube.com/embed/wy8BMfAFjEQ" title="Data Structures CA2 Collinear Points" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h6>Data Structures CA2 Collinear Points - kw1260.txt, rs1423.txt, random152.txt, grid6x6.txt, horizontal50.txt, vertical25.txt, input10.txt</h6>
+
 Data Structures module CA Percolation and Colinear Points
 
 - <https://github.com/joeaoregan/LIT-Yr2-DataStructures>
