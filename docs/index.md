@@ -596,6 +596,9 @@ Click to expand the following sections:
 
 ## Other Projects
 
+<iframe width="878" height="500" src="https://www.youtube.com/embed/IHqwXBT4aNg" title="Vue SWAPI API App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h6>Star Wars API (SWAPI) App Demo</h6>
+
 <p class="note">Click to expand the following sections:</p>
 
 <details closed><summary><b>> Django / PostgreSQL Porfolio</b></summary>
@@ -754,3 +757,10 @@ Click to expand the following sections:
 	</div>
 </div>
 </details>
+
+## Misc
+
+### 3D Models
+
+<iframe width="878" height="500" src="https://www.youtube.com/embed/00Yxf08dXmM" title="1989 Batmobile Model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h6>1989 Batmobile - Textured</h6>

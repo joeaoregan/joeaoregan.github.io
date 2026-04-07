@@ -4,7 +4,7 @@
 
 ### Engineering Team Project
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/SVtUEn6-pmU" title="ETP Sumo, Traffic Simulator Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="500" src="https://www.youtube.com/embed/SVtUEn6-pmU" title="ETP Sumo, Traffic Simulator Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>ETP Sumo, Traffic Simulator Demonstration</h6>
 
 - <https://github.com/joeaoregan/TUS-26-ETP-AI-Traffic-Optimisation>
@@ -13,10 +13,10 @@
 
 ### Microservices Architecture
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/VXFKyfw5zmo" title="Guitar Strore API - Guitars Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="500" src="https://www.youtube.com/embed/VXFKyfw5zmo" title="Guitar Strore API - Guitars Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>Guitar Strore API - Guitars Demo</h6>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/z5adidLxAFg" title="Guitar Store API - Brands Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="500" src="https://www.youtube.com/embed/z5adidLxAFg" title="Guitar Store API - Brands Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>Guitar Store API - Brands Demo</h6>
 
 #### Continuous Assessment 1
@@ -37,7 +37,7 @@
 
 ### Continuous Build and Delivery
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/jyT-ziHCOLA" title="Continuous Build &amp; Delivery CA1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="500" src="https://www.youtube.com/embed/jyT-ziHCOLA" title="Continuous Build &amp; Delivery CA1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>Guitar Store RESTful API application Software Testing & Coverage Demo</h6>
 
 AI Assisted Software Testing of Microservices Architecture CA 1 Spring Boot application.
@@ -54,7 +54,7 @@ AI Assisted Software Testing of Microservices Architecture CA 1 Spring Boot appl
 
 ### Container Design and Deployment
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/QPC0n3RcKgY" title="Container Design &amp; Deployment CA1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="500" src="https://www.youtube.com/embed/QPC0n3RcKgY" title="Container Design &amp; Deployment CA1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>CA1 Auto Scaling & Load Balancing on AWS Demo</h6>
 
 - <https://github.com/joeaoregan/TUS-25-CDD-CA1-Deploying-Microservice>
@@ -91,5 +91,4 @@ AI Assisted Software Testing of Microservices Architecture CA 1 Spring Boot appl
 <h6>Bar Chart</h6>
 <img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/visualisation with matplotlib/scatterplot/scatterplot_supercomputers2.png" title="Scatterplot" height="100"/>
 <h6>Scatterplot</h6>
-
 </details>

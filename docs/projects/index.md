@@ -8,6 +8,7 @@
 <h6>Star Wars API (SWAPI) App Demo</h6>
 
 - [Repo](https://github.com/joeaoregan/vue-swapi-api-app)
+- [Vue SWAPI App on Render](https://vuejs-frontenddemo.onrender.com/#/)
 
 ## Python
 
@@ -17,7 +18,7 @@
 <h6>Django / PostgreSQL Project Portfolio project</h6>
 
 - [Repo](https://github.com/joeaoregan/Django-PostgreSQL-Portfolio)
-- [Django/PostgreSQL Portfolio Render App](https://django-postgresql-portfolio.onrender.com/)
+- [Django/PostgreSQL Portfolio App on Render](https://django-postgresql-portfolio.onrender.com/)
 
 ## React
 
