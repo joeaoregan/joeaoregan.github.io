@@ -14,6 +14,51 @@ Using MkDocs Material theme.
 
 Links, videos and working Web Apps
 
+## Setup (Local Development)
+
+### Prerequisites
+- Python 3.11+ (3.10+ should also work)
+- pip
+
+### Clone
+```bash
+git clone https://github.com/joeaoregan/joeaoregan.github.io.git
+cd joeaoregan.github.io
+```
+
+### Create & activate a virtual environment
+
+macOS / Linux:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+Windows (PowerShell):
+```powershell
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+```
+Note: If you have the Python Launcher installed, you can use `py -m venv .venv`.
+
+### Install dependencies
+```bash
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### Run locally
+```bash
+mkdocs serve
+```
+Then open: http://127.0.0.1:8000/
+
+### Build
+```bash
+mkdocs build
+```
+The static site outputs to the `site/` directory.
+
 ---
 
 <div align="center">
