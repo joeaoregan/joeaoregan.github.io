@@ -78,7 +78,10 @@ nav:
     - Overview: games/index.md
     - Zombie Apocalypse: games/zombie-apocalypse.md
     - Antibody: games/antibody.md
-  - 3D Models: 3d-models/index.md
+  - 3D Models: 
+    - Overview: 3d-models/index.md
+    - Maya: 3d-models/maya.md
+    - Blender: 3d-models/blender.md
   - Certificates: certification/index.md
   
 markdown_extensions:
