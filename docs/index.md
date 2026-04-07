@@ -1,8 +1,6 @@
-# Project Portfolio
+# Joe O'Regan | Projects
 
-<h2 align="center">Joe O'Regan</h2>
-
-<div markdown="1" style="text-align: center; margin: 30px 0; font-size: 60px;">
+<div markdown="1" style="text-align: center; margin: 1px 0; font-size: 50px;">
 <div markdown="1" style="display: inline-block; vertical-align: middle;" title="Visit my GitHub profile">
 [:fontawesome-brands-github:](https://github.com/joeaoregan "Visit my GitHub profile"){ style="margin: 0 15px;" target="_blank"}
 </div>
@@ -15,10 +13,10 @@
 <div markdown="1" style="display: inline-block; vertical-align: middle;" title="GitHub Pages Home">
 [:simple-githubpages:](http://joeaoregan.github.io "GitHub Pages Home"){ style="margin: 0px 15px; font-size: 2.25em;" target="_blank"}
 </div>
-<div markdown="1" style="display: inline-block; vertical-align: middle;" Artstation Profile">
+<div markdown="1" style="display: inline-block; vertical-align: middle;" title="Artstation Profile">
 [:simple-artstation:](https://www.artstation.com/joeaoregan "Artstation Profile"){ style="margin: 0px 15px; font-size: 1em;" target="_blank"}
 </div>
-<div markdown="1" style="display: inline-block; vertical-align: middle;" Sketchfab Profile">
+<div markdown="1" style="display: inline-block; vertical-align: middle;" title="Sketchfab Profile">
 [:simple-sketchfab:](https://www.sketchfab.com/joeoregan   "Sketchfab Profile"){ style="margin: 0px 15px; font-size: 1em;" target="_blank"}
 </div>
 </div>

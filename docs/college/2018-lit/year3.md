@@ -19,6 +19,10 @@ Semester 1:
 - [Computer Graphics](#computer-graphics)
 - [Professional Development](#professional-development)
 
+Additional:
+
+- [Mobile Application Development](#mobile-application-development)
+
 ## Third-Year Group Project
 
 Group project C++ game using SDL2 framework. Winner of Best Windows Game at Games Fleadh, 2017.
@@ -98,6 +102,7 @@ Program to solve the 8-puzzle problem using A* search algorithm
 
 - <https://github.com/joeaoregan/LIT-Yr3-ArtificialIntelligence>
 
+
 ### Embedded Systems
 
 Project working with Arduino shields, looking at how they communicate with the Arduino using SPI and I2C inteface. Simple 2D game implemented, using the Adafruit 2.8" TFT Touchscreen Shield.
@@ -130,17 +135,23 @@ Project working with Arduino shields, looking at how they communicate with the A
 
 </details>
 
+
 ### Software Security
 
 Software Security with Java programming.
 
+
 ### Project & Group Development
+
 
 Project module.
 
 ### Work Placement
 
 Summer work placement.
+
+---
+
 
 ## Semester 1
 
@@ -189,6 +200,7 @@ Digital Game Programming Principles, Year 3, Text Adventure Game C++.
 
 </details>
 
+
 ### Network Services & Apps
 
 Client and Server Sockets in C. Server receives request string from Client parses it, and returns a response.
@@ -200,6 +212,7 @@ Client and Server Sockets in C. Server receives request string from Client parse
 
 ![Server](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-NetworkServicesAndApplications-CA-C-Sockets/master/Screenshots/20161124-Server.png "Server")  
 **Server**
+
 
 ### Algorithms
 
@@ -215,13 +228,29 @@ CA: Travelling Salesman Problem
 ![Algorithms 50K](https://github.com/joeaoregan/LIT-Yr3-Algorithms/blob/master/Screenshots/50k.jpg?raw=true)  
 **Travelling Salesman Problem 500K**  
 
+
 ### Computer Graphics
+
+<div id="star1">
+    <canvas id="canvasMain"></canvas>
+    <script src="/scripts/P5.js"></script>
+    <script src="/scripts/CA-Edit.js"></script>
+</div>
 
 #### <img src="/images/processing.svg" alt="Processing Logo" width="16px" height="16px" title="Processing" /> Processing
 
 * [Big Foot 3D Scene](https://joeaoregan.github.io/LIT-Yr3-Graphics/)
 * [2D Scenes](https://joeaoregan.github.io/LIT-Yr3-Graphics/2d/)
+* [Repo](https://github.com/joeaoregan/LIT-Yr3-Graphics)
 
 ### Professional Development
 
 No projects.
+
+---
+
+## Mobile Application Development
+
+I sat through some of the labs to learn how to use Android.
+
+- <https://github.com/joeaoregan/LIT-Yr3-MobileAppDevelopment>
