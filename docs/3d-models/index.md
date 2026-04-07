@@ -3,7 +3,7 @@
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/joeaoregan "Artstation Profile")
 [![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/joeoregan)
 
-## 3D Content Creation
+## AutoDesk Maya
 
 3D Modelling, Texting, Rendering and Wrapping, using AutoDesk Maya, Substance Painter, and After Effects.
 
@@ -52,3 +52,16 @@
 
 <iframe width="878" height="500" src="https://www.youtube.com/embed/oMh35QBe_HQ" title="VFX Mouse with Wireframe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>VFX Mouse with Wireframe</h6>
+
+## FreeCAD
+
+Step and Obj files, mostly Electrical Engineering.
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Danger400v-30x30" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="878" height="500" src="https://sketchfab.com/models/cfb4b22682f749c6846cc757bdeeae3c/embed?autospin=1&autostart=1&preload=1&transparent=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/danger400v-30x30-cfb4b22682f749c6846cc757bdeeae3c?utm_medium=embed&utm_campaign=share-popup&utm_content=cfb4b22682f749c6846cc757bdeeae3c" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Danger400v-30x30 </a> by <a href="https://sketchfab.com/joeoregan?utm_medium=embed&utm_campaign=share-popup&utm_content=cfb4b22682f749c6846cc757bdeeae3c" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Joe </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=cfb4b22682f749c6846cc757bdeeae3c" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+## Blender
+
+### Still Life Scene
+
+<div class="sketchfab-embed-wrapper"> <iframe title="CA1 Still Life" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="878" height="500" src="https://sketchfab.com/models/a6d95fa711424ad08d629d25501d0288/embed?autospin=1&autostart=1&preload=1&transparent=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/ca1-still-life-a6d95fa711424ad08d629d25501d0288?utm_medium=embed&utm_campaign=share-popup&utm_content=a6d95fa711424ad08d629d25501d0288" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> CA1 Still Life </a> by <a href="https://sketchfab.com/joeoregan?utm_medium=embed&utm_campaign=share-popup&utm_content=a6d95fa711424ad08d629d25501d0288" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Joe </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=a6d95fa711424ad08d629d25501d0288" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+<h6>DKIT - 3D Modelling CA1 - Still Life Scene</h6>
