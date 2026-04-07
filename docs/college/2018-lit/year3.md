@@ -242,6 +242,7 @@ CA: Travelling Salesman Problem
 * [Big Foot 3D Scene](https://joeaoregan.github.io/LIT-Yr3-Graphics/)
 * [2D Scenes](https://joeaoregan.github.io/LIT-Yr3-Graphics/2d/)
 * [Repo](https://github.com/joeaoregan/LIT-Yr3-Graphics)
+* [GitHub Pages Docs](https://joeaoregan.github.io/LIT-Yr3-Graphics/)
 
 ### Professional Development
 
