@@ -7,6 +7,8 @@
 <iframe width="878" height="500" src="https://www.youtube.com/embed/IHqwXBT4aNg" title="Vue SWAPI API App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>Star Wars API (SWAPI) App Demo</h6>
 
+- [Repo](https://github.com/joeaoregan/vue-swapi-api-app)
+
 ## Python
 
 ### Django / PostgreSQL Portfolio
@@ -14,7 +16,8 @@
 <iframe width="878" height="500" src="https://www.youtube.com/embed/9lGoAAfoc3k" title="Django PostgreSQL Portfolio Site" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>Django / PostgreSQL Project Portfolio project</h6>
 
-- [Django/PostgreSQL Portfolio](https://django-postgresql-portfolio.onrender.com/)
+- [Repo](https://github.com/joeaoregan/Django-PostgreSQL-Portfolio)
+- [Django/PostgreSQL Portfolio Render App](https://django-postgresql-portfolio.onrender.com/)
 
 ## React
 
@@ -40,7 +43,6 @@
 ### NASA APOD API App
 ### NASA Tech Transfer API App
 ### NASA APOD API App 2
-### Star Wars SWAPI API App
 ### Tic Tac Toe
 ### Todo List
 ### Full Stack React Project: Blog
