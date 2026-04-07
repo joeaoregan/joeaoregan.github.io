@@ -74,6 +74,7 @@ nav:
     - Overview: games/index.md
     - Zombie Apocalypse: games/zombie-apocalypse.md
     - Antibody: games/antibody.md
+  - 3D Models: 3d-models/index.md
   - Certificates: certification/index.md
   
 markdown_extensions:

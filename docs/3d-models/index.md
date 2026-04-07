@@ -1,6 +1,4 @@
-# Certificate in VFX for Movies, TV and Games
-
-Limerick Institute of Technology, level 9 online course I took during the pandemic.
+# 3D Models
 
 [Artstation Profile](https://joeaoregan.artstation.com/projects/YeYkRb)
 
