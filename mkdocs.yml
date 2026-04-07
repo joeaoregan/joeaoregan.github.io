@@ -15,7 +15,9 @@ extra:
     - icon: simple/githubpages
       link: https://joeaoregan.github.io/
     - icon: simple/artstation
-      link: https://joeaoregan.artstation.com/resume
+      link: https://www.artstation.com/joeaoregan
+    - icon: simple/sketchfab
+      link: https://www.sketchfab.com/joeoregan      
 
 theme:
   name: material  

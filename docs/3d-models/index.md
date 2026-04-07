@@ -1,6 +1,7 @@
 # 3D Models
 
-[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://joeaoregan.artstation.com/resume)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/joeaoregan "Artstation Profile")
+[![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/joeoregan)
 
 ## 3D Content Creation
 
