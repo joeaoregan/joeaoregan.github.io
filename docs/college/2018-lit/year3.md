@@ -233,7 +233,7 @@ CA: Travelling Salesman Problem
 
 <div id="star1">
     <canvas id="canvasMain"></canvas>
-    <script src="../../../scripts/P5.js"></script>
+    <script src="../../../scripts/p5.js"></script>
     <script src="../../../scripts/CA-Edit.js"></script>
 </div>
 
