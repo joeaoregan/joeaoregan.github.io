@@ -1,6 +1,6 @@
 # 3D Models
 
-[Artstation Profile](https://joeaoregan.artstation.com/projects/YeYkRb)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://joeaoregan.artstation.com/resume)
 
 ## 3D Content Creation
 

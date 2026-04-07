@@ -15,6 +15,9 @@
 <div markdown="1" style="display: inline-block; vertical-align: middle;" title="GitHub Pages Home">
 [:simple-githubpages:](http://joeaoregan.github.io "GitHub Pages Home"){ style="margin: 0px 15px; font-size: 2.25em;" target="_blank"}
 </div>
+<div markdown="1" style="display: inline-block; vertical-align: middle;" Artstation Profile">
+[:simple-artstation:](https://joeaoregan.artstation.com/resume "Artstation Profile"){ style="margin: 0px 15px; font-size: 1em;" target="_blank"}
+</div>
 </div>
 
 [MSc in Software Design with Cloud Native Computing](college/2026-tus/index.md) student at Technological University of the Shannon, graduating in 2026, with 2 years of software development experience.

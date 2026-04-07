@@ -14,6 +14,8 @@ extra:
       link: https://www.credly.com/users/joe-o-regan
     - icon: simple/githubpages
       link: https://joeaoregan.github.io/
+    - icon: simple/artstation
+      link: https://joeaoregan.artstation.com/resume
 
 theme:
   name: material  
