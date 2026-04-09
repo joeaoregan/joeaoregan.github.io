@@ -1,6 +1,9 @@
 site_name: Joe O'Regan | Project Portfolio
-docs_dir: docs
+site_description: A portfolio showcasing my projects, games, 3D models, and certifications.
+site_url: https://joeaoregan.github.io/
+site_author: Joe O'Regan
 site_dir: site
+docs_dir: docs
 
 copyright: Copyright &copy; 2026 Joe O'Regan
 
@@ -61,6 +64,14 @@ nav:
     - External Links:    
       - Linkedin: https://www.linkedin.com/in/joeaoregan/
       - GitHub: https://github.com/joeaoregan
+    - External Docs:
+      - TUS:
+        - AI Traffic Optimisation: https://joeaoregan.github.io/TUS-26-ETP-AI-Traffic-Optimisation/
+        - Guitar Store API: https://joeaoregan.github.io/TUS-26-MA-CA1-Guitar-Store-API/
+        - Microservices Labs: https://joeaoregan.github.io/TUS-26-MA-Labs/
+      - LIT:
+        - Data Structures: https://joeaoregan.github.io/LIT-Yr2-DataStructures/
+        - Graphics: https://joeaoregan.github.io/LIT-Yr3-Graphics/
   - 2026 TUS: college/2026-tus/index.md
   - College: 
     - Courses: college/index.md
@@ -107,5 +118,3 @@ markdown_extensions:
 
 repo_url: https://github.com/joeaoregan
 repo_name: GitHub
-
-site_url: https://joeaoregan.github.io/
