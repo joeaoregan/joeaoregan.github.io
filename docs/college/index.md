@@ -9,19 +9,34 @@ Highlights from different college courses over the last few year.
 <iframe width="878" height="500" src="https://www.youtube.com/embed/VXFKyfw5zmo" title="Guitar Strore API - Guitars Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>TUS, Microservices Architecture | Continuous Build and Delivery - Guitar Strore API - Guitars Demo</h6>
 
+---
+
 ### 2018 BSc Games Design and Development
 
 <iframe width="878" height="500" src="https://www.youtube.com/embed/_dguj7JG5aU" title="Antibody Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>LIT, Third-Year Group Project - Antibody, a C++, SDL2 game.</h6>
+
+---
 
 ### 2018 Certificate in Software Engineering
 
 <iframe width="878" height="500" src="https://www.youtube.com/embed/GXxJcnGdWsE" title="JRBoating Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>AIT, CSE Team Project - Dynamic Webpage Assignment, JRBoating Clip</h6>
 
+---
+
 ### 2018 MSc in Applied Software Engineering 
 
+**Agile Design and Testing**
+
+- <https://joeaoregan.github.io/AIT-MSc-AgileDesignAndTesting/>  
+- <https://github.com/joeaoregan/AIT-MSc-AgileDesignAndTesting>
+
+---
+
 ### 2020 HDip in Computing in Cyber Security
+
+---
 
 ### 2021 Certificate in VFX for Movies, TV and Games
 
@@ -31,5 +46,7 @@ Highlights from different college courses over the last few year.
 
 <iframe width="878" height="500" src="https://www.youtube.com/embed/Q0Rn7ekrgrc" title="Joe O&#39;Regan - 3D Model - 1989 Batmobile" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>LIT, 3D Content Creation - 3D Model of the 1989 Batmobile created in Maya</h6>
+
+---
 
 ### 2022 MSc in Games Design and Extended Reality
