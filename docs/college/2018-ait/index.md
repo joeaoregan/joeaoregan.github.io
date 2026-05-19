@@ -7,6 +7,11 @@
 <iframe width="878" height="486" src="https://www.youtube.com/embed/GXxJcnGdWsE" title="JRBoating Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h6>CSE Team Project - Dynamic Webpage Assignment, JRBoating Clip</h6>
 
+#### Labs
+
+**Documentation**: <https://github.com/joeaoregan/AIT-CSE-TeamProject>  
+**GitHub**: <https://joeaoregan.github.io/AIT-CSE-TeamProject/>
+
 ### Java Fundamentals
 
 **Documentation**: <https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/>  
